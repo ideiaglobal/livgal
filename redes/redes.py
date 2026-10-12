@@ -5,12 +5,14 @@ Constrói duas redes de relações a partir da exportação JSON do Heurist
 de relação (relationships):
 
   Rede 1  prologuistas -> autores/as de livros individuais
-  Rede 2  autores/as de livros individuais -- editoras
+  Rede 2  autores/as de livros individuais -- editoras (pelo nome normalizado)
 
 Uso:
     python3 -I redes.py Export_livpoesia.json [pasta_saida]
 
 «Livro individual» = livro com exatamente uma pessoa no campo Autoria.
+Na rede 2, as editoras agrupam-se pelo campo «Nome normalizado», de modo que
+as variantes do mesmo selo contam como um só nó.
 
 Para cada rede escrevem-se quatro ficheiros:
   *_nos.csv                nós (Id, Label e atributos), para Gephi ou folha de cálculo
@@ -247,12 +249,25 @@ def main():
                   cab_nos1, nos1, cab_ar1, arestas1)
 
     # --- Rede 2: autores/as de livros individuais -- editoras -----------------
+    # as editoras agrupam-se pelo nome normalizado (ou pelo nome, se não o tiverem)
+    grupo_de, grupos = {}, defaultdict(lambda: {"ids": [], "inicio": [], "fim": [], "aberto": False})
+    for r in recs:
+        if r["rec_RecTypeName"] != "Editora":
+            continue
+        e = editora(r["rec_ID"])
+        chave = e["normalizado"] or e["nome"]
+        grupo_de[r["rec_ID"]] = chave
+        g = grupos[chave]
+        g["ids"].append(r["rec_ID"])
+        if e["inicio"] != "":
+            g["inicio"].append(e["inicio"])
+            g["fim"].append(e["fim"])
     por_livro2, pares2 = [], defaultdict(list)
     for lid in sorted(individuais, key=int):
         aid = livros[lid]["autores"][0]
-        for eid in livros[lid]["editoras"]:
-            por_livro2.append([f"P{aid}", f"E{eid}", pessoa(aid)["nome"], editora(eid)["nome"]] + linha_livro(lid))
-            pares2[(aid, eid)].append(lid)
+        for chave in sorted({grupo_de[eid] for eid in livros[lid]["editoras"]}):
+            por_livro2.append([f"P{aid}", f"E:{chave}", pessoa(aid)["nome"], chave] + linha_livro(lid))
+            pares2[(aid, chave)].append(lid)
     livros_autor = Counter(a for (a, e), ls in pares2.items() for _ in ls)
     livros_editora = Counter(e for (a, e), ls in pares2.items() for _ in ls)
     eds_autor = Counter(a for a, e in pares2)
@@ -262,21 +277,25 @@ def main():
         p = pessoa(aid)
         nos2.append([f"P{aid}", p["nome"], "Pessoa", aid, p["genero"], p["nasc"], p["morte"], "", "", "",
                      livros_autor[aid], eds_autor[aid]])
-    for eid in sorted({e for a, e in pares2}, key=int):
-        e = editora(eid)
-        nos2.append([f"E{eid}", e["nome"], "Editora", eid, "", "", "", e["normalizado"], e["inicio"], e["fim"],
-                     livros_editora[eid], auts_editora[eid]])
-    arestas2 = [[f"P{a}", f"E{e}", len(ls), "Undirected", min(livros[l]["ano"] for l in ls),
+    for chave in sorted({e for a, e in pares2}):
+        g = grupos[chave]
+        fins = [f for f in g["fim"] if f != ""]
+        nos2.append([f"E:{chave}", chave, "Editora", " | ".join(g["ids"]), "", "", "", len(g["ids"]),
+                     min(g["inicio"]) if g["inicio"] else "",
+                     max(fins) if fins and len(fins) == len(g["fim"]) else "",
+                     livros_editora[chave], auts_editora[chave]])
+    arestas2 = [[f"P{a}", f"E:{e}", len(ls), "Undirected", min(livros[l]["ano"] for l in ls),
                  max(livros[l]["ano"] for l in ls), " | ".join(ls)]
                 for (a, e), ls in sorted(pares2.items(), key=lambda x: -len(x[1]))]
-    cab_nos2 = ["Id", "Label", "Tipo", "H-ID", "Género", "Nascimento", "Morte", "Nome normalizado (editora)",
+    cab_nos2 = ["Id", "Label", "Tipo", "H-ID", "Género", "Nascimento", "Morte", "N.º de registos Editora",
                 "Início de atividade (editora)", "Fim de atividade (editora)", "Livros individuais",
                 "N.º de ligações distintas"]
     base = saida / "rede2-autores-editoras"
     escrever_csv(f"{base}_nos.csv", cab_nos2, nos2)
     escrever_csv(f"{base}_arestas.csv", cab_ar1, arestas2)
-    escrever_csv(f"{base}_arestas-por-livro.csv", ["Source", "Target", "Autor/a", "Editora"] + cab_livro, por_livro2)
-    escrever_gexf(f"{base}.gexf", "Autores/as de livros individuais e editoras", False,
+    escrever_csv(f"{base}_arestas-por-livro.csv",
+                 ["Source", "Target", "Autor/a", "Editora (nome normalizado)"] + cab_livro, por_livro2)
+    escrever_gexf(f"{base}.gexf", "Autores/as de livros individuais e editoras (nome normalizado)", False,
                   cab_nos2, nos2, cab_ar1, arestas2)
 
     # --- resumo ---------------------------------------------------------------

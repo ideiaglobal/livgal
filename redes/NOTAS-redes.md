@@ -2,8 +2,8 @@
 
 Esclarecimentos metodológicos e dúvidas em aberto da operação que constrói duas redes de relações a partir da exportação `Export_livpoesia_20261012104901.json`, usando as associações diretas de autoria dos livros e os registos de relação (*relationships*).
 
-- Script: `redes.py`
-- Resultados: quatro ficheiros por rede (`rede1-prologuistas-autores…` e `rede2-autores-editoras…`)
+- Scripts: `redes.py` (ficheiros de exportação) e `redes_html.py` com `redes_modelo.html` (página interativa)
+- Resultados: quatro ficheiros por rede (`rede1-prologuistas-autores…` e `rede2-autores-editoras…`) e a página `redes.html`
 
 ## O que foi pedido
 
@@ -91,14 +91,15 @@ Origem do papel nos 344 prólogos:
 
 - Uma ligação une o autor ou a autora de um livro individual à editora desse livro. É uma rede bipartida, não dirigida.
 - O peso é o número de livros. Um livro coeditado gera uma ligação com cada editora.
-- Cada registo Editora é um nó. Os identificadores levam um prefixo (`P` para pessoas, `E` para editoras) para não colidirem; o H-ID original vai numa coluna.
+- As editoras agrupam-se pelo campo «Nome normalizado» do próprio JSON, de modo que as variantes do mesmo selo são um só nó (os 37 registos da Xunta de Galicia, por exemplo). Uma editora sem nome normalizado fica com o seu nome.
+- Os identificadores levam um prefixo (`P` para pessoas, `E:` para editoras) para não colidirem. Nas pessoas, a coluna «H-ID» traz o identificador do registo; nas editoras, traz os H-ID de todos os registos agrupados.
 
 | | |
 |---|---|
 | Pessoas | 1091 |
-| Editoras | 567 |
-| Ligações | 2077 |
-| Pares livro-editora | 2640 |
+| Editoras (nomes normalizados) | 417, a partir de 567 registos |
+| Ligações | 2055 |
+| Pares livro-editora | 2637 |
 
 ### Ficheiros
 
@@ -111,7 +112,19 @@ Origem do papel nos 344 prólogos:
 
 Os CSV usam as colunas `Id`, `Label`, `Source`, `Target` e `Weight`, que o Gephi reconhece na importação.
 
-### Como visualizar
+### Página interativa
+
+`redes.html` abre-se diretamente no navegador, sem instalar nada e sem ligação à internet: os dados e a disposição dos nós vão dentro do ficheiro.
+
+- **Separadores:** uma rede de cada vez.
+- **Filtros:** intervalo de anos, só livros com uma etiqueta, excluir livros com uma etiqueta, excluir traduções e mínimo de livros por ligação. Os filtros aplicam-se aos livros; as ligações e o tamanho dos nós recalculam-se.
+- **Exploração:** arrastar para mover, roda do rato para aproximar, passar o rato para ver o nome, clicar num nó para ver no painel lateral as suas ligações e os livros de cada uma. A caixa «Procurar» leva a um nome.
+- **Cores:** na rede 1, prologuista, autor/a prologado/a e quem tem os dois papéis; na rede 2, pessoa e editora. Na rede 1 as cores recalculam-se com os filtros.
+- **Disposição:** calculada uma vez por `redes_html.py` (algoritmo de forças, ao estilo do ForceAtlas 2) e fixa; os filtros escondem ligações mas não mudam as posições.
+
+Para atualizar a página com uma nova exportação, corre-se `python3 redes_html.py <export.json> .` (demora cerca de meio minuto).
+
+### Como visualizar no Gephi
 
 No Gephi: abrir o `.gexf`; na vista geral, aplicar a disposição ForceAtlas 2; dimensionar os nós pelo grau (ou, na rede 1, pelos prólogos escritos ou recebidos). Na rede 2, colorir pelo atributo «Tipo» separa pessoas de editoras.
 
@@ -123,7 +136,7 @@ Para filtrar por ano, etiqueta ou tradução, parte-se do ficheiro `*_arestas-po
 - **A função lida no MARC não foi verificada caso a caso.** Assenta em padrões de texto; pode haver falsos positivos quando o nome aparece perto de um código que pertence a outra pessoa.
 - **Prólogos em livros coletivos ficam de fora.** São 126 prólogos identificados em livros sem autoria individual.
 - **Reedições pesam.** Os autores clássicos têm muitas ligações por serem reeditados: Rosalía de Castro recebe 14 prólogos e está ligada a 34 editoras. Não significa atividade no período.
-- **Autoedições.** Na rede 2, os registos Editora que são auto-edições ligam o autor a si próprio como editora.
+- **Auto-edições.** Com o nome normalizado, as 101 auto-edições ficam num só nó, «Edição de autor», ligado a 98 autores. É útil para ver quem se autoeditou, mas não é uma editora.
 - **Pessoas duplicadas.** Registos Pessoa repetidos aparecem como nós distintos (por exemplo «Carballeira, Johán» e «Gómez de la Cueva, José», ver `pessoas-datas/NOTAS-pessoas-busc.md`).
 
 ## Dúvidas em aberto
@@ -148,9 +161,9 @@ As 1448 relações por definir e as cerca de 400 funções de prologuista lidas 
 
 A mesma leitura dá ilustradores (586), editores literários (396) e tradutores (225). Podem construir-se redes equivalentes (por exemplo, tradutores e autores traduzidos).
 
-### 6. Editoras: registo ou nome normalizado
+### 6. Editoras: registo ou nome normalizado (resolvido)
 
-Cada registo Editora é um nó, pelo que as variantes do mesmo selo aparecem separadas (os departamentos da Xunta, por exemplo). Pode fundir-se pelo «Nome normalizado», como na análise de atividade editorial. Qual se prefere?
+Decidido: usa-se o nome normalizado, tanto nos ficheiros exportados como na página. Fica por decidir se o nó «Edição de autor» deve manter-se, ser excluído ou voltar a separar-se por autor.
 
 ### 7. Livros com duas pessoas em Autoria
 
@@ -160,6 +173,6 @@ Há 12 livros com duas pessoas no campo Autoria, que ficaram fora das duas redes
 
 Os 567 livros sem ninguém no campo Autoria têm 958 relações com a função «autor/a»; são na maioria coletivos. Ficam fora por definição, mas podiam dar uma terceira rede, de coautoria em volumes coletivos.
 
-### 9. Visualização
+### 9. Publicar a página
 
-Além dos ficheiros para o Gephi, pode fazer-se uma página HTML interativa com as duas redes, que se abre no navegador sem instalar nada, com filtros por ano e por etiqueta.
+A página `redes.html` pode ser servida pelo GitHub Pages a partir do repositório, o que daria um endereço público para a partilhar. Interessa?

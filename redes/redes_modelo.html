@@ -1,0 +1,319 @@
+<!doctype html>
+<html lang="pt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Redes de relações — Projeto Livro Galego</title>
+<style>
+  :root {
+    --fundo: #f9f9f7; --superficie: #fcfcfb; --tinta: #0b0b0b; --tinta2: #52514e; --mudo: #898781;
+    --linha: #e2e1dc; --aresta: rgba(82, 81, 78, .28); --aresta-forte: rgba(11, 11, 11, .75);
+    --c1: #2a78d6; --c2: #eb6834; --c3: #1baf7a; --anel: #fcfcfb;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --fundo: #0d0d0d; --superficie: #1a1a19; --tinta: #ffffff; --tinta2: #c3c2b7; --mudo: #898781;
+      --linha: #383835; --aresta: rgba(195, 194, 183, .22); --aresta-forte: rgba(255, 255, 255, .8);
+      --c1: #3987e5; --c2: #d95926; --c3: #199e70; --anel: #1a1a19;
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; margin: 0; }
+  body { background: var(--fundo); color: var(--tinta); font: 14px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif;
+         display: flex; flex-direction: column; }
+  header { padding: 12px 16px 8px; border-bottom: 1px solid var(--linha); background: var(--superficie); }
+  h1 { font-size: 17px; margin: 0 0 8px; font-weight: 650; }
+  .separadores { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
+  .separadores button { font: inherit; padding: 6px 12px; border: 1px solid var(--linha); border-radius: 6px;
+                        background: transparent; color: var(--tinta2); cursor: pointer; }
+  .separadores button[aria-selected="true"] { background: var(--tinta); color: var(--superficie); border-color: var(--tinta); }
+  .filtros { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: end; }
+  .filtros label { display: flex; flex-direction: column; gap: 2px; font-size: 12px; color: var(--tinta2); }
+  .filtros label.linha { flex-direction: row; align-items: center; gap: 6px; padding-bottom: 5px; }
+  input, select { font: inherit; color: var(--tinta); background: var(--superficie); border: 1px solid var(--linha);
+                  border-radius: 5px; padding: 4px 6px; }
+  input[type=number] { width: 74px; }
+  input[type=search] { width: 190px; }
+  main { flex: 1; display: flex; min-height: 0; }
+  #palco { flex: 1; position: relative; min-width: 0; background: var(--superficie); }
+  canvas { width: 100%; height: 100%; display: block; cursor: grab; touch-action: none; }
+  canvas.arrastar { cursor: grabbing; }
+  #dica { position: absolute; pointer-events: none; background: var(--tinta); color: var(--superficie); padding: 5px 8px;
+          border-radius: 5px; font-size: 12.5px; max-width: 280px; display: none; z-index: 2; }
+  #legenda { position: absolute; left: 12px; bottom: 12px; background: var(--superficie); border: 1px solid var(--linha);
+             border-radius: 6px; padding: 8px 10px; font-size: 12.5px; color: var(--tinta2); }
+  #legenda div { display: flex; align-items: center; gap: 7px; }
+  #legenda i { width: 11px; height: 11px; border-radius: 50%; display: inline-block; }
+  #contagem { position: absolute; right: 12px; top: 10px; font-size: 12.5px; color: var(--tinta2); text-align: right; }
+  aside { width: 340px; border-left: 1px solid var(--linha); background: var(--superficie); overflow: auto; padding: 14px 16px; }
+  aside h2 { font-size: 15px; margin: 0 0 2px; }
+  aside .meta { color: var(--tinta2); font-size: 12.5px; margin-bottom: 10px; }
+  aside h3 { font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--mudo); margin: 14px 0 4px; }
+  aside details { border-top: 1px solid var(--linha); padding: 5px 0; }
+  aside summary { cursor: pointer; }
+  aside summary b { font-weight: 600; }
+  aside ul { margin: 4px 0 2px; padding-left: 18px; color: var(--tinta2); font-size: 12.5px; }
+  aside .vazio { color: var(--tinta2); }
+  aside button.ligacao { font: inherit; background: none; border: none; color: var(--c1); padding: 0; cursor: pointer; text-align: left; }
+  @media (max-width: 820px) { main { flex-direction: column; } aside { width: auto; border-left: none; border-top: 1px solid var(--linha); max-height: 40%; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Redes de relações — poesia galega 2000-2019</h1>
+  <div class="separadores" role="tablist">
+    <button role="tab" data-rede="rede1" aria-selected="true">Prologuistas → autores/as</button>
+    <button role="tab" data-rede="rede2" aria-selected="false">Autores/as — editoras</button>
+  </div>
+  <div class="filtros">
+    <label>Ano desde <input type="number" id="anoMin"></label>
+    <label>Ano até <input type="number" id="anoMax"></label>
+    <label>Só livros com a etiqueta <select id="comEtiqueta"><option value="">(todas)</option></select></label>
+    <label>Excluir livros com a etiqueta <select id="semEtiqueta"><option value="">(nenhuma)</option></select></label>
+    <label>Mínimo de livros por ligação <input type="number" id="pesoMin" min="1" value="1"></label>
+    <label class="linha"><input type="checkbox" id="semTraducoes"> Excluir traduções</label>
+    <label>Procurar <input type="search" id="procura" list="nomes" placeholder="nome…"><datalist id="nomes"></datalist></label>
+  </div>
+</header>
+<main>
+  <div id="palco">
+    <canvas id="tela"></canvas>
+    <div id="dica"></div>
+    <div id="legenda"></div>
+    <div id="contagem"></div>
+  </div>
+  <aside id="painel"></aside>
+</main>
+<script>
+const DADOS = /*DADOS*/null;
+const $ = id => document.getElementById(id);
+const tela = $("tela"), ctx = tela.getContext("2d");
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const LEGENDAS = {
+  rede1: [["c1", "prologuista"], ["c2", "autor/a prologado/a"], ["c3", "ambos os papéis"]],
+  rede2: [["c1", "pessoa autora"], ["c2", "editora (nome normalizado)"]],
+};
+let rede = "rede1", vista = { k: 1, x: 0, y: 0 }, selecionado = null, pairado = null;
+let visiveis = [], arestas = [], grau = [], cor = [];
+
+// --- filtros -----------------------------------------------------------------
+const anos = DADOS.livros.map(l => l[2]).filter(Boolean);
+$("anoMin").value = Math.min(...anos); $("anoMax").value = Math.max(...anos);
+for (const sel of [$("comEtiqueta"), $("semEtiqueta")]) {
+  DADOS.etiquetas.map((e, i) => [e, i]).sort((a, b) => a[0].localeCompare(b[0])).forEach(([e, i]) => {
+    const o = document.createElement("option"); o.value = i; o.textContent = e; sel.appendChild(o);
+  });
+}
+
+function livroPassa(l) {
+  const a0 = +$("anoMin").value || 0, a1 = +$("anoMax").value || 9999;
+  if (l[2] < a0 || l[2] > a1) return false;
+  if ($("semTraducoes").checked && l[3]) return false;
+  const com = $("comEtiqueta").value, sem = $("semEtiqueta").value;
+  if (com !== "" && !l[4].includes(+com)) return false;
+  if (sem !== "" && l[4].includes(+sem)) return false;
+  return true;
+}
+
+function recalcular() {
+  const R = DADOS[rede], mapa = new Map();
+  for (const [o, d, li] of R.linhas) {
+    if (!livroPassa(DADOS.livros[li])) continue;
+    const ch = o + "|" + d;
+    if (!mapa.has(ch)) mapa.set(ch, { o, d, livros: [] });
+    mapa.get(ch).livros.push(li);
+  }
+  const pesoMin = Math.max(1, +$("pesoMin").value || 1);
+  arestas = [...mapa.values()].filter(a => a.livros.length >= pesoMin);
+  grau = new Array(R.nos.length).fill(0);
+  const sai = new Array(R.nos.length).fill(0), entra = new Array(R.nos.length).fill(0);
+  for (const a of arestas) { grau[a.o] += a.livros.length; grau[a.d] += a.livros.length; sai[a.o]++; entra[a.d]++; }
+  visiveis = R.nos.map((_, i) => i).filter(i => grau[i] > 0);
+  cor = R.nos.map((n, i) => rede === "rede2" ? (n.t === "e" ? "c2" : "c1") : (sai[i] && entra[i] ? "c3" : sai[i] ? "c1" : "c2"));
+  if (selecionado !== null && !grau[selecionado]) selecionado = null;
+  $("contagem").textContent = `${visiveis.length} nós · ${arestas.length} ligações · ` +
+    `${new Set(arestas.flatMap(a => a.livros)).size} livros`;
+  const dl = $("nomes"); dl.textContent = "";
+  visiveis.map(i => R.nos[i].n).sort((a, b) => a.localeCompare(b)).forEach(n => {
+    const o = document.createElement("option"); o.value = n; dl.appendChild(o);
+  });
+  painel(); desenhar();
+}
+
+// --- desenho -----------------------------------------------------------------
+const raio = i => 2.5 + 1.7 * Math.sqrt(grau[i]);
+const ecra = n => [n.x * vista.k + vista.x, n.y * vista.k + vista.y];
+
+function ajustar() {
+  const r = tela.getBoundingClientRect(), dpr = window.devicePixelRatio || 1;
+  tela.width = r.width * dpr; tela.height = r.height * dpr;
+  ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+}
+function centrar() {
+  const r = tela.getBoundingClientRect();
+  vista.k = Math.min(r.width, r.height) / 2150; vista.x = r.width / 2; vista.y = r.height / 2;
+}
+
+function desenhar() {
+  const R = DADOS[rede], r = tela.getBoundingClientRect();
+  ctx.clearRect(0, 0, r.width, r.height);
+  const vizinhos = new Set();
+  if (selecionado !== null) for (const a of arestas) {
+    if (a.o === selecionado) vizinhos.add(a.d); if (a.d === selecionado) vizinhos.add(a.o);
+  }
+  const foco = i => selecionado === null || i === selecionado || vizinhos.has(i);
+  // ligações
+  for (const passo of [0, 1]) for (const a of arestas) {
+    const forte = selecionado !== null && (a.o === selecionado || a.d === selecionado);
+    if (forte !== !!passo) continue;
+    const [x1, y1] = ecra(R.nos[a.o]), [x2, y2] = ecra(R.nos[a.d]);
+    ctx.strokeStyle = forte ? css("--aresta-forte") : css("--aresta");
+    ctx.globalAlpha = selecionado !== null && !forte ? .25 : 1;
+    ctx.lineWidth = Math.min(6, .6 + .7 * Math.sqrt(a.livros.length)) * (forte ? 1.4 : 1);
+    ctx.beginPath(); ctx.moveTo(x1, y1); ctx.lineTo(x2, y2); ctx.stroke();
+    if (rede === "rede1" && (forte || vista.k > .55)) seta(x1, y1, x2, y2, raio(a.d) * Math.max(.6, Math.min(vista.k, 1.6)));
+  }
+  ctx.globalAlpha = 1;
+  // nós
+  const escala = Math.max(.6, Math.min(vista.k, 1.6));
+  for (const i of visiveis) {
+    const [x, y] = ecra(R.nos[i]);
+    if (x < -40 || y < -40 || x > r.width + 40 || y > r.height + 40) continue;
+    ctx.globalAlpha = foco(i) ? 1 : .18;
+    ctx.beginPath(); ctx.arc(x, y, raio(i) * escala, 0, 7);
+    ctx.fillStyle = css("--" + cor[i]); ctx.fill();
+    ctx.lineWidth = i === selecionado || i === pairado ? 2.5 : 1;
+    ctx.strokeStyle = i === selecionado || i === pairado ? css("--tinta") : css("--anel"); ctx.stroke();
+  }
+  ctx.globalAlpha = 1;
+  // rótulos: os nós maiores, e sempre o selecionado, os vizinhos e o apontado
+  ctx.font = "12px system-ui, sans-serif"; ctx.textBaseline = "middle";
+  const ordem = [...visiveis].sort((a, b) => grau[b] - grau[a]);
+  const ocupados = [];
+  for (const [posicao, i] of ordem.entries()) {
+    const topo = selecionado === null && posicao < 12;
+    const obrig = i === selecionado || i === pairado || (selecionado !== null && vizinhos.has(i) && vizinhos.size <= 40);
+    if (!obrig && !topo && (selecionado !== null || raio(i) * escala * vista.k < 5.2)) continue;
+    const [x, y] = ecra(R.nos[i]);
+    if (x < 0 || y < 0 || x > r.width || y > r.height) continue;
+    const t = R.nos[i].n, w = ctx.measureText(t).width, cx = x + raio(i) * escala + 4;
+    const caixa = [cx, y - 7, cx + w, y + 7];
+    if (!obrig && ocupados.some(o => caixa[0] < o[2] && caixa[2] > o[0] && caixa[1] < o[3] && caixa[3] > o[1])) continue;
+    ocupados.push(caixa);
+    ctx.lineWidth = 3; ctx.strokeStyle = css("--superficie"); ctx.strokeText(t, cx, y);
+    ctx.fillStyle = css("--tinta"); ctx.fillText(t, cx, y);
+  }
+}
+function seta(x1, y1, x2, y2, afastamento) {
+  const ang = Math.atan2(y2 - y1, x2 - x1), px = x2 - Math.cos(ang) * (afastamento + 1), py = y2 - Math.sin(ang) * (afastamento + 1), t = 6;
+  ctx.fillStyle = ctx.strokeStyle; ctx.beginPath(); ctx.moveTo(px, py);
+  ctx.lineTo(px - t * Math.cos(ang - .4), py - t * Math.sin(ang - .4));
+  ctx.lineTo(px - t * Math.cos(ang + .4), py - t * Math.sin(ang + .4)); ctx.closePath(); ctx.fill();
+}
+
+// --- painel lateral ------------------------------------------------------------
+function el(tag, texto, classe) { const e = document.createElement(tag); if (texto) e.textContent = texto; if (classe) e.className = classe; return e; }
+function painel() {
+  const p = $("painel"), R = DADOS[rede]; p.textContent = "";
+  if (selecionado === null) {
+    p.appendChild(el("h2", rede === "rede1" ? "Prologuistas e autores/as" : "Autores/as e editoras"));
+    p.appendChild(el("p", rede === "rede1"
+      ? "Cada seta vai de quem escreve o prólogo para o autor ou a autora do livro. Só entram livros com uma única pessoa em Autoria."
+      : "Cada ligação une o autor ou a autora de um livro individual à editora que o publicou. As editoras estão agrupadas pelo nome normalizado.", "vazio"));
+    p.appendChild(el("p", "Clique num nó para ver as suas ligações e os livros. Arraste para mover, use a roda do rato para aproximar. O tamanho dos nós indica o número de livros.", "vazio"));
+    const topo = [...visiveis].sort((a, b) => grau[b] - grau[a]).slice(0, 12);
+    p.appendChild(el("h3", "Nós com mais livros (com os filtros atuais)"));
+    for (const i of topo) { const b = el("button", `${R.nos[i].n} (${grau[i]})`, "ligacao"); b.onclick = () => selecionar(i); const d = el("div"); d.appendChild(b); p.appendChild(d); }
+    return;
+  }
+  const n = R.nos[selecionado];
+  p.appendChild(el("h2", n.n));
+  const meta = [];
+  if (n.t === "e") meta.push("Editora");
+  else { meta.push("Pessoa"); if (n.g) meta.push(n.g === "Female" ? "mulher" : n.g === "Male" ? "homem" : n.g); if (n.a || n.m) meta.push(`${n.a || "?"}–${n.m || ""}`); }
+  p.appendChild(el("div", meta.join(" · "), "meta"));
+  const grupos = rede === "rede1"
+    ? [["Prólogos que escreveu, para", a => a.o === selecionado, a => a.d], ["Recebeu prólogo de", a => a.d === selecionado, a => a.o]]
+    : [[n.t === "e" ? "Autores/as publicados" : "Editoras onde publicou", a => a.o === selecionado || a.d === selecionado, a => a.o === selecionado ? a.d : a.o]];
+  for (const [titulo, filtro, outro] of grupos) {
+    const lista = arestas.filter(filtro).sort((a, b) => b.livros.length - a.livros.length);
+    if (!lista.length) continue;
+    p.appendChild(el("h3", `${titulo} (${lista.length})`));
+    for (const a of lista) {
+      const det = el("details"), sum = el("summary"), o = outro(a);
+      const b = el("b", R.nos[o].n); sum.appendChild(b); sum.appendChild(document.createTextNode(` — ${a.livros.length} livro${a.livros.length > 1 ? "s" : ""}`));
+      det.appendChild(sum);
+      const ul = el("ul");
+      for (const li of [...a.livros].sort((x, y) => DADOS.livros[x][2] - DADOS.livros[y][2])) {
+        const L = DADOS.livros[li]; ul.appendChild(el("li", `${L[1]} (${L[2]})${L[3] ? " · tradução" : ""}`));
+      }
+      det.appendChild(ul);
+      const ir = el("button", "ver este nó", "ligacao"); ir.onclick = () => selecionar(o); det.appendChild(ir);
+      p.appendChild(det);
+    }
+  }
+}
+function selecionar(i) { selecionado = i; painel(); desenhar(); }
+
+// --- interação ---------------------------------------------------------------
+function noEm(px, py) {
+  const R = DADOS[rede], escala = Math.max(.6, Math.min(vista.k, 1.6)); let melhor = null, dm = 1e9;
+  for (const i of visiveis) {
+    const [x, y] = ecra(R.nos[i]), d = Math.hypot(x - px, y - py) - raio(i) * escala;
+    if (d < 5 && d < dm) { dm = d; melhor = i; }
+  }
+  return melhor;
+}
+let arrasto = null;
+tela.addEventListener("pointerdown", e => { arrasto = { x: e.offsetX, y: e.offsetY, vx: vista.x, vy: vista.y, moveu: false }; tela.setPointerCapture(e.pointerId); });
+tela.addEventListener("pointermove", e => {
+  if (arrasto) {
+    const dx = e.offsetX - arrasto.x, dy = e.offsetY - arrasto.y;
+    if (Math.hypot(dx, dy) > 3) { arrasto.moveu = true; tela.classList.add("arrastar"); }
+    if (arrasto.moveu) { vista.x = arrasto.vx + dx; vista.y = arrasto.vy + dy; desenhar(); }
+    return;
+  }
+  const i = noEm(e.offsetX, e.offsetY), dica = $("dica");
+  if (i !== pairado) { pairado = i; desenhar(); }
+  if (i === null) { dica.style.display = "none"; return; }
+  const n = DADOS[rede].nos[i];
+  dica.textContent = `${n.n} — ${grau[i]} livro${grau[i] > 1 ? "s" : ""}`;
+  dica.style.display = "block";
+  dica.style.left = Math.min(e.offsetX + 14, tela.clientWidth - 200) + "px"; dica.style.top = e.offsetY + 14 + "px";
+});
+tela.addEventListener("pointerup", e => {
+  const a = arrasto; arrasto = null; tela.classList.remove("arrastar");
+  if (a && !a.moveu) { selecionado = noEm(e.offsetX, e.offsetY); painel(); desenhar(); }
+});
+tela.addEventListener("pointerleave", () => { pairado = null; $("dica").style.display = "none"; desenhar(); });
+tela.addEventListener("wheel", e => {
+  e.preventDefault();
+  const f = Math.exp(-e.deltaY * .0015), k = Math.max(.08, Math.min(12, vista.k * f));
+  vista.x = e.offsetX - (e.offsetX - vista.x) * (k / vista.k); vista.y = e.offsetY - (e.offsetY - vista.y) * (k / vista.k); vista.k = k;
+  desenhar();
+}, { passive: false });
+
+$("procura").addEventListener("change", e => {
+  const t = e.target.value.trim().toLowerCase(); if (!t) return;
+  const R = DADOS[rede], i = visiveis.find(i => R.nos[i].n.toLowerCase() === t) ?? visiveis.find(i => R.nos[i].n.toLowerCase().includes(t));
+  if (i === undefined) return;
+  const r = tela.getBoundingClientRect(); vista.k = Math.max(vista.k, 1.2);
+  vista.x = r.width / 2 - R.nos[i].x * vista.k; vista.y = r.height / 2 - R.nos[i].y * vista.k;
+  selecionar(i);
+});
+for (const id of ["anoMin", "anoMax", "comEtiqueta", "semEtiqueta", "pesoMin", "semTraducoes"]) $(id).addEventListener("input", recalcular);
+document.querySelectorAll("[data-rede]").forEach(b => b.addEventListener("click", () => {
+  rede = b.dataset.rede; selecionado = null; $("procura").value = "";
+  document.querySelectorAll("[data-rede]").forEach(x => x.setAttribute("aria-selected", x === b));
+  legenda(); centrar(); recalcular();
+}));
+function legenda() {
+  const l = $("legenda"); l.textContent = "";
+  for (const [c, t] of LEGENDAS[rede]) { const d = el("div"), i = el("i"); i.style.background = `var(--${c})`; d.appendChild(i); d.appendChild(document.createTextNode(t)); l.appendChild(d); }
+}
+window.addEventListener("resize", () => { ajustar(); desenhar(); });
+window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", desenhar);
+ajustar(); centrar(); legenda(); recalcular();
+</script>
+</body>
+</html>
