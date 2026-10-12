@@ -3,7 +3,7 @@
 
 Uso: python3 -I editoras_csv_ativas.py <export.json> <editoras.csv> <pasta_saida>
 
-O CSV (separador ';', latin-1) traz: Editora H-ID; Nome completo; Primeiro ano; Último ano.
+O CSV (separador ';', UTF-8) traz: Editora H-ID; Nome completo; Primeiro ano; Último ano.
 O H-ID corresponde ao rec_ID do registo Editora no JSON.
 
 Produz:
@@ -40,7 +40,7 @@ def carregar(json_path, csv_path):
                 anos[v["id"]].append(vals(r, F_ANO)[0])
 
     linhas = []
-    with open(csv_path, encoding="latin-1", newline="") as f:
+    with open(csv_path, encoding="utf-8-sig", newline="") as f:
         for hid, nome, ini, fim in list(csv.reader(f, delimiter=";"))[1:]:
             if not hid:
                 continue

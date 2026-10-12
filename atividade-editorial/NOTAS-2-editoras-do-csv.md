@@ -18,7 +18,7 @@ As editoras da planilha seguem dois critérios: terem publicado mais de 5 livros
 | Editoras no CSV | 84 |
 | Com «Último ano» preenchido | 30 |
 | Identificador de ligação | `Editora H-ID` do CSV = `rec_ID` do registo Editora no JSON |
-| Codificação do CSV | Latin-1 (ISO-8859-1), separador `;` |
+| Codificação do CSV | UTF-8 (convertido do original em Latin-1), separador `;` |
 
 ## Esclarecimentos: como foi calculado
 
