@@ -1,0 +1,1659 @@
+﻿Id,Label,Tipo,H-ID,Género,Nascimento,Morte,Nome normalizado (editora),Início de atividade (editora),Fim de atividade (editora),Livros individuais,N.º de ligações distintas
+P2772,"Momán Noval, Alberte",Pessoa,2772,Male,1976,,,,,9,8
+P2776,"Meyer, Franck",Pessoa,2776,Male,,,,,,3,3
+P2778,"Ramos, Baldo",Pessoa,2778,Male,1971,,,,,12,10
+P2786,"Álvarez Torneiro, Manuel",Pessoa,2786,Male,1932,2019,,,,10,6
+P2806,"Díaz, Avelino",Pessoa,2806,Male,,,,,,2,2
+P2812,"Alonso Montero, Xesús",Pessoa,2812,Male,1928,,,,,5,3
+P2816,"Rábade Villar, María do Cebreiro",Pessoa,2816,Female,1976,,,,,16,11
+P2820,"Aldrei, Iolanda",Pessoa,2820,Female,1968,,,,,2,2
+P2829,"Seoane, Luis",Pessoa,2829,Male,,,,,,4,3
+P2833,"Álvarez Cáccamo, Xosé María",Pessoa,2833,Male,1950,,,,,17,11
+P2834,"Vaqueiro Foxo, Vítor",Pessoa,2834,Male,1948,,,,,3,3
+P2836,"Carlos Villamarín, Helena de",Pessoa,2836,Female,1964,,,,,4,4
+P2840,"Muñoz Fernández, Carmen",Pessoa,2840,Female,,,,,,1,1
+P2843,"Reboredo, María Jesús",Pessoa,2843,Female,,,,,,1,1
+P2846,"Mestre, Juan Carlos",Pessoa,2846,Male,1957,,,,,1,1
+P2856,"Estévez López, José",Pessoa,2856,Male,1954,,,,,10,4
+P2860,"Castro, Rosalía de",Pessoa,2860,Female,1837,1885,,,,63,34
+P2865,"Vilar, Rafa",Pessoa,2865,Male,1968,,,,,8,7
+P2871,"Creus Andrade, Estevo",Pessoa,2871,Male,1971,,,,,6,6
+P2873,"Dacosta Alonso, Marta",Pessoa,2873,Female,1966,,,,,9,8
+P2875,"Espinosa Río, Estíbaliz",Pessoa,2875,Female,1974,,,,,6,6
+P2877,"Estévez, Eduardo",Pessoa,2877,Male,1969,,,,,10,9
+P2879,"Fernández Sanmartín, Celso",Pessoa,2879,Male,1969,,,,,3,3
+P2881,"Fraga, Modesto",Pessoa,2881,Male,1974,,,,,7,5
+P2884,"García-Bodaño, Salvador",Pessoa,2884,Male,1935,2023,,,,5,5
+P2886,"Gómez Pato, Raúl",Pessoa,2886,Male,1966,,,,,7,4
+P2888,"Lado, María",Pessoa,2888,Female,,,,,,8,7
+P2890,"Lavandeira, F.R.",Pessoa,2890,Male,1966,,,,,2,2
+P2892,"López Dobao, Xosé Antón",Pessoa,2892,Male,1963,,,,,2,2
+P2894,"López Marqués, Xabier",Pessoa,2894,Male,1959,,,,,8,5
+P2896,"López Rodríguez, Manuel",Pessoa,2896,Male,,,,,,2,2
+P2899,"Negro, Carlos",Pessoa,2899,Male,,,,,,10,5
+P2901,"Nerium, Alexandre",Pessoa,2901,Male,1960,,,,,4,3
+P2903,"Piñeiro, Antonio",Pessoa,2903,Male,,,,,,5,2
+P2905,"Rábade Paredes, Xesús",Pessoa,2905,Male,1949,,,,,6,5
+P2907,"Rabuñal, Henrique",Pessoa,2907,Male,1962,,,,,2,1
+P2910,"Riveiro Coello, Antón",Pessoa,2910,Male,1964,,,,,1,1
+P2912,"Bahamonde, Suso",Pessoa,2912,Male,1978,,,,,3,3
+P2914,"Seixas, Manuel",Pessoa,2914,Male,,,,,,1,1
+P2916,"Sende, Séchu",Pessoa,2916,Male,,,,,,2,1
+P2918,"Seoane Rivas, Xavier",Pessoa,2918,Male,1954,,,,,7,6
+P2920,"Souto, Francisco",Pessoa,2920,Male,1962,2017,,,,5,3
+P2922,"Teira Luaces, Manuel",Pessoa,2922,Male,,,,,,1,1
+P2924,"Valcárcel, Xulio L.",Pessoa,2924,Male,1953,,,,,10,4
+P2926,"Vázquez Pintor, Xosé",Pessoa,2926,Male,1946,,,,,4,3
+P2928,"Veiga Torre, Eva",Pessoa,2928,Female,1961,,,,,6,3
+P2930,"Villar Janeiro, Helena",Pessoa,2930,Female,1940,,,,,9,7
+P2932,"Villar, Miro",Pessoa,2932,Male,1965,,,,,3,3
+P2934,"Blanco Valdés, Juan L.",Pessoa,2934,Male,,,,,,2,2
+P2940,"Aleixandre, Marilar",Pessoa,2940,Female,1947,,,,,8,7
+P2954,"Díaz, Suso",Pessoa,2954,Male,,,,,,4,3
+P2960,"Sobral, Antón",Pessoa,2960,Male,1952,,,,,5,5
+P2982,"Vázquez Tierra, Antonio",Pessoa,2982,Male,,,,,,1,1
+P2986,"Araguas, Vicente",Pessoa,2986,Male,1950,,,,,7,5
+P2987,"Vilanova, Manuel",Pessoa,2987,Male,,,,,,6,4
+P2994,"Aguirre, Mirta",Pessoa,2994,Female,1912,1980,,,,1,1
+P2996,"Barreiro Calo, Ricardo",Pessoa,2996,Male,,,,,,2,2
+P3000,"Romero, Medos",Pessoa,3000,Male,1959,,,,,6,4
+P3008,"Souto Alcalde, David",Pessoa,3008,Male,1983,,,,,2,2
+P3013,"Villar Miranda, Cristina",Pessoa,3013,Female,,,,,,1,1
+P3016,"Lopo, Antón",Pessoa,3016,Male,1961,,,,,7,6
+P3019,"Wilde, Oscar",Pessoa,3019,Male,,,,,,1,1
+P3022,"Rivas, Manuel",Pessoa,3022,Male,,,,,,5,5
+P3027,"Blanco García, Carmen",Pessoa,3027,Female,1954,,,,,3,3
+P3028,"Rodríguez Fer, Claudio",Pessoa,3028,Male,1956,,,,,22,13
+P3030,"Xubín, Isaac",Pessoa,3030,Male,1978,,,,,2,2
+P3031,"Valle Regueiro, Luis",Pessoa,3031,Male,1977,,,,,9,5
+P3034,"Fernández Trigo, Ánxeles",Pessoa,3034,Female,,,,,,1,1
+P3038,"Mortis, Aldara",Pessoa,3038,Female,,,,,,1,1
+P3044,"Calvo, Miguel",Pessoa,3044,Male,,,,,,1,1
+P3047,"Vidal Pérez, Fidel",Pessoa,3047,Male,1942,,,,,1,1
+P3050,"López-Casanova, Arcadio",Pessoa,3050,Male,1942,2022,,,,11,7
+P3054,"Luna, Luis",Pessoa,3054,Male,,,,,,4,2
+P3055,"Carballo, Juan",Pessoa,3055,Male,,,,,,3,3
+P3060,"Curiel, Xoán",Pessoa,3060,Male,2000,,,,,2,1
+P3065,"Toxo, Xaime",Pessoa,3065,Male,1955,,,,,2,2
+P3069,"García, Xosé Lois",Pessoa,3069,Male,1945,,,,,16,7
+P3075,"Caride Ogando, Ramón",Pessoa,3075,Male,1957,,,,,4,4
+P3080,"Romero, Marga",Pessoa,3080,Female,1964,,,,,1,1
+P3081,"Morlán Vieites, Rosalía",Pessoa,3081,Female,1959,,,,,3,2
+P3088,"Parada Jato, Jesús Alfonso",Pessoa,3088,Male,,,,,,1,1
+P3090,"Novo, Olga",Pessoa,3090,Female,1975,,,,,4,3
+P3098,"Ulloa García, José Carlos",Pessoa,3098,Male,1967,,,,,1,1
+P3103,"Tejelo, Pura",Pessoa,3103,Female,1953,,,,,1,1
+P3104,Manuel María,Pessoa,3104,Male,1929,2004,,,,46,22
+P3108,"Araúxo, Emilio",Pessoa,3108,Male,1946,,,,,21,6
+P3109,"Royet-Journoud, Claude",Pessoa,3109,Male,1941,,,,,9,2
+P3111,"Neto, Ramón",Pessoa,3111,Male,1975,,,,,4,4
+P3117,"Vilela Fernández, Branca",Pessoa,3117,Female,1964,,,,,4,4
+P3120,"Herrero Valeiro, Mário João",Pessoa,3120,Male,,,,,,4,3
+P3125,"Boquete, Manuel",Pessoa,3125,Male,,,,,,1,1
+P3129,"Molina, César Antonio",Pessoa,3129,Male,1952,,,,,5,4
+P3131,"Pazos Garrido, Raquel",Pessoa,3131,Female,,,,,,1,1
+P3139,"Sánchez García, Gloria",Pessoa,3139,Female,1958,,,,,1,1
+P3140,"Borrás, Alicia",Pessoa,3140,Female,,,,,,1,1
+P3142,"Avilés de Taramancos, Antón",Pessoa,3142,Male,1935,1992,,,,13,8
+P3155,"Abeal, Xosé",Pessoa,3155,Male,1954,2018,,,,5,2
+P3156,"Alonso, Eliseo",Pessoa,3156,Male,1924,1996,,,,2,2
+P3159,"Dávila Fernández, Berta",Pessoa,3159,Female,1987,,,,,5,4
+P3163,"Pintos, Xoán Manuel",Pessoa,3163,Male,1811,1876,,,,7,5
+P3165,"Gómez, Lupe",Pessoa,3165,Female,,,,,,18,11
+P3167,"Eriksson, Helena",Pessoa,3167,Female,,,,,,6,1
+P3168,"Salgado, Daniel",Pessoa,3168,Male,,,,,,8,6
+P3177,"Corral Soilán, Cristina",Pessoa,3177,Female,1976,,,,,3,3
+P3182,"Lugrís Freire, Manuel",Pessoa,3182,Male,1863,1940,,,,2,2
+P3187,"Cacheiro Varela, Maximino",Pessoa,3187,Male,1943,2020,,,,6,3
+P3188,"Pereiras Gómez, Tomás Antón",Pessoa,3188,Male,,,,,,8,1
+P3191,"Fandiño, Luz",Pessoa,3191,Female,1931,2024,,,,7,2
+P3197,"Tabuyo Romero, Domingo M.",Pessoa,3197,Male,1959,,,,,4,4
+P3202,"Domínguez Alberte, Xoan Carlos",Pessoa,3202,Male,1966,,,,,8,6
+P3205,"Pérez Pérez, Lois Antón",Pessoa,3205,Male,,,,,,5,2
+P3210,"Abeleira, Xoán",Pessoa,3210,Male,1963,,,,,4,4
+P3216,"Torres, Ramiro",Pessoa,3216,Male,,,,,,1,1
+P3217,"Paz, Begoña",Pessoa,3217,Female,1965,,,,,1,1
+P3219,"Mera, Pilar",Pessoa,3219,Female,,,,,,1,1
+P3226,"Álvarez, Francisco",Pessoa,3226,Male,,,,,,2,2
+P3228,"Cibeira, Ana",Pessoa,3228,Female,1977,,,,,2,2
+P3234,"Moure, Anxo",Pessoa,3234,Male,1963,,,,,2,2
+P3235,"Vázquez, Pura",Pessoa,3235,Female,1918,2006,,,,2,2
+P3236,"Vázquez Fernández, Lois",Pessoa,3236,Male,,,,,,7,4
+P3241,"Blanco, Magín",Pessoa,3241,Male,1960,,,,,1,1
+P3247,"Pascual Carballo, Alberto",Pessoa,3247,Male,,,,,,1,1
+P3249,"Franco, Xesús",Pessoa,3249,Male,1943,,,,,4,4
+P3251,"Pan, Ronsel",Pessoa,3251,Female,1980,,,,,2,2
+P3253,"Sanches Arins, Susana",Pessoa,3253,Female,1974,,,,,4,4
+P3258,"Martínez-Conde, Ricardo",Pessoa,3258,Male,1949,,,,,5,3
+P3262,"Salceda, Pura",Pessoa,3262,Female,1961,,,,,1,1
+P3265,"Martínez Delgado, Verónica",Pessoa,3265,Female,1976,,,,,9,8
+P3274,"Vergara Vilariño, Fiz",Pessoa,3274,Male,1953,1997,,,,2,2
+P3277,"Hernanz, Beatriz",Pessoa,3277,Female,1963,,,,,1,1
+P3278,"García Teijeiro, Antonio",Pessoa,3278,Male,1952,,,,,28,10
+P3290,"Babarro González, Xoán",Pessoa,3290,Male,1947,,,,,5,5
+P3293,"Pociña, Andrés",Pessoa,3293,Male,1947,,,,,1,1
+P3296,"Pozo Garza, Luz",Pessoa,3296,Female,1922,2020,,,,12,8
+P3298,"González Prieto, Manuel",Pessoa,3298,Male,,,,,,1,1
+P3301,"Blanco Rivas, Manuel",Pessoa,3301,Male,,,,,,1,1
+P3313,"Mouriño, Miguel Anxo",Pessoa,3313,Male,1943,,,,,4,3
+P3316,"Iglesias Lamela, Xosé",Pessoa,3316,Male,1974,,,,,2,2
+P3320,"Fonte, Ramiro",Pessoa,3320,Male,1957,2008,,,,5,4
+P3321,"Rei Núñez, Luis",Pessoa,3321,Male,1958,,,,,3,2
+P3323,"Martínez Purriños, María Carmen",Pessoa,3323,Female,1978,,,,,1,1
+P3326,"Zapata García, Antón",Pessoa,3326,Male,1886,1953,,,,2,2
+P3327,"Lozano, Senén",Pessoa,3327,Male,,,,,,1,1
+P3334,"Loureiro, Ramón",Pessoa,3334,Male,1965,,,,,1,1
+P3335,"López López, Yolanda",Pessoa,3335,Female,1976,,,,,4,3
+P3337,"Castaño, Yolanda",Pessoa,3337,Female,1977,,,,,16,12
+P3341,"Brandão, Carlos Rodrigues",Pessoa,3341,Male,1940,,,,,1,1
+P3342,"Justicia, Antonio",Pessoa,3342,Male,,,,,,1,1
+P3346,"Alonso Ramos, Natalia",Pessoa,3346,Female,1983,,,,,1,1
+P3347,"Ramos Cuba, Laura",Pessoa,3347,Female,1993,,,,,1,1
+P3350,"López Rivera, Dulce María",Pessoa,3350,Female,,,,,,1,1
+P3351,"Quintía Pereira, Rafael",Pessoa,3351,Male,1971,,,,,1,1
+P3352,"Sánchez de Bustamante Toba, Antón",Pessoa,3352,Male,,,,,,3,1
+P3353,"Castro, Amauta",Pessoa,3353,Male,1981,,,,,2,2
+P3357,"Pensado, Suso",Pessoa,3357,Male,1971,,,,,1,1
+P3358,"Mosquera Camba, Xosé Luís",Pessoa,3358,Male,1961,,,,,4,3
+P3365,"Laredo Verdejo, Xosé Luís",Pessoa,3365,Male,,,,,,1,1
+P3366,"Iglesias Araujo, Bieito",Pessoa,3366,Male,,,,,,1,1
+P3368,"Parapar Lago, Marcos-Mariño",Pessoa,3368,Male,,,,,,1,1
+P3373,"Pavón, Mar",Pessoa,3373,Female,1968,,,,,2,1
+P3374,"Cordal Fustes, Xavier",Pessoa,3374,Male,,,,,,3,3
+P3379,"Rey López, Alfonso",Pessoa,3379,Male,1951,2015,,,,1,1
+P3381,"Hermo González, Gonzalo",Pessoa,3381,Male,1987,,,,,3,3
+P3389,"Iñarrea, Sabela B.,",Pessoa,3389,Female,,,,,,1,1
+P3391,"Curros Enríquez, Manuel",Pessoa,3391,Male,1851,1908,,,,14,10
+P3394,"Miranda, Xosé",Pessoa,3394,Male,1955,,,,,2,2
+P3397,"Pondal, Eduardo",Pessoa,3397,Male,1835,1917,,,,17,12
+P3399,"Kruckenberg, María do Carme",Pessoa,3399,Female,1926,2015,,,,9,4
+P3407,"Cortiñas Ansoar, Soraya",Pessoa,3407,Female,,,,,,1,1
+P3414,"Cano, Carles",Pessoa,3414,Male,,,,,,1,1
+P3417,"Ferreiro Real, Cristina",Pessoa,3417,Female,1983,,,,,3,3
+P3420,"Taibo García, Victoriano",Pessoa,3420,Male,1885,1966,,,,2,2
+P3421,"García, Xoán",Pessoa,3421,Male,,,,,,3,2
+P3425,"Campo, Marica",Pessoa,3425,Female,1948,,,,,5,4
+P3426,"Mosquera Paços, Adriám",Pessoa,3426,Male,,,,,,3,2
+P3429,"López Fernández, Carlos",Pessoa,3429,Male,,,,,,1,1
+P3432,"Vilanova Piñeiro, Luis Santiago",Pessoa,3432,Male,,,,,,1,1
+P3433,"Penela, Carlos",Pessoa,3433,Male,,,,,,5,5
+P3436,"Graña, Bernardino",Pessoa,3436,Male,1932,2025,,,,6,6
+P3437,"Ínsua López, Emílio Xosé",Pessoa,3437,Male,1967,,,,,1,1
+P3442,"Canosa Blanco, María",Pessoa,3442,Female,1978,,,,,5,4
+P3445,"Arias Rego, Xiana",Pessoa,3445,Female,1983,,,,,2,2
+P3446,"Baptista, Amadeu da Silva",Pessoa,3446,Male,,,,,,1,1
+P3447,"Sánchez Rodríguez, Mónica",Pessoa,3447,Female,1986,,,,,1,1
+P3449,"Castro, Claudia",Pessoa,3449,Female,,,,,,3,3
+P3453,"Carballido Pérez, José Antonio",Pessoa,3453,Male,,,,,,1,1
+P3456,"Antón Mandayo, Susana",Pessoa,3456,Female,,,,,,1,1
+P3459,"Fernán-Vello, Miguel Anxo",Pessoa,3459,Male,1958,,,,,10,7
+P3465,"Pintos López, Marisa",Pessoa,3465,Female,,,,,,1,1
+P3472,"Cabanillas, Ramón",Pessoa,3472,Male,1876,1959,,,,15,11
+P3474,"Ferradáns Ferradás, Míriam",Pessoa,3474,Female,1982,,,,,3,3
+P3476,"Quintiá Pérez, Xerardo",Pessoa,3476,Male,1970,,,,,4,3
+P3481,"Forcadela, Manuel",Pessoa,3481,Male,1958,,,,,5,4
+P3487,"Ledo Roca, Miguel",Pessoa,3487,Male,,,,,,1,1
+P3490,"Braxe, Lino",Pessoa,3490,Male,1962,2020,,,,5,3
+P3495,"Pereira Valcárcel, Manuel R.",Pessoa,3495,Male,1955,,,,,8,7
+P3499,"Muras, Xan G.",Pessoa,3499,Male,,,,,,1,1
+P3503,"Reboleiro González, Vicente",Pessoa,3503,Male,1957,,,,,3,2
+P3514,"Tannus, Sérgio",Pessoa,3514,Male,1967,,,,,1,1
+P3520,"Rodríguez Ferrer, Xosé",Pessoa,3520,Male,1946,,,,,4,3
+P3523,"Gómez Alfaro, Xosé Carlos",Pessoa,3523,Male,1949,2008,,,,9,5
+P3528,"González Sepúlveda, Paola",Pessoa,3528,Female,,,,,,1,1
+P3531,"Alonso Fernández, X. Alberte",Pessoa,3531,Male,,,,,,2,2
+P3544,"Afonso X, o Sábio",Pessoa,3544,Male,1221,1284,,,,12,8
+P3550,"González Tosar, Luis",Pessoa,3550,Male,1952,,,,,3,3
+P3553,"González, Alfredo",Pessoa,3553,Male,,,,,,1,1
+P3559,"Reixa, Antón",Pessoa,3559,Male,1957,,,,,5,5
+P3562,"Méndez Ferrín, Xosé Luís",Pessoa,3562,Male,1938,,,,,8,3
+P3566,"Domínguez Domínguez, María Magdalena",Pessoa,3566,Female,1922,2021,,,,3,2
+P3573,"Rubio, Antonio",Pessoa,3573,Male,,,,,,2,1
+P3574,"Ramil López, Manuel",Pessoa,3574,Male,,,,,,1,1
+P3576,"Galán Ortega, Xosé",Pessoa,3576,Male,,,,,,2,2
+P3578,"Vidal Caramés, Clementina",Pessoa,3578,Female,,,,,,3,2
+P3579,"Lema, Rafael",Pessoa,3579,Male,1967,,,,,3,2
+P3582,"Cunqueiro, Álvaro",Pessoa,3582,Male,1911,1981,,,,9,6
+P3585,"Barbosa Alvarez, José Manuel",Pessoa,3585,Male,1963,,,,,1,1
+P3592,"Marinhas del Valhe, Jenaro",Pessoa,3592,Male,1908,1999,,,,2,2
+P3597,"Heinze, Úrsula",Pessoa,3597,Female,1941,,,,,7,4
+P3599,"Neira Vilas, Xosé",Pessoa,3599,Male,1928,2015,,,,6,5
+P3600,"Cao Martínez, Camilo",Pessoa,3600,Male,1945,,,,,7,5
+P3601,"Zúñiga, Iolanda",Pessoa,3601,Female,1975,,,,,1,1
+P3602,"Penas, Ánxeles",Pessoa,3602,Female,1943,,,,,2,2
+P3609,"Pallarés, Pilar",Pessoa,3609,Female,1957,,,,,5,3
+P3613,"Queizán, María Xosé",Pessoa,3613,Female,1939,,,,,2,1
+P3615,"Romaní, Ana",Pessoa,3615,Female,1962,,,,,3,3
+P3621,"Garabana, Anxos",Pessoa,3621,Female,,,,,,1,1
+P3622,"Silva, Ana",Pessoa,3622,Female,,,,,,1,1
+P3625,"Vilar Millán, Paulo",Pessoa,3625,Male,,,,,,1,1
+P3630,"Ríos, Eli",Pessoa,3630,Female,1976,,,,,7,7
+P3632,"Rois Froján, Xosé",Pessoa,3632,Male,,,,,,1,1
+P3637,"Trillo, Xaime",Pessoa,3637,Male,,,,,,1,1
+P3640,"Cortizas Amado, Antón",Pessoa,3640,Male,1954,,,,,5,5
+P3642,"Boquete López, Ana",Pessoa,3642,Female,,,,,,1,1
+P3647,"Lobelle González, Rafael",Pessoa,3647,Male,,,,,,2,2
+P3649,"Nogueira, Arancha",Pessoa,3649,Female,1989,,,,,4,4
+P3653,"Laia, Antom",Pessoa,3653,Male,1956,,,,,3,3
+P3655,"Cardeiro, Miren J.",Pessoa,3655,Female,,,,,,1,1
+P3658,"Lourenzo Pérez, Manuel María",Pessoa,3658,Male,1943,2025,,,,1,1
+P3659,"Varela Puñal, Diana",Pessoa,3659,Female,1981,,,,,4,3
+P3660,"Lema, Carlos",Pessoa,3660,Male,1958,,,,,3,3
+P3668,"Monfadal, Luciano do",Pessoa,3668,Male,,,,,,1,1
+P3672,"Pedreira Lombardía, Emma",Pessoa,3672,Female,1978,,,,,11,7
+P3683,"Carvalho Calero, Ricardo",Pessoa,3683,Male,1910,1990,,,,2,2
+P3695,"Casas, Arturo",Pessoa,3695,Male,1958,,,,,1,1
+P3715,"Matalobos Cerceda, Manuel Celso",Pessoa,3715,Male,1959,,,,,2,1
+P3717,"Patiño Nogueira, Olga",Pessoa,3717,Female,2000,,,,,3,1
+P3726,"Crecente Vega, Xosé",Pessoa,3726,Male,1896,1948,,,,2,2
+P3728,"Díaz Castro, Xosé María",Pessoa,3728,Male,1914,1990,,,,11,8
+P3731,"Iglesia Alvariño, Aquilino",Pessoa,3731,Male,,,,,,1,1
+P3733,"Leiras Pulpeiro, Manuel",Pessoa,3733,Male,1854,1912,,,,3,2
+P3736,"Noriega Varela, Antonio",Pessoa,3736,Male,1869,1947,,,,2,1
+P3738,"Novoneyra, Uxío",Pessoa,3738,Male,1930,1999,,,,13,9
+P3748,"Casado, Xoán Manuel",Pessoa,3748,Male,1949,2002,,,,1,1
+P3762,"Guede Oliva, Manuel",Pessoa,3762,Male,,,,,,1,1
+P3765,"Lorenzo Baleirón, Eusebio",Pessoa,3765,Male,,,,,,1,1
+P3768,"Armada, Alfonso",Pessoa,3768,Male,,,,,,2,2
+P3774,"Rodríguez Baixeras, Xavier",Pessoa,3774,Male,1945,,,,,9,8
+P3777,"Sánchez Iglesias, Cesáreo",Pessoa,3777,Male,1951,,,,,9,7
+P3782,"Sesto Novás, Farruco",Pessoa,3782,Male,1943,,,,,1,1
+P3784,"Tovar, Antón",Pessoa,3784,Male,1921,2004,,,,4,4
+P3786,"Valcárcel, Xesús Manuel",Pessoa,3786,Male,1955,,,,,11,1
+P3789,"Vázquez Vázquez, Paulino",Pessoa,3789,Male,1962,,,,,1,1
+P3797,"Bonet, Blai",Pessoa,3797,Male,,,,,,1,1
+P3801,"Novas Garrido, Lucía",Pessoa,3801,Female,1979,,,,,3,2
+P3808,"Llompart, Josep M.",Pessoa,3808,Male,1925,1993,,,,1,1
+P3812,"Cabana, Darío Xohán",Pessoa,3812,Male,1952,2021,,,,2,2
+P3815,"Mariño Carou, María",Pessoa,3815,Female,1907,1967,,,,3,2
+P3816,"Martelo Paumán, Evaristo",Pessoa,3816,Male,1853,1928,,,,2,2
+P3824,"Pereiro, Lois",Pessoa,3824,Male,1958,1996,,,,6,4
+P3828,"Riera, Miquel Angel",Pessoa,3828,Male,1930,1996,,,,1,1
+P3832,"Rodríguez López, Manuel",Pessoa,3832,Male,,,,,,3,2
+P3839,"Álvarez Blázquez, Xosé María",Pessoa,3839,Male,1915,1985,,,,10,7
+P3842,"Angueira Viturro, Anxo",Pessoa,3842,Male,1961,,,,,1,1
+P3846,"Delgado Gurriarán, Florencio M.",Pessoa,3846,Male,1903,1987,,,,1,1
+P3850,"Ferreiro, Celso Emilio",Pessoa,3850,Male,1912,1979,,,,17,8
+P3853,"Mato Fondo, Miguel Anxo",Pessoa,3853,Male,1953,,,,,4,4
+P3857,"Paz-Andrade, Valentín",Pessoa,3857,Male,1898,1987,,,,3,3
+P3862,"Valle, Alejandro del",Pessoa,3862,Male,1909,1986,,,,1,1
+P3900,"Apollinaire, Guillaume",Pessoa,3900,Male,1880,1918,,,,2,2
+P3904,"Escobar Rodríguez, Óliver",Pessoa,3904,Male,1979,,,,,2,2
+P3906,"Pérez Rei, Mariña",Pessoa,3906,Female,1966,,,,,4,4
+P3910,"Cociña Lozano, Olalla",Pessoa,3910,Female,1979,,,,,9,7
+P3918,"Outeiriño, Manuel",Pessoa,3918,Male,1962,,,,,2,1
+P3921,"Rodríguez, Alfonso",Pessoa,3921,Male,,,,,,6,5
+P3923,"Otero Canto, Xosé",Pessoa,3923,Male,1951,,,,,10,7
+P3929,"Pato Cabanas, Miguel",Pessoa,3929,Male,1975,,,,,1,1
+P3940,"Vidal, Clara",Pessoa,3940,Female,,,,,,1,1
+P3942,"Vidal Alvarinho, Ramiro",Pessoa,3942,Male,1973,,,,,3,2
+P3956,"Ribeiro Tobío, Elvira",Pessoa,3956,Female,1971,,,,,8,8
+P3960,"Melo, Teresa",Pessoa,3960,Female,,,,,,1,1
+P3980,"Armesto Rodríguez, Jorge",Pessoa,3980,Male,1968,,,,,1,1
+P3981,"Cid, Xabier",Pessoa,3981,Male,,,,,,1,1
+P3994,"Fernandiz, Roi",Pessoa,3994,Male,,,,,,1,1
+P3998,"Lixó, Carlos",Pessoa,3998,Male,1991,,,,,1,1
+P4002,"Costas Currás, Xosé Daniel",Pessoa,4002,Male,1981,,,,,3,3
+P4003,"Millán Otero, Xosé M.",Pessoa,4003,Male,,,,,,1,1
+P4008,"Sarmiento, Martín",Pessoa,4008,Male,1695,1772,,,,5,4
+P4010,"Fraguas Fraguas, Antonio",Pessoa,4010,Male,1905,1999,,,,2,2
+P4012,"Otero Pedrayo, Ramón",Pessoa,4012,Male,1888,1976,,,,4,2
+P4015,"Riobó, Pedro P.",Pessoa,4015,Male,1959,,,,,1,1
+P4017,"Gómez Vilabella, Xosé María",Pessoa,4017,Male,1930,,,,,1,1
+P4028,"Salgueiro, Helena",Pessoa,4028,Female,,,,,,2,2
+P4031,"Pite Sanjurjo, Soledad",Pessoa,4031,Female,,,,,,2,1
+P4032,"Caramés Gorgal, María Carmen",Pessoa,4032,Female,1966,,,,,5,5
+P4033,"Vilariño Pose, Matilde",Pessoa,4033,Female,,,,,,1,1
+P4035,"Pereira González, Víctor Campio",Pessoa,4035,Male,1928,2018,,,,4,4
+P4036,"Vázquez Naval, Edelmiro",Pessoa,4036,Male,1949,,,,,2,2
+P4040,"Vidal Ponte, Roi",Pessoa,4040,Male,1982,,,,,3,2
+P4046,"Sanipolas, Antoine",Pessoa,4046,Male,,,,,,1,1
+P4050,"Raña Lama, Román",Pessoa,4050,Male,1960,,,,,4,4
+P4053,"Fernández Rodríguez, Leoncio",Pessoa,4053,Male,,,,,,1,1
+P4057,"Patiño, Antón",Pessoa,4057,Male,1957,,,,,2,2
+P4058,"Rielo Lamela, Pedro",Pessoa,4058,Male,1972,,,,,2,1
+P4061,Caíno,Pessoa,4061,Male,,,,,,1,1
+P4067,"Reimóndez, María",Pessoa,4067,Female,1975,,,,,5,3
+P4072,"Filgueira Valverde, José",Pessoa,4072,Male,,,,,,1,1
+P4079,"Xestoso, Manuel",Pessoa,4079,Male,1966,,,,,1,1
+P4085,"Lugrís, Urbano",Pessoa,4085,Male,,,,,,1,1
+P4087,"Varela, Lorenzo",Pessoa,4087,Male,,,,,,3,2
+P4093,"Penas Estévez, Silvia",Pessoa,4093,Female,1980,,,,,3,3
+P4158,"Varela Miño, Ana Belén",Pessoa,4158,Female,1978,,,,,2,2
+P4164,"Gándara Sánchez, Marisol",Pessoa,4164,Female,1981,,,,,1,1
+P4167,"Figueroa Panisse, Adela",Pessoa,4167,Female,1948,,,,,4,2
+P4170,"Frías Conde, Francisco Xavier",Pessoa,4170,Male,1965,,,,,11,5
+P4171,"Enríquez Noya, María Rosa",Pessoa,4171,Female,,,,,,5,4
+P4173,"Cid Fernández, Alba",Pessoa,4173,Female,1989,,,,,1,1
+P4174,"Callón, Carlos",Pessoa,4174,Male,1978,,,,,2,2
+P4178,"Vórtice, Alexander",Pessoa,4178,Male,1979,,,,,3,2
+P4182,"Armada Teixeiro, Ramón",Pessoa,4182,Male,1858,1920,,,,1,1
+P4185,"Tembrás, Dores",Pessoa,4185,Female,1979,,,,,3,2
+P4191,"Fraga López, Ramón",Pessoa,4191,Male,,,,,,1,1
+P4197,"Conde, Xosé",Pessoa,4197,Male,,,,,,1,1
+P4198,"Díaz García, Gumersindo",Pessoa,4198,Male,,,,,,2,1
+P4210,"Yáñez Jato, Rafael",Pessoa,4210,Male,,,,,,3,3
+P4213,"Nunes Vilar, José Manuel",Pessoa,4213,Male,,,,,,1,1
+P4227,"Veiga Copo, Abel B.",Pessoa,4227,Male,,,,,,2,1
+P4232,"Piñón Peón, Daniel",Pessoa,4232,Male,,,,,,1,1
+P4238,"Pato, Chus",Pessoa,4238,Female,1955,,,,,12,7
+P4239,"Naya Cajiao, Bruno",Pessoa,4239,Male,,,,,,1,1
+P4240,"Sierra López, Lyra",Pessoa,4240,Female,,,,,,1,1
+P4241,"Castro, Luísa",Pessoa,4241,Female,,,,,,2,2
+P4251,Martín Codax,Pessoa,4251,Male,,,,,,9,9
+P4253,"Pérez Rocha, Inma",Pessoa,4253,Female,,,,,,1,1
+P4261,"Fernández Naval, Francisco X.",Pessoa,4261,Male,1956,,,,,4,3
+P4264,"Baudelaire, Charles",Pessoa,4264,Male,,,,,,1,1
+P4265,"Portela Fernández, Elías",Pessoa,4265,Male,1981,,,,,5,3
+P4268,"Bilbao, Leire",Pessoa,4268,Female,1978,,,,,1,1
+P4271,"Barreiro, Paco",Pessoa,4271,Male,,,,,,1,1
+P4278,"Blanco Luis, Manuel",Pessoa,4278,Male,1959,,,,,1,1
+P4283,"Rivero Gallego, Carmen",Pessoa,4283,Female,1958,,,,,1,1
+P4288,"Placer, Antonio",Pessoa,4288,Male,,,,,,1,1
+P4291,"Fuentes Castro, Xoán",Pessoa,4291,Male,,,,,,2,1
+P4293,"Sixto García, José",Pessoa,4293,Male,1984,,,,,3,3
+P4296,"Nogueira, Ramón R.",Pessoa,4296,Male,,,,,,1,1
+P4305,"Darién, Juan",Pessoa,4305,Male,,,,,,1,1
+P4312,"Beiro, Pilar",Pessoa,4312,Female,1958,,,,,1,1
+P4321,"Pexegueiro, Alfonso",Pessoa,4321,Male,1948,,,,,4,4
+P4324,"Regueira, Mario",Pessoa,4324,Male,1979,,,,,4,3
+P4325,"Salinas Portugal, Francisco",Pessoa,4325,Male,1955,,,,,1,1
+P4330,"Tettamancy Gastón, Francisco",Pessoa,4330,Male,1854,1921,,,,2,1
+P4331,"Santos, José A.",Pessoa,4331,Male,,,,,,1,1
+P4332,"Andrés Padín, Tamara",Pessoa,4332,Female,1992,,,,,4,4
+P4344,"López Abente, Gonzalo",Pessoa,4344,Male,,,,,,2,2
+P4350,"Crespo, Celestino Luis",Pessoa,4350,Male,1913,1965,,,,2,1
+P4355,"Baldomir Cabanas, Xohán Xabier",Pessoa,4355,Male,1983,,,,,1,1
+P4358,"Alonso, Xurxo",Pessoa,4358,Male,1956,,,,,6,2
+P4361,"Nogueiras, Paco",Pessoa,4361,Male,1970,,,,,2,1
+P4363,"Maro, Publio Virgílio",Pessoa,4363,Male,0170,0119,,,,2,1
+P4367,"Lama, Xavier",Pessoa,4367,Male,1962,,,,,3,2
+P4375,"Ruibal, Euloxio R.",Pessoa,4375,Male,1945,,,,,2,1
+P4381,"Césaire, Aimé",Pessoa,4381,Male,1913,2008,,,,1,1
+P4383,"Campio Devesa Naveiro, Domingo",Pessoa,4383,Male,1823,1895,,,,1,1
+P4394,"Rodríguez Barrio, Xavier",Pessoa,4394,Male,1954,,,,,2,2
+P4397,"Parra Díaz, Celia",Pessoa,4397,Female,1990,,,,,3,2
+P4400,"Porto Mato, Andrea",Pessoa,4400,Male,1989,,,,,3,3
+P4408,"Nóvoa Vázquez, Rosa María",Pessoa,4408,Female,1975,,,,,2,2
+P4412,"Rodríguez Mosquera, Raida",Pessoa,4412,Female,1980,,,,,2,2
+P4422,"Díez Sanz, Begoña",Pessoa,4422,Female,,,,,,1,1
+P4429,"Anido Pedreira, Iria",Pessoa,4429,Female,,,,,,1,1
+P4434,"Rivas, Paco",Pessoa,4434,Male,,,,,,7,6
+P4436,"Monteagudo, Manel",Pessoa,4436,Male,1957,,,,,1,1
+P4438,"Rivadulla Conde, Xosé Henrique",Pessoa,4438,Male,1962,,,,,5,4
+P4439,"Caneiro Pérez, Xosé Carlos",Pessoa,4439,Male,1963,,,,,2,2
+P4441,"Rodríguez Gómez, Fernando",Pessoa,4441,Male,,,,,,2,2
+P4454,"Casas, Álvaro de las",Pessoa,4454,Male,1901,1950,,,,3,3
+P4459,"Petrarca, Francesco",Pessoa,4459,Male,1304,1374,,,,1,1
+P4476,"Martínez Dios, Rosa María",Pessoa,4476,Female,,,,,,1,1
+P4478,"Vaqueiro, Suso",Pessoa,4478,Male,,,,,,2,1
+P4479,"Xil Xardón, Xabier",Pessoa,4479,Male,1983,,,,,2,2
+P4498,"Vallecillo, Luis",Pessoa,4498,Male,,,,,,1,1
+P4510,"Correa Corredoira, Xabier",Pessoa,4510,Male,1952,,,,,3,2
+P4511,"Solla Varela, Carlos",Pessoa,4511,Male,1971,,,,,13,8
+P4515,"Cobas Mariño, Edita",Pessoa,4515,Female,,,,,,1,1
+P4544,"Dios Martínez, Manuel de",Pessoa,4544,Male,1930,2009,,,,1,1
+P4547,"Miranda, Anisia",Pessoa,4547,Female,1932,2009,,,,4,4
+P4548,"Pérez Parallé, Xosémaría",Pessoa,4548,Male,1909,1987,,,,2,1
+P4551,"Pita, Emilio",Pessoa,4551,Male,1907,1981,,,,2,1
+P4552,"González Vigo, Marcial",Pessoa,4552,Male,,,,,,1,1
+P4563,"Valente, José Ángel",Pessoa,4563,Male,1929,2000,,,,3,3
+P4570,"Ceremuzynska, Paulina",Pessoa,4570,Female,,,,,,1,1
+P4581,"Rañó Rodríguez, Jesús Faustino",Pessoa,4581,Male,,,,,,2,1
+P4591,"Sesto López, Xosé",Pessoa,4591,Male,1909,1998,,,,1,1
+P4595,"Agulla Pizcueta, Xoaquín",Pessoa,4595,Male,1956,,,,,1,1
+P4602,"Luna Sanmartín, Xosé",Pessoa,4602,Male,1965,,,,,5,5
+P4603,"Valladares Núñez, Marcial",Pessoa,4603,Male,1821,1903,,,,2,2
+P4614,"Amoedo Carballo, Hermenexildo",Pessoa,4614,Male,1747,1811,,,,1,1
+P4616,"Veiga Alonso, Martín",Pessoa,4616,Male,1970,,,,,3,3
+P4620,"Blanco, Concha",Pessoa,4620,Female,1950,,,,,5,5
+P4623,"Pereiras López, Xesús",Pessoa,4623,Male,1960,,,,,1,1
+P4625,"Carreiro Monteiro, José",Pessoa,4625,Male,,,,,,2,1
+P4628,"Novo, Isidro",Pessoa,4628,Male,1951,2018,,,,2,2
+P4629,"Calvo, J. Luís",Pessoa,4629,Male,,,,,,5,4
+P4632,"Piñón Pérez, Josefa",Pessoa,4632,Female,,,,,,1,1
+P4635,"Lautréamont, Isidore Ducasse",Pessoa,4635,Male,1846,1870,,,,1,1
+P4638,Tsángs-Dbyangs-Rgya-Mtsó.,Pessoa,4638,Male,,,,,,1,1
+P4640,Safo,Pessoa,4640,Female,0650,0570,,,,1,1
+P4653,"Tojo, Marga",Pessoa,4653,Female,2000,,,,,2,2
+P4656,"Cabada Álvarez, Anxo",Pessoa,4656,Male,1957,,,,,3,3
+P4660,"Souto, Oscar de",Pessoa,4660,Male,1980,,,,,1,1
+P4663,"Iglesias Míguez, Moncho",Pessoa,4663,Male,1974,,,,,2,2
+P4666,"Darwish, Mahmud",Pessoa,4666,Male,1941,2008,,,,1,1
+P4670,"González Fernández, Ana María",Pessoa,4670,Female,,,,,,1,1
+P4674,"Lago Barcala, Aleixandre",Pessoa,4674,Male,1992,,,,,1,1
+P4677,"Lema Mouzo, Xosé Manuel",Pessoa,4677,Male,1974,,,,,1,1
+P4683,"Suras, Alberte",Pessoa,4683,Female,1956,,,,,1,1
+P4689,"Couceiro, Emma",Pessoa,4689,Female,1977,,,,,1,1
+P4697,"Neves, Kiko",Pessoa,4697,Male,1969,,,,,1,1
+P4700,"Otero, Antía",Pessoa,4700,Female,1982,,,,,3,2
+P4703,"Arias, Xela",Pessoa,4703,Female,1962,2003,,,,2,2
+P4714,"Villalta, Luisa",Pessoa,4714,Female,1957,2004,,,,2,2
+P4720,"Caamaño, Adolfo",Pessoa,4720,Male,1959,,,,,1,1
+P4722,"Carballeira, Johán",Pessoa,4722,Male,1902,1937,,,,1,1
+P4724,"Calveiro, Marcos S.",Pessoa,4724,Male,1968,,,,,1,1
+P4725,"Silveiro, Héctor",Pessoa,4725,Male,1964,,,,,1,1
+P4727,"Fernandez y Morales, Antonio",Pessoa,4727,Male,,,,,,1,1
+P4729,"Herrera, Susa",Pessoa,4729,Female,,,,,,4,1
+P4733,"Martínez Castro, Moncho",Pessoa,4733,Male,,,,,,1,1
+P4736,"Pichel, Luz",Pessoa,4736,Female,1947,,,,,2,2
+P4740,"Varela, Xosé Manuel",Pessoa,4740,Male,,,,,,1,1
+P4749,"Millares Sall, José María",Pessoa,4749,Male,1921,2009,,,,2,2
+P4751,"Fernández Rial, Rosalía",Pessoa,4751,Female,1988,,,,,4,3
+P4762,"Lamas, María Xosé",Pessoa,4762,Female,1961,,,,,3,3
+P4766,"Balboa Toba, Antonio J.",Pessoa,4766,Male,,,,,,1,1
+P4770,"Martínez Méndez, Rosa",Pessoa,4770,Female,,,,,,2,1
+P4783,"Piñeiro González, Vicente",Pessoa,4783,Male,1954,,,,,2,1
+P4787,"Villamayor, Sindo",Pessoa,4787,Male,,,,,,1,1
+P4790,"Lour, Chus",Pessoa,4790,Female,,,,,,1,1
+P4793,"Lamas, Anxo",Pessoa,4793,Male,,,,,,2,2
+P4794,"Méndez, Oriana",Pessoa,4794,Female,1984,,,,,3,2
+P4808,"Caro Bernal, María Victoria",Pessoa,4808,Female,1960,,,,,1,1
+P4813,"Neira, Xoán",Pessoa,4813,Male,,,,,,5,2
+P4815,"Leobalde García, Mercedes",Pessoa,4815,Female,1967,,,,,1,1
+P4817,"Porto García, José",Pessoa,4817,Male,1943,2019,,,,1,1
+P4819,"Alonso, Rodolfo",Pessoa,4819,Male,1934,2021,,,,1,1
+P4820,"González Álvarez, Montse",Pessoa,4820,Female,1972,,,,,1,1
+P4822,"García Ferreiro, Alberto",Pessoa,4822,Male,1860,1902,,,,1,1
+P4827,"Alfaya, An",Pessoa,4827,Female,1964,,,,,2,2
+P4829,"Carballeira Cabana, Paula",Pessoa,4829,Female,1972,,,,,4,2
+P4836,"Costas, Ledicia",Pessoa,4836,Female,1979,,,,,1,1
+P4842,"Fernández, Ana María",Pessoa,4842,Female,,,,,,2,2
+P4860,"Vázquez Freire, Miguel",Pessoa,4860,Male,1951,,,,,2,1
+P4872,"Cernadas y Castro, Diego Antonio",Pessoa,4872,Male,1702,1777,,,,1,1
+P4879,"Yoldi Sanmartín, Montserrat",Pessoa,4879,Female,1964,,,,,2,2
+P4880,"Vázquez, María Isabel",Pessoa,4880,Female,,,,,,1,1
+P4886,"Vidal Caramés, María Dolores Aurora",Pessoa,4886,Female,1934,,,,,5,1
+P4887,"Dopazo Ruibal, Lara",Pessoa,4887,Female,1985,,,,,3,3
+P4889,"Andrade Ledo, César",Pessoa,4889,Male,,,,,,1,1
+P4890,"Fariña Jamardo, Xosé",Pessoa,4890,Male,1919,2008,,,,1,1
+P4893,"Martínez Pérez, Manuel",Pessoa,4893,Male,,,,,,1,1
+P4895,"Vadell i Vallbona, Pau",Pessoa,4895,Male,,,,,,1,1
+P4899,"Díaz, Pablo",Pessoa,4899,Male,,,,,,3,2
+P4903,"Soutelo Vázquez, María Neves",Pessoa,4903,Female,1982,,,,,4,4
+P4906,"Souto, Lorena",Pessoa,4906,Female,1983,,,,,2,2
+P4913,"Freymann, Saxton",Pessoa,4913,Male,1958,,,,,1,1
+P4914,"Pato, Claudio",Pessoa,4914,Male,1962,,,,,2,2
+P4922,Paco de Tano,Pessoa,4922,Male,1962,,,,,2,2
+P4929,"Valero Castells, Andrés",Pessoa,4929,Male,1973,,,,,1,1
+P4944,"Roel, Manuel",Pessoa,4944,Male,,,,,,1,1
+P4947,"Janeiro, Almudena",Pessoa,4947,Female,,,,,,2,2
+P4967,"Lameiras Vilanova, José",Pessoa,4967,Male,,,,,,1,1
+P4970,"Sánchez Moreiras, Miriam",Pessoa,4970,Female,1970,,,,,3,3
+P4971,"Pereiro, Belén",Pessoa,4971,Female,,,,,,1,1
+P5005,"Lemaire, Ria",Pessoa,5005,Female,,,,,,1,1
+P5015,"Suárez, Chelo",Pessoa,5015,Female,1945,,,,,1,1
+P5021,"Aldao, Lucía",Pessoa,5021,Female,1982,,,,,1,1
+P5022,"Nunes Brións, Andrea",Pessoa,5022,Male,1984,,,,,3,3
+P5024,"Sánchez Fraga, Francisco",Pessoa,5024,Male,,,,,,1,1
+P5027,"Pena, Xosé Ramón",Pessoa,5027,Male,,,,,,1,1
+P5029,"Pereira, Aureliano J.",Pessoa,5029,Male,1855,1906,,,,1,1
+P5033,"Caramés Cao, Xosé Antonio",Pessoa,5033,Male,,,,,,1,1
+P5037,"Couceiro Freijomil, Antonio",Pessoa,5037,Male,1888,1955,,,,1,1
+P5040,"Vrac, Antón",Pessoa,5040,Male,,,,,,5,1
+P5043,"Irimia Yáñez, Daniel",Pessoa,5043,Male,,,,,,1,1
+P5050,"Novoneyra, Branca",Pessoa,5050,Female,1976,,,,,2,2
+P5052,"Lema, Alberto",Pessoa,5052,Male,,,,,,3,2
+P5059,"Álvarez, Lorena",Pessoa,5059,Female,,,,,,1,1
+P5067,"Figueroa, Suevia",Pessoa,5067,Female,,,,,,1,1
+P5070,"Gende, Cristina",Pessoa,5070,Female,,,,,,1,1
+P5077,"López Regueiro, Arturo",Pessoa,5077,Male,1961,,,,,1,1
+P5083,"Castro Antonio, Ana",Pessoa,5083,Female,,,,,,1,1
+P5086,"Moure, Teresa",Pessoa,5086,Female,1969,,,,,2,2
+P5087,"Lugrís, Igor",Pessoa,5087,Male,1971,,,,,3,3
+P5088,"Lis Varela, Manuel de",Pessoa,5088,Male,1882,1970,,,,1,1
+P5093,"Cairo Antelo, Xosé M.",Pessoa,5093,Male,,,,,,1,1
+P5094,"Landesa, Daniel",Pessoa,5094,Male,1976,,,,,1,1
+P5097,"Garrido Castromán, Daniel",Pessoa,5097,Male,,,,,,1,1
+P5103,"Alem, Tamila",Pessoa,5103,Female,,,,,,1,1
+P5105,"Mora, Ricardo C.",Pessoa,5105,Male,,,,,,2,1
+P5117,"González Pérez, Brais",Pessoa,5117,Male,,,,,,1,1
+P5144,"Madriñán, Ángeles",Pessoa,5144,Female,,,,,,1,1
+P5154,Manoel Antonio,Pessoa,5154,Male,,,,,,14,11
+P5162,"Otero, Pablo",Pessoa,5162,Male,,,,,,1,1
+P5165,"Lopes, Charo",Pessoa,5165,Female,,,,,,1,1
+P5166,"Neira Cruz, Xosé Antonio",Pessoa,5166,Male,1968,,,,,1,1
+P5168,"Sampedro Martínez, Pilar",Pessoa,5168,Female,1955,,,,,1,1
+P5174,"Montero, Randi E.",Pessoa,5174,Male,,,,,,1,1
+P5177,"Corral, Xoán",Pessoa,5177,Male,,,,,,1,1
+P5187,"March, Kathleen N.",Pessoa,5187,Female,1949,,,,,1,1
+P5189,"Carro Padín, Valentina",Pessoa,5189,Female,1984,,,,,1,1
+P5191,"Diéguez, Lois",Pessoa,5191,Male,1944,,,,,1,1
+P5200,"Cascudo, Xosé Antón",Pessoa,5200,Male,1976,,,,,2,2
+P5205,"Sánchez Quintela, Xacobe",Pessoa,5205,Male,,,,,,2,2
+P5208,"Oroza, Jaime",Pessoa,5208,Male,,,,,,1,1
+P5233,"Cabada, Marcus Daniel",Pessoa,5233,Male,1995,,,,,1,1
+P5236,"Lueiro Rey, Manuel",Pessoa,5236,Male,1916,1990,,,,1,1
+P5242,"Berlai, Xiao",Pessoa,5242,Female,,,,,,1,1
+P5244,"Borrajo, Moncho",Pessoa,5244,Male,1949,,,,,2,2
+P5246,"Pita, Charo",Pessoa,5246,Female,1966,,,,,2,2
+P5255,"Dono, Maite",Pessoa,5255,Female,1969,,,,,2,2
+P5259,"Melkonian, Martin",Pessoa,5259,Male,,,,,,4,1
+P5265,"Fariña, Goretti",Pessoa,5265,Female,1965,,,,,3,3
+P5274,"Alonso Novelhe, Artur",Pessoa,5274,Male,,,,,,3,3
+P5279,"Quiroga Díaz, J. Carlos",Pessoa,5279,Male,,,,,,2,2
+P5284,"Rousia, Concha",Pessoa,5284,Female,1962,,,,,1,1
+P5290,"Barral, Daniel",Pessoa,5290,Male,1997,,,,,1,1
+P5295,"Rosendo Priego, María",Pessoa,5295,Female,1984,,,,,1,1
+P5300,"Álvarez, Reynaldo Valinho",Pessoa,5300,Male,1931,,,,,1,1
+P5311,"Dickinson, Emily",Pessoa,5311,Female,,,,,,2,2
+P5312,"Álvarez Lebredo, María Concepción",Pessoa,5312,Female,1970,,,,,2,2
+P5319,"Agrelo Martínez, Santiago",Pessoa,5319,Male,1942,,,,,1,1
+P5325,"Papasseit, Joan-Salvat",Pessoa,5325,Male,1894,1924,,,,1,1
+P5338,"Navaza, Gonzalo",Pessoa,5338,Male,1957,,,,,1,1
+P5353,"Cortiñas Bóveda, Rosa E.",Pessoa,5353,Female,,,,,,1,1
+P5355,"Ribadomar, Salvador",Pessoa,5355,Male,,,,,,1,1
+P5359,"Luengo y Miguel del Corral, Rubén",Pessoa,5359,Male,,,,,,1,1
+P5368,"Varela Pérez, Iñaki",Pessoa,5368,Male,1980,,,,,1,1
+P5370,"García Velasco, Gonzalo",Pessoa,5370,Male,,,,,,1,1
+P5380,"Lobato Martínez, José Manuel",Pessoa,5380,Male,,,,,,1,1
+P5421,"Risco, Vicente",Pessoa,5421,Male,,,,,,1,1
+P5433,"Iglesias Dobarrio, Baldomero",Pessoa,5433,Male,1951,,,,,4,4
+P5435,"Buhigas, Mon G.",Pessoa,5435,Male,1965,,,,,2,1
+P5445,"Terrafría, Martinho",Pessoa,5445,Male,,,,,,1,1
+P5458,"Arias, Carlos",Pessoa,5458,Male,,,,,,1,1
+P5461,"Becerra de Becerreá, Afonso",Pessoa,5461,Male,1973,,,,,1,1
+P5462,"Pillouër, Pierre le",Pessoa,5462,Male,1950,,,,,3,1
+P5478,"Alonso Carballeira, Xosé Alberte",Pessoa,5478,Male,,,,,,1,1
+P5490,"Rodríguez Ferreiros, Eva",Pessoa,5490,Female,,,,,,1,1
+P5492,"Marvoa Dalímia, Miguel",Pessoa,5492,Male,,,,,,1,1
+P5535,"Boán Rodríguez, Anxo",Pessoa,5535,Male,1961,,,,,1,1
+P5537,"Rubianes, Ángeles",Pessoa,5537,Female,,,,,,1,1
+P5542,"Díaz, Nicomedes Pastor",Pessoa,5542,Male,1811,1863,,,,6,4
+P5543,"Amar Sestayo, Ventura",Pessoa,5543,Male,,,,,,1,1
+P5548,"Bartolomé, Efraín",Pessoa,5548,Male,1950,,,,,1,1
+P5558,"Mora, Enrique",Pessoa,5558,Male,,,,,,1,1
+P5561,"Domínguez Rey, Antonio",Pessoa,5561,Male,1945,,,,,2,2
+P5570,"Rodríguez González, Eladio",Pessoa,5570,Male,,,,,,8,4
+P5580,"Afonso Esteves, Cecilia",Pessoa,5580,Female,,,,,,1,1
+P5581,"Rodríguez, Gabriela",Pessoa,5581,Female,,,,,,1,1
+P5583,"Torres, Xohana",Pessoa,5583,Female,1929,2017,,,,6,5
+P5590,"Moreno, María Victoria",Pessoa,5590,Female,1939,2005,,,,1,1
+P5595,"Rúa, Xosé Lois",Pessoa,5595,Male,1951,2025,,,,3,2
+P5597,"Perec, Georges",Pessoa,5597,Male,1936,1982,,,,1,1
+P5603,"Burgoa Fernández, Juan José",Pessoa,5603,Male,,,,,,2,1
+P5604,"Blanco Fernández, Ramón",Pessoa,5604,Male,1979,,,,,3,3
+P5606,"Paez, Afonso",Pessoa,5606,Male,,,,,,1,1
+P5612,"Li, Man",Pessoa,5612,Female,,,,,,1,1
+P5614,"Cerdido Pastor, André",Pessoa,5614,Male,,,,,,1,1
+P5617,"Borrazás, Antón",Pessoa,5617,Male,,,,,,1,1
+P5619,"Cambeiro Suárez, Manuel",Pessoa,5619,Male,,,,,,1,1
+P5632,"Canario, Goretti",Pessoa,5632,Female,,,,,,1,1
+P5634,"Maseda Lozano, Martiño",Pessoa,5634,Male,1970,,,,,3,3
+P5638,"Pazos, Juan Carlos",Pessoa,5638,Male,,,,,,1,1
+P5641,"Ramos, Segundo",Pessoa,5641,Male,,,,,,2,2
+P5645,"Franco Grande, Xosé Luis",Pessoa,5645,Male,1936,2020,,,,3,3
+P5649,"Arza Sánchez, Urbano",Pessoa,5649,Male,,,,,,2,2
+P5652,"Rosario, Jorge del",Pessoa,5652,Male,,,,,,1,1
+P5653,"Conde, Lorena",Pessoa,5653,Female,1980,,,,,1,1
+P5661,"Marqués Gil, Serafín",Pessoa,5661,Male,,,,,,4,3
+P5663,"Rey Romero, Faustino",Pessoa,5663,Male,1921,1971,,,,2,2
+P5669,"Álvarez Blázquez, Emilio",Pessoa,5669,Male,1919,1988,,,,1,1
+P5672,"Álvarez Cáccamo, Alfonso",Pessoa,5672,Male,1952,2024,,,,1,1
+P5674,"Álvarez Cáccamo, Celso",Pessoa,5674,Male,1958,,,,,1,1
+P5712,"Dapena, Maite S.",Pessoa,5712,Female,,,,,,1,1
+P5720,"Cressan, Alain",Pessoa,5720,Male,,,,,,2,1
+P5726,"Silva Méndez, Genaro da",Pessoa,5726,Male,1980,,,,,2,2
+P5731,"Martínez Vilas, Cruz",Pessoa,5731,Female,1960,,,,,2,2
+P5735,"García Salgado, Lino",Pessoa,5735,Male,1967,,,,,3,2
+P5737,"Escribano Lorenzo, Dara",Pessoa,5737,Female,,,,,,1,1
+P5738,"Lamas Carvajal, Valentín",Pessoa,5738,Male,1849,1906,,,,2,1
+P5739,"Barja, Celsa",Pessoa,5739,Female,1966,,,,,1,1
+P5755,"Piñeiro Cochón, Xoán Xosé",Pessoa,5755,Male,1958,,,,,1,1
+P5767,"Cadarso, Carmen",Pessoa,5767,Female,,,,,,1,1
+P5769,"Romón, Manuel María",Pessoa,5769,Male,1956,,,,,2,2
+P5771,"Álvarez Rodríguez, Miguel",Pessoa,5771,Male,1932,,,,,1,1
+P5777,"Abalde Covelo, Marcos",Pessoa,5777,Male,1982,,,,,2,2
+P5781,"Cid Neira, Xulio",Pessoa,5781,Male,,,,,,2,2
+P5785,"Bouza Brey, Fermín",Pessoa,5785,Male,,,,,,1,1
+P5786,"Cuña Novás, Manuel",Pessoa,5786,Male,1924,1992,,,,3,2
+P5787,"Vázquez Xil, Bernardo Miguel",Pessoa,5787,Male,1927,2016,,,,1,1
+P5797,"Pernas Nieto, Daniel",Pessoa,5797,Male,1884,1946,,,,1,1
+P5801,"Berrettoni Carrara, Marco",Pessoa,5801,Male,,,,,,1,1
+P5804,"Area Moreira, Josefa",Pessoa,5804,Female,,,,,,1,1
+P5808,"Fernández Rego, Odón",Pessoa,5808,Male,,,,,,1,1
+P5817,"Cousillas Novo, Diego",Pessoa,5817,Male,1980,,,,,1,1
+P5818,"Juncal, Jorge",Pessoa,5818,Male,,,,,,1,1
+P5823,"Paz Cernadas, Cristina",Pessoa,5823,Female,,,,,,1,1
+P5826,"Fernández Rodríguez, José Julio",Pessoa,5826,Male,,,,,,1,1
+P5833,"Guivarch, Cécile",Pessoa,5833,Female,1976,,,,,2,1
+P5834,"Prol, Santiago",Pessoa,5834,Male,1960,,,,,1,1
+P5838,"Nikonova, Rea",Pessoa,5838,Female,1942,2014,,,,2,1
+P5842,"Pereiro, María Luisa",Pessoa,5842,Female,,,,,,1,1
+P5848,"Dato Muruais, Filomena",Pessoa,5848,Female,1856,1926,,,,3,3
+P5853,"Paz, Xabier",Pessoa,5853,Male,1949,,,,,4,3
+P5854,"McMillan, Andrew",Pessoa,5854,Male,,,,,,1,1
+P5865,"Fernández Crespo, Iria",Pessoa,5865,Female,1982,,,,,1,1
+P5879,"Pérez Ballesteros, José M.",Pessoa,5879,Male,,,,,,2,2
+P5880,"Martínez Mosquera, María",Pessoa,5880,Female,,,,,,1,1
+P5920,"Somoza Barros, Ramón",Pessoa,5920,Male,,,,,,1,1
+P5923,"Lago Taboada, Rudesindo",Pessoa,5923,Male,,,,,,1,1
+P5925,"Medel Iglesias, Eladio",Pessoa,5925,Male,1973,,,,,1,1
+P5928,"Ferreirós Sánchez-Guisande, Cristina",Pessoa,5928,Female,,,,,,2,2
+P5930,"Bernárdez, Francisco Luis",Pessoa,5930,Male,1900,1978,,,,1,1
+P5948,"López Bermúdez, Ofelia",Pessoa,5948,Female,,,,,,1,1
+P5954,"Ramiro, Teresa",Pessoa,5954,Female,1958,,,,,1,1
+P5957,"Lovecraft, H. P.",Pessoa,5957,Male,1890,1937,,,,1,1
+P5981,"Ezez, Miguel",Pessoa,5981,Male,,,,,,2,1
+P5983,"Fresco Otero, Isabel",Pessoa,5983,Female,1958,,,,,2,1
+P5998,"González Graña, Fernando",Pessoa,5998,Male,,,,,,1,1
+P5999,"Queipo, Xavier",Pessoa,5999,Male,1957,,,,,5,5
+P6003,"Peña Álvarez, Paulino",Pessoa,6003,Male,1960,,,,,2,2
+P6004,"Junakovic, Svjetlan",Pessoa,6004,Male,1961,,,,,1,1
+P6009,"Corral Iglesias, José Alberte",Pessoa,6009,Male,1946,,,,,4,4
+P6020,"Ramos Castelo, Ismael",Pessoa,6020,Male,1994,,,,,3,3
+P6023,"Fernández Campos, Leonardo",Pessoa,6023,Male,1974,,,,,1,1
+P6024,"Silva García, Manuel",Pessoa,6024,Male,,,,,,4,2
+P6034,"Torres de Aboal, Germán Manuel",Pessoa,6034,Male,,,,,,1,1
+P6048,"Gener Galin, Pau",Pessoa,6048,Male,1977,,,,,1,1
+P6091,"Sande, Miguel",Pessoa,6091,Male,1961,,,,,2,2
+P6116,"Rosen, Michael",Pessoa,6116,Male,,,,,,1,1
+P6119,"Bouza Suárez, Pablo",Pessoa,6119,Male,1965,,,,,4,3
+P6120,"García López, Xoán Xosé",Pessoa,6120,Male,1970,,,,,2,2
+P6124,"Leira Castro, Rocío",Pessoa,6124,Female,1980,,,,,2,2
+P6127,"Zeller, Ludwig",Pessoa,6127,Male,,,,,,1,1
+P6128,"Lema París, Samuel",Pessoa,6128,Male,1984,,,,,1,1
+P6134,"Fernández Morgade, José Ramón",Pessoa,6134,Male,,,,,,1,1
+P6138,"Moral Gómez, Santiago del",Pessoa,6138,Male,1951,,,,,1,1
+P6143,"Torres Ferrer, Sabino",Pessoa,6143,Male,1924,2016,,,,2,2
+P6145,"Fabeiro Gómez, Manuel",Pessoa,6145,Male,1916,1992,,,,3,2
+P6151,"Campello García, Luz",Pessoa,6151,Female,1966,,,,,2,2
+P6169,"Traba Velay, Roberto X.",Pessoa,6169,Male,,,,,,1,1
+P6185,"Baltrusch Montero, Kai Lois",Pessoa,6185,Male,,,,,,1,1
+P6196,"Reigosa, Carlos G.",Pessoa,6196,Male,1948,,,,,1,1
+P6202,"Sacré, James",Pessoa,6202,Male,1939,,,,,6,1
+P6204,"López Méndez, José",Pessoa,6204,Male,,,,,,1,1
+P6209,"Rodríguez, David",Pessoa,6209,Male,,,,,,1,1
+P6210,"Murado, Miguel Anxo",Pessoa,6210,Male,1965,,,,,1,1
+P6214,"Cao Varela, Sara",Pessoa,6214,Female,,,,,,1,1
+P6216,"Vila, Ana",Pessoa,6216,Female,,,,,,3,1
+P6224,"Ferreiro Álvarez, José Elías",Pessoa,6224,Male,,,,,,1,1
+P6228,"Fernández da Ponte, José",Pessoa,6228,Male,,,,,,2,2
+P6243,"Lear, Edward",Pessoa,6243,Male,1812,1888,,,,1,1
+P6251,"Sobrino, Xosé Luis",Pessoa,6251,Male,,,,,,1,1
+P6255,"Martínez, Emilia",Pessoa,6255,Female,,,,,,1,1
+P6282,"Maseda Barrio, Pilar",Pessoa,6282,Female,,,,,,1,1
+P6301,"Abeledo, Carlos",Pessoa,6301,Male,1952,,,,,1,1
+P6303,"Suárez Aneiros, José Antonio",Pessoa,6303,Male,,,,,,1,1
+P6309,"Sisto Deibe, Marcelino",Pessoa,6309,Male,,,,,,1,1
+P6313,"Fernández Abella, Xoán Xosé",Pessoa,6313,Male,1933,2023,,,,4,2
+P6321,"Pérez, Lois",Pessoa,6321,Male,1979,,,,,2,2
+P6333,"Mouriño Cuba, José",Pessoa,6333,Male,1948,,,,,2,2
+P6338,"Portosín, Emilio G.",Pessoa,6338,Male,,,,,,1,1
+P6352,"Aguirre y del Río, Luis de",Pessoa,6352,Male,,,,,,1,1
+P6357,"Bouza Brey, Luis",Pessoa,6357,Male,,,,,,2,1
+P6364,"Chihuailaf, Elicura",Pessoa,6364,Male,,,,,,1,1
+P6369,"Vila Cotelo, Asunción",Pessoa,6369,Female,,,,,,1,1
+P6372,"Mosteiro Raído, Jesús",Pessoa,6372,Male,,,,,,2,2
+P6375,"Duro Domínguez, Cándido",Pessoa,6375,Male,,,,,,3,3
+P6382,"Campos Villar, Xabier",Pessoa,6382,Male,1974,,,,,1,1
+P6384,"Acuña, Manuel Luís",Pessoa,6384,Male,1899,1975,,,,2,2
+P6393,"Méndez Fraguas, Manuel Anxo",Pessoa,6393,Male,,,,,,1,1
+P6400,"Veiga, Manuel",Pessoa,6400,Male,,,,,,1,1
+P6409,"Vila Ribadomar, Xosé María",Pessoa,6409,Male,1970,,,,,3,2
+P6419,"Agrelo Hermo, Xosé",Pessoa,6419,Male,1937,2006,,,,1,1
+P6436,"Hernández, José",Pessoa,6436,Male,,,,,,4,3
+P6446,"Blanco Mourelle, Noel",Pessoa,6446,Male,1984,,,,,1,1
+P6452,"Estévez Estévez, Asun",Pessoa,6452,Female,1966,,,,,3,1
+P6462,"Rico, Elia",Pessoa,6462,Female,,,,,,1,1
+P6466,"Gracián, Ánxela",Pessoa,6466,Female,1968,,,,,2,2
+P6471,"Cortegoso, Francisco",Pessoa,6471,Male,1985,2016,,,,2,2
+P6484,"Ferreiro, Alfredo",Pessoa,6484,Male,1969,,,,,2,2
+P6485,"Plaza Gómez, Esteban",Pessoa,6485,Male,,,,,,2,1
+P6486,"Iglesias, Serxio",Pessoa,6486,Male,1966,,,,,2,2
+P6489,"Rodríguez Rodríguez, Xosé",Pessoa,6489,Male,,,,,,1,1
+P6499,"Susanna, Alex",Pessoa,6499,Male,1957,2024,,,,1,1
+P6502,"Blake, Quentin",Pessoa,6502,Male,1932,,,,,1,1
+P6504,"Ramudo Riero, Antonio Modesto",Pessoa,6504,Male,,,,,,1,1
+P6515,"Outeiro, Eugénio",Pessoa,6515,Male,1976,,,,,1,1
+P6516,"Pereiro, Paulino",Pessoa,6516,Male,1957,,,,,2,2
+P6517,"Fernández Davila, Fran",Pessoa,6517,Male,1974,,,,,1,1
+P6535,"Arias Arias, María Asunción",Pessoa,6535,Female,1953,,,,,2,2
+P6551,"Cimadevila Cea, Ramiro",Pessoa,6551,Male,,,,,,2,2
+P6558,"Castro López, Eduardo Víctor",Pessoa,6558,Male,,,,,,3,1
+P6559,"López López, Iria",Pessoa,6559,Female,,,,,,1,1
+P6561,"Villanueva, Mila",Pessoa,6561,Female,,,,,,2,2
+P6576,"Ofrape, María",Pessoa,6576,Female,,,,,,1,1
+P6577,"Pérez, Luis Marcelo",Pessoa,6577,Male,1971,,,,,1,1
+P6583,"Vázquez, Juan Manuel",Pessoa,6583,Male,,,,,,1,1
+P6594,"Seixo Fernández, Ricardo",Pessoa,6594,Male,1950,,,,,2,2
+P6605,"Sandoval, Ramón",Pessoa,6605,Male,1931,,,,,4,4
+P6610,"Pérez, Fran",Pessoa,6610,Male,,,,,,1,1
+P6612,"Cousin, Olivier",Pessoa,6612,Male,,,,,,4,1
+P6614,"Catoira Rey, Rafael",Pessoa,6614,Male,1951,,,,,1,1
+P6616,"Díaz Andina, Paloma",Pessoa,6616,Female,,,,,,1,1
+P6617,"Vaquero Galindo, Obdulio",Pessoa,6617,Male,,,,,,1,1
+P6647,"Mateo, Sesé",Pessoa,6647,Female,1965,2017,,,,1,1
+P6660,"Hermida García, Modesto",Pessoa,6660,Male,1946,,,,,1,1
+P6661,"Pino Vicente, Daniel",Pessoa,6661,Male,1943,,,,,1,1
+P6670,"Cereijo Arias, Elvira",Pessoa,6670,Female,,,,,,2,1
+P6676,"Pedreira, Ugia",Pessoa,6676,Female,1970,,,,,2,2
+P6679,"Ferro, Serafín",Pessoa,6679,Male,1914,1954,,,,1,1
+P6687,"Láuzara Martínez, Alfonso",Pessoa,6687,Male,,,,,,1,1
+P6693,"Carballido, Manuel",Pessoa,6693,Male,,,,,,2,1
+P6700,"Tizón, Antonio",Pessoa,6700,Male,1960,,,,,1,1
+P6703,"González Hermida, Celsa",Pessoa,6703,Female,,,,,,1,1
+P6712,"Meira, Patricia",Pessoa,6712,Female,1983,,,,,1,1
+P6714,"Ledo, Paco",Pessoa,6714,Male,1952,,,,,2,2
+P6719,"García Rivas, Antonio",Pessoa,6719,Male,,,,,,1,1
+P6725,"Fernández Alves, Víctor",Pessoa,6725,Male,,,,,,1,1
+P6748,"Castro Martínez, Marcos",Pessoa,6748,Male,,,,,,1,1
+P6754,"Ventosela, Manuel de la",Pessoa,6754,Male,1907,1944,,,,1,1
+P6757,"Fontenla, Ana",Pessoa,6757,Female,1992,,,,,1,1
+P6779,"Iglesias Ramos, Fernando",Pessoa,6779,Male,,,,,,1,1
+P6786,"Dragossan, Wladimir",Pessoa,6786,Male,1964,,,,,3,3
+P6789,"Pilán, Nestor",Pessoa,6789,Male,,,,,,1,1
+P6791,"Rozados Lorenzo, Lara",Pessoa,6791,Female,1982,,,,,2,2
+P6797,Don Afonso Sanchez,Pessoa,6797,Male,,,,,,1,1
+P6803,Pero Mafaldo,Pessoa,6803,Male,,,,,,1,1
+P6806,"Meendiz da Fonseca, Pero",Pessoa,6806,Male,,,,,,2,2
+P6808,"Pousada, Alfonso F.",Pessoa,6808,Male,,,,,,1,1
+P6810,"Baceiredo, Rebeca",Pessoa,6810,Female,1979,,,,,1,1
+P6813,"Sancho Blanco, Fernando",Pessoa,6813,Male,,,,,,1,1
+P6820,"García Montero, Luis",Pessoa,6820,Male,,,,,,1,1
+P6821,"Pousa, Luis",Pessoa,6821,Male,1971,,,,,1,1
+P6826,"García Soto, Luis",Pessoa,6826,Male,1956,,,,,1,1
+P6827,"Machet, Beatrice",Pessoa,6827,Female,,,,,,2,1
+P6829,"Castillo Velasco, Eduard del",Pessoa,6829,Male,1982,,,,,2,1
+P6830,"Branco, Rosa Alice",Pessoa,6830,Female,1950,,,,,1,1
+P6833,"Mezquita Arnaiz, Roberto",Pessoa,6833,Male,,,,,,1,1
+P6834,"Mosquera Sastre, María Luisa",Pessoa,6834,Female,,,,,,1,1
+P6840,"Gayoso Díaz, Chelo",Pessoa,6840,Female,,,,,,1,1
+P6843,"Toro, Xelís de",Pessoa,6843,Male,1962,,,,,1,1
+P6857,"Balado Paz, Gerardo",Pessoa,6857,Male,,,,,,1,1
+P6859,"Vázquez Fernández, Mercedes",Pessoa,6859,Female,,,,,,1,1
+P6860,"Teixeira, José Manuel",Pessoa,6860,Male,1957,,,,,1,1
+P6861,"Solleiro, Samuel",Pessoa,6861,Male,1982,,,,,1,1
+P6883,"Pereiro, Xosé Manuel",Pessoa,6883,Male,,,,,,1,1
+P6885,"Albiach, Anne-Marie",Pessoa,6885,Female,1937,2012,,,,2,1
+P6889,"Brea, Ângelo",Pessoa,6889,Male,,,,,,2,2
+P6895,"González Barreiro, Xosé Manuel",Pessoa,6895,Male,1960,,,,,3,1
+P6899,"Rubinos Ramos, José",Pessoa,6899,Male,1898,1963,,,,2,2
+P6901,"Vilar, José Manuel",Pessoa,6901,Male,,,,,,1,1
+P6933,"Barros, Tomás",Pessoa,6933,Male,,,,,,1,1
+P7006,"Valeiras González, Francisco",Pessoa,7006,Male,1990,,,,,2,2
+P7012,"Méndez Fonte, Rosa",Pessoa,7012,Female,1957,,,,,2,1
+P7018,"Cando Rancaño, X. Antón",Pessoa,7018,Male,,,,,,2,1
+P7026,"Lema Calvo, Alberto",Pessoa,7026,Male,,,,,,1,1
+P7038,"Atanes Álvarez, Eduardo",Pessoa,7038,Male,,,,,,1,1
+P7042,"Rodríguez Troncoso, Manuel",Pessoa,7042,Male,,,,,,1,1
+P7043,"Río Otero, Rosa del",Pessoa,7043,Female,,,,,,1,1
+P7045,"Coba Gómez, Juan María de la",Pessoa,7045,Male,1813,1899,,,,2,2
+P7055,"Martínez, Xan",Pessoa,7055,Male,,,,,,1,1
+P7058,"Casteleiro, Pedro Milhám",Pessoa,7058,Male,,,,,,2,2
+P7065,"Santiso Mosquera, Xosé M.",Pessoa,7065,Male,,,,,,1,1
+P7068,"González-Chamadoira Pérez, María Dolores",Pessoa,7068,Female,1947,,,,,3,2
+P7072,"Casas, Augusto",Pessoa,7072,Male,1906,1973,,,,2,2
+P7076,"Berengarten, Richard",Pessoa,7076,Male,1943,,,,,1,1
+P7081,"Gómez, Noelia",Pessoa,7081,Female,1995,,,,,1,1
+P7087,"García Mato, Xosé Luis",Pessoa,7087,Male,1924,1980,,,,5,3
+P7107,"Pimentel, Luis",Pessoa,7107,Male,1895,1958,,,,2,2
+P7111,"Prado, Xabier",Pessoa,7111,Male,1874,1942,,,,1,1
+P7115,"Sánchez García, Francisco",Pessoa,7115,Male,,,,,,1,1
+P7120,"Otero Espasandín, José",Pessoa,7120,Male,1900,1987,,,,1,1
+P7123,"Sigüenza, Julio",Pessoa,7123,Male,1898,1965,,,,2,2
+P7124,"Picouto, Millán",Pessoa,7124,Male,1949,,,,,1,1
+P7132,"Vales Villamarín, Francisco",Pessoa,7132,Male,1891,1982,,,,1,1
+P7137,"Amado Carballo, Luis",Pessoa,7137,Male,1901,1927,,,,2,2
+P7142,"Elices, Castor",Pessoa,7142,Male,1847,1886,,,,1,1
+P7147,"Rosselló-Porcel, Bartomeu",Pessoa,7147,Male,1913,1938,,,,1,1
+P7149,"Rodríguez, Xoán C.",Pessoa,7149,Male,1966,,,,,1,1
+P7156,"Neruda, Pablo",Pessoa,7156,Male,,,,,,1,1
+P7178,"Luján Arístegui, Jorge",Pessoa,7178,Male,,,,,,1,1
+P7194,"Pereiras, Carmen",Pessoa,7194,Female,,,,,,1,1
+P7201,"Davo, François",Pessoa,7201,Male,1966,,,,,1,1
+P7205,"Moure Rojas, Edmundo",Pessoa,7205,Male,1941,,,,,1,1
+P7211,"García Acuña, Fernando",Pessoa,7211,Male,1861,1895,,,,1,1
+P7213,"Ar, Lara do",Pessoa,7213,Female,1979,,,,,1,1
+P7217,"Oliveira Gómez, Manuel",Pessoa,7217,Male,,,,,,1,1
+P7221,"Schubarth, Dorothé",Pessoa,7221,Female,1944,2023,,,,1,1
+P7223,"González García, Cayetano",Pessoa,7223,Male,,,,,,1,1
+P7226,"Araujo Cardalda, Laureano Xoaquín",Pessoa,7226,Male,1964,,,,,1,1
+P7244,"Darriba, Manuel",Pessoa,7244,Male,1973,,,,,3,3
+P7254,"Castro Yáñez, Jesús",Pessoa,7254,Male,1992,,,,,2,2
+P7268,"Pérez Prieto, Victorino",Pessoa,7268,Male,1954,,,,,1,1
+P7271,"Rilke, Rainer Maria",Pessoa,7271,Male,1875,1926,,,,3,3
+P7280,"Yebra de Ares, Antonio Benito",Pessoa,7280,Male,1926,2012,,,,1,1
+P7288,"Alcalde Rodríguez, Antón",Pessoa,7288,Male,,,,,,1,1
+P7301,"Brea, Mercedes",Pessoa,7301,Female,,,,,,1,1
+P7304,"Estévez, Iria",Pessoa,7304,Female,,,,,,1,1
+P7312,"Lorenzo Fidalgo, Agustín",Pessoa,7312,Male,,,,,,2,2
+P7329,"Creus Andrade, David",Pessoa,7329,Male,1975,,,,,1,1
+P7332,"Chamorro, Margot",Pessoa,7332,Female,,,,,,1,1
+P7333,"Durán Arufe, David",Pessoa,7333,Male,1978,,,,,1,1
+P7334,"Lomba, Agostiño",Pessoa,7334,Male,,,,,,1,1
+P7344,"Romero Vidal, Marcelino",Pessoa,7344,Male,,,,,,1,1
+P7354,"Seoane Casqueiro, Óscar",Pessoa,7354,Male,,,,,,1,1
+P7356,"Fidalgo Lareo, Pablo",Pessoa,7356,Male,1984,,,,,1,1
+P7381,"Padorno, Eugenio",Pessoa,7381,Male,1942,,,,,1,1
+P7382,"López, Lucía F.",Pessoa,7382,Female,,,,,,1,1
+P7390,"Antelo Suárez, Asunción",Pessoa,7390,Female,,,,,,1,1
+P7394,"Romero Álvarez, Amante",Pessoa,7394,Male,,,,,,1,1
+P7400,"Alonso Diz, Miguel Ángel",Pessoa,7400,Male,1976,,,,,3,2
+P7409,"Castro, Matilde",Pessoa,7409,Female,,,,,,1,1
+P7410,"Pérez, Carlos Epifanio",Pessoa,7410,Male,,,,,,1,1
+P7412,"González Carballido, Cesáreo",Pessoa,7412,Male,,,,,,2,2
+P7417,"Roxíos, Quique",Pessoa,7417,Male,1964,,,,,1,1
+P7427,"Vigueret Villar, Plácido",Pessoa,7427,Male,,,,,,2,1
+P7441,"Poe, Edgar Allan",Pessoa,7441,Male,,,,,,1,1
+P7446,"Blanco-Amor, Eduardo",Pessoa,7446,Male,1897,1979,,,,3,3
+P7449,"Martìnez Millarengo, Beatriz",Pessoa,7449,Female,1937,2009,,,,1,1
+P7454,"Chaves, Xaquín",Pessoa,7454,Male,1959,,,,,1,1
+P7457,"Reigosa, María",Pessoa,7457,Female,,,,,,1,1
+P7472,"Alonso, Francisco",Pessoa,7472,Male,,,,,,6,2
+P7474,"Romero, Miguel Anxo",Pessoa,7474,Male,,,,,,2,1
+P7476,"Saavedra, Rosario",Pessoa,7476,Female,,,,,,1,1
+P7481,"Sanjurjo, Valentín",Pessoa,7481,Male,,,,,,1,1
+P7484,"Núñez, Toño",Pessoa,7484,Male,1959,,,,,2,1
+P7494,"Domínguez Romero, Francisco",Pessoa,7494,Male,1939,2005,,,,1,1
+P7496,"Vidal Martínez, Aurora",Pessoa,7496,Female,1910,2005,,,,2,1
+P7501,"Pérez-Barreiro Nolla, Fernando",Pessoa,7501,Male,1931,2010,,,,1,1
+P7502,"Nogueiras Santana, José",Pessoa,7502,Male,,,,,,1,1
+P7504,"Barrera, Miguel",Pessoa,7504,Male,,,,,,2,2
+P7519,"Neira, Manuel Xosé",Pessoa,7519,Male,1964,,,,,1,1
+P7524,"Fortes Otero, Manuel",Pessoa,7524,Male,,,,,,1,1
+P7526,"Bosco, Eduardo Jorge",Pessoa,7526,Male,,,,,,1,1
+P7579,"Paz Campos, José",Pessoa,7579,Male,,,,,,1,1
+P7589,"Heaney, Seamus",Pessoa,7589,Male,1939,2013,,,,2,2
+P7592,"Blázquez, José",Pessoa,7592,Male,,,,,,1,1
+P7629,"Martul-March, Kimberleigh",Pessoa,7629,Female,,,,,,1,1
+P7645,"Correa Calderón, Evaristo",Pessoa,7645,Male,1899,1986,,,,1,1
+P7656,"André, Eloy Luis",Pessoa,7656,Male,1876,1935,,,,2,2
+P7657,"González Garcés, Miguel",Pessoa,7657,Male,1916,1989,,,,2,2
+P7672,"González Fernández, Evaristo",Pessoa,7672,Male,1917,1994,,,,1,1
+P7680,"Armán, Gonzalo",Pessoa,7680,Male,,,,,,1,1
+P7681,"González Cruz, Domingo",Pessoa,7681,Male,,,,,,1,1
+P7704,"Añón, Nicolasa",Pessoa,7704,Female,1810,1887,,,,1,1
+P7708,"Pavese, Cesare",Pessoa,7708,Male,1908,1950,,,,1,1
+P7709,"Ramallal Méndez, Evelio",Pessoa,7709,Male,,,,,,1,1
+P7713,"Añón Paz, Francisco",Pessoa,7713,Male,1812,1878,,,,3,3
+P7722,"Iglesia, Antonio de la",Pessoa,7722,Male,1822,1892,,,,1,1
+P7724,"Iglesia, Francisco María de la",Pessoa,7724,Male,1827,1897,,,,1,1
+P7732,"Oliveira, Elisabeth",Pessoa,7732,Female,1971,,,,,2,1
+P7744,"Mediante Ferraría, Antolín Santos",Pessoa,7744,Male,1880,1944,,,,1,1
+P7747,"Quasimodo, Salvatore",Pessoa,7747,Male,1901,1968,,,,1,1
+P7759,"Eiján Lorenzo, Samuel",Pessoa,7759,Male,1876,1945,,,,3,3
+P7771,"Gamoneda, Antonio",Pessoa,7771,Male,,,,,,1,1
+P7787,"Mendes Buxeiro, Abel",Pessoa,7787,Male,,,,,,1,1
+P7793,"García Machado, Rosa",Pessoa,7793,Female,,,,,,1,1
+P7824,"Santos Cabanas, Xosé Luis",Pessoa,7824,Male,1952,,,,,1,1
+P7832,"Daza González, Petronila",Pessoa,7832,Female,,,,,,2,1
+P7862,"Aira, Carlos da",Pessoa,7862,Male,1972,,,,,1,1
+P7863,"García Rodríguez, Xosé",Pessoa,7863,Male,1970,,,,,1,1
+P7869,"Salamatu, Thalámas",Pessoa,7869,Male,,,,,,1,1
+P7872,"Chapela, Xurxo",Pessoa,7872,Male,1968,,,,,1,1
+P7875,"Pagán, Alberte",Pessoa,7875,Female,1965,,,,,1,1
+P7881,"Reyes, Miriam",Pessoa,7881,Female,,,,,,1,1
+P7887,"Lorenzo Abeijón, Aurea",Pessoa,7887,Female,1904,1995,,,,1,1
+P7891,"Laxe Martiñán, Xosé Antón",Pessoa,7891,Male,,,,,,1,1
+P7893,"Fontes, Carlos",Pessoa,7893,Male,,,,,,1,1
+P7903,"Trigo, Xosé Manuel G.",Pessoa,7903,Male,1948,,,,,1,1
+P7907,"Rozados, Francisco",Pessoa,7907,Male,1963,,,,,1,1
+P7928,"Varela Lema, Hermosinda",Pessoa,7928,Female,,,,,,1,1
+P7930,"Calvo Gómez, Fermín",Pessoa,7930,Male,,,,,,2,1
+P7933,"Pena Mosquera, Luis",Pessoa,7933,Male,,,,,,1,1
+P7936,"Franco, Anxo",Pessoa,7936,Male,,,,,,1,1
+P7937,"González Muíño, José",Pessoa,7937,Male,,,,,,2,2
+P7944,"Paz Suárez, Sebastián",Pessoa,7944,Male,,,,,,2,1
+P7948,"Fernández Vidueira, Nieves",Pessoa,7948,Female,,,,,,1,1
+P7967,"González Hermida, Fausto",Pessoa,7967,Male,1952,,,,,1,1
+P7968,"Martínez Paz, Antonio",Pessoa,7968,Male,,,,,,1,1
+P7973,"Pereira Martínez, Carlos",Pessoa,7973,Male,1959,,,,,1,1
+P7977,"Moral Álvarez, Sonia",Pessoa,7977,Female,,,,,,1,1
+P7981,"Pardo de Andrade, Manuel",Pessoa,7981,Male,1760,1823,,,,2,1
+P7984,"Gómez Ledo, Avelino",Pessoa,7984,Male,1893,1977,,,,1,1
+P7985,"Núñez Domínguez, Albino",Pessoa,7985,Male,1901,1974,,,,1,1
+P8037,"Khayyam, Omar",Pessoa,8037,Male,1048,1131,,,,1,1
+P8039,"Vilariño, Manuel",Pessoa,8039,Male,,,,,,1,1
+P8048,"García Rego, Pilar",Pessoa,8048,Female,1966,,,,,1,1
+P8050,"Vicenzo, Amaro",Pessoa,8050,Male,,,,,,1,1
+P8052,"Rey Somoza, Antonio",Pessoa,8052,Male,,,,,,1,1
+P8089,"García Lorca, Federico",Pessoa,8089,Male,1898,1936,,,,5,5
+P8106,"Jul Ferreiro, Ana María",Pessoa,8106,Female,,,,,,1,1
+P8108,"Chapela Bermúdez, Luís",Pessoa,8108,Male,,,,,,2,1
+P8137,"López Gaioso, Suso",Pessoa,8137,Male,1962,2015,,,,1,1
+P8139,"Santamarina Delgado, Antón",Pessoa,8139,Male,1928,,,,,1,1
+P8142,"López Pérez, Lucía Flora",Pessoa,8142,Female,,,,,,1,1
+P8220,"Mariño Blanco, Manuel",Pessoa,8220,Male,1929,2021,,,,1,1
+P8227,"Jouvencel, Xoán Paulo",Pessoa,8227,Male,,,,,,1,1
+P8230,"Coco, Emilio",Pessoa,8230,Male,1940,,,,,1,1
+P8237,"Caldeiro, Eloi",Pessoa,8237,Male,1955,,,,,1,1
+P8239,"Capón, Silvia",Pessoa,8239,Female,,,,,,1,1
+P8249,"Reboiras, Ramón",Pessoa,8249,Male,1961,,,,,1,1
+P8252,"Shakespeare, William",Pessoa,8252,Male,,,,,,2,2
+P8255,"Veiguela, Victoria",Pessoa,8255,Female,,,,,,3,3
+P8256,"González López, Susana",Pessoa,8256,Female,,,,,,2,2
+P8266,"Akhmatova, Anna Andreevna",Pessoa,8266,Female,1889,1966,,,,2,1
+P8269,"Losada, Benito",Pessoa,8269,Male,,,,,,1,1
+P8275,"Moscada, Neus",Pessoa,8275,Female,,,,,,1,1
+P8293,"Pérez Gómez, José Juan",Pessoa,8293,Male,,,,,,1,1
+P8311,"Varela Gestoso, Mónica Inés",Pessoa,8311,Female,1968,,,,,3,2
+P8314,"Sendak, Maurice",Pessoa,8314,Male,1928,2012,,,,1,1
+P8319,"Stevenson, Robert Louis",Pessoa,8319,Male,,,,,,2,2
+P8325,"Fitas, Fernando",Pessoa,8325,Male,1957,,,,,1,1
+P8348,"Giráldez Domínguez, Ramona",Pessoa,8348,Female,1954,,,,,1,1
+P8384,"Sarrionandia, Joseba",Pessoa,8384,Male,1958,,,,,1,1
+P8394,"Justo, Mónica",Pessoa,8394,Female,,,,,,1,1
+P8424,"Avendaño, Alberto",Pessoa,8424,Male,1957,,,,,1,1
+P8429,"Calvín Corredoira, Alberto",Pessoa,8429,Male,1950,,,,,1,1
+P8441,"Rodríguez Monteavaro, Miguel",Pessoa,8441,Male,1990,,,,,1,1
+P8458,"Asorey Vidal, Daniel",Pessoa,8458,Male,1970,,,,,1,1
+P8461,"Amor Meilán, Manuel",Pessoa,8461,Male,1867,1933,,,,1,1
+P8464,"San Juan, Gregorio",Pessoa,8464,Male,,,,,,1,1
+P8465,"Blanco Casás, Antón",Pessoa,8465,Male,1996,,,,,2,2
+P8466,"Mazás López, Luis",Pessoa,8466,Male,,,,,,1,1
+P8471,"Marí, Antoni",Pessoa,8471,Male,1944,,,,,1,1
+P8478,"Twain, Mark",Pessoa,8478,Male,1835,1910,,,,1,1
+P8481,"Muíños, Anxo",Pessoa,8481,Male,,,,,,1,1
+P8486,"Paone, Marco",Pessoa,8486,Male,,,,,,1,1
+P8496,"Villares Mouteira, Félix",Pessoa,8496,Male,1947,,,,,1,1
+P8508,"Martínez, Esperanza",Pessoa,8508,Female,,,,,,1,1
+P8511,"Fernández Carrera, Xan X.",Pessoa,8511,Male,1951,,,,,1,1
+P8516,"Ortega Parra, Joaquín",Pessoa,8516,Male,1934,2011,,,,1,1
+P8518,"López Gómez, Xosé Manuel",Pessoa,8518,Male,,,,,,4,3
+P8522,"Costa i Llobera, Miquel",Pessoa,8522,Male,1854,1922,,,,1,1
+P8527,"Villangómez, Marià",Pessoa,8527,Male,1913,2002,,,,1,1
+P8533,"Lloria, Matilde",Pessoa,8533,Female,1912,2002,,,,1,1
+P8536,"Fernández de la Torre, Baia",Pessoa,8536,Female,1980,,,,,2,1
+P8538,"Gil Cuña, María",Pessoa,8538,Female,,,,,,1,1
+P8541,"Oreiro Serrano, Lois",Pessoa,8541,Male,1966,,,,,1,1
+P8553,"Neira Pampín, Francisco Javier",Pessoa,8553,Male,,,,,,1,1
+P8559,"Sieiro Taboada, Manuel",Pessoa,8559,Male,,,,,,1,1
+P8595,"Blanco Rivas, Isabel",Pessoa,8595,Female,1962,,,,,2,1
+P8617,"Álvarez Fuentes, Manuel",Pessoa,8617,Male,1939,,,,,1,1
+P8632,"Szymborska, Wislawa",Pessoa,8632,Female,1923,2012,,,,1,1
+P8657,"Pérez Lourido, Manuel",Pessoa,8657,Male,1963,,,,,1,1
+P8660,"Delgado, Fátima N.",Pessoa,8660,Female,,,,,,1,1
+P8672,"Bermúdez Tellado, Xesús",Pessoa,8672,Male,1966,,,,,1,1
+P8684,"Arca Caldas, Olimpio",Pessoa,8684,Male,1928,2014,,,,4,2
+P8745,"Eiroa Barreira, Carmen",Pessoa,8745,Female,,,,,,1,1
+P8747,"Losada, Pura",Pessoa,8747,Female,,,,,,1,1
+P8749,"Rei, Maxi",Pessoa,8749,Male,,,,,,1,1
+P8767,"Suárez, Bonifacio",Pessoa,8767,Male,,,,,,1,1
+P8783,"Vidal García, Francisco",Pessoa,8783,Male,,,,,,2,1
+P8785,"Fernández, Ferran",Pessoa,8785,Male,1956,,,,,1,1
+P8789,"Soto Rodríguez, Xosé",Pessoa,8789,Male,1938,,,,,1,1
+P8794,"Delgado, Susy",Pessoa,8794,Female,1949,,,,,1,1
+P8906,"Yeats, W. B.",Pessoa,8906,Male,1865,1939,,,,1,1
+P8908,"Blanco Díaz, Pilar",Pessoa,8908,Female,,,,,,1,1
+P8910,"Alves Costa, Tiago",Pessoa,8910,Male,1980,,,,,1,1
+P8922,"Comesaña Besteiros, María",Pessoa,8922,Female,1979,,,,,1,1
+P8923,"Hermida, Mariola",Pessoa,8923,Female,,,,,,1,1
+P8931,"Torres Magariños, María Pura",Pessoa,8931,Female,,,,,,1,1
+P9459,"Alighieri, Dante",Pessoa,9459,Male,,,,,,1,1
+P9460,"Pazzottu, Florence",Pessoa,9460,Female,,,,,,3,1
+P9469,"González Sotelo, F. Xabier",Pessoa,9469,Male,,,,,,1,1
+P9471,"Murguía, Manuel",Pessoa,9471,Male,,,,,,1,1
+P9473,"López, Carlos",Pessoa,9473,Male,,,,,,1,1
+P9478,"Yu, Jian",Pessoa,9478,Male,,,,,,2,1
+P9480,"Fourcaut, Laurent",Pessoa,9480,Male,,,,,,1,1
+P9495,"Fourier, Claire",Pessoa,9495,Female,,,,,,1,1
+P9498,"Hutchinson, Pearse",Pessoa,9498,Male,,,,,,2,2
+P9508,"Mosquera, Miguel",Pessoa,9508,Male,,,,,,1,1
+P9511,"Bénazet, Luc",Pessoa,9511,Male,,,,,,1,1
+P9513,"Vila-Coia, Xabier",Pessoa,9513,Male,,,,,,1,1
+P9516,"Roux, Georges L.",Pessoa,9516,Male,,,,,,2,1
+P9521,"Deguy, Michel",Pessoa,9521,Male,,,,,,2,1
+P9523,"Cribeiro, Xosé Alexandre",Pessoa,9523,Male,,,,,,1,1
+P9524,"Bonhomme, Béatrice",Pessoa,9524,Female,,,,,,1,1
+P9530,"Veinstein, Alain",Pessoa,9530,Male,,,,,,1,1
+P9531,"Santasmarinas Raposo, Emilio",Pessoa,9531,Male,,,,,,1,1
+P9533,"Feixóo Feixóo, Enrique",Pessoa,9533,Male,,,,,,1,1
+P9541,"D'Lom, Covadonga",Pessoa,9541,Female,,,,,,2,2
+P9547,"Prado Piñeyro, Javier",Pessoa,9547,Male,,,,,,1,1
+P9553,"Veiguela Martins, Crisanto",Pessoa,9553,Male,,,,,,2,2
+P9556,"Quatrebarbes, Marie de",Pessoa,9556,Female,,,,,,1,1
+P9573,"Freire Cordeiro, Santiago",Pessoa,9573,Male,,,,,,1,1
+P9577,Homero,Pessoa,9577,Male,,,,,,2,2
+P9579,"Abajo, Lourdes de",Pessoa,9579,Female,,,,,,1,1
+P9584,"Ovidio Nasón, Publio",Pessoa,9584,Male,,,,,,4,4
+P9590,"Carn, Hervé",Pessoa,9590,Male,,,,,,1,1
+P9592,"Derrida, Jacques",Pessoa,9592,Male,,,,,,1,1
+P9597,"Bauchau, Henry",Pessoa,9597,Male,,,,,,1,1
+P9622,"Sværen, Jørn H.",Pessoa,9622,Male,,,,,,1,1
+P9625,"Lindengren, Kasimir",Pessoa,9625,Male,,,,,,2,1
+P9630,"Lespiau, David",Pessoa,9630,Male,,,,,,1,1
+P9641,"Souto Vilanova, César",Pessoa,9641,Male,,,,,,2,2
+P9644,"Mescolini, Christophe",Pessoa,9644,Male,,,,,,1,1
+P9645,"César, Chico",Pessoa,9645,Male,,,,,,1,1
+P9689,"Viqueira, Johán Vicente",Pessoa,9689,Male,,,,,,1,1
+P9691,"García Rodríguez, Xosé María",Pessoa,9691,Male,,,,,,1,1
+P9699,"Vaamonde Lores, Florencio",Pessoa,9699,Male,,,,,,1,1
+P9700,"Candeira González, Francisco",Pessoa,9700,Male,,,,,,2,2
+P9714,"Bertels, Helen E.",Pessoa,9714,Female,,,,,,1,1
+P9716,"Ramallo Padín, Antonio",Pessoa,9716,Male,,,,,,2,1
+P9721,"Borda, Itxaro",Pessoa,9721,Female,,,,,,1,1
+P9723,Aínda,Pessoa,9723,Male,,,,,,1,1
+P9742,"Guillén, Xosé María",Pessoa,9742,Male,,,,,,1,1
+P9752,"Vázquez, Víctor",Pessoa,9752,Male,,,,,,1,1
+P9759,"Fontenla Rodrígues, José Luis",Pessoa,9759,Male,,,,,,1,1
+P9793,"Gavilanes, Laetitia",Pessoa,9793,Female,,,,,,1,1
+P9816,"Mozetic, Brane",Pessoa,9816,Male,,,,,,1,1
+P9827,"López Gonçalez, José Andrê",Pessoa,9827,Male,,,,,,2,2
+P9842,"Rodríguez, Noelia",Pessoa,9842,Female,,,,,,1,1
+P9853,"Quaghebeur, Marc",Pessoa,9853,Male,,,,,,1,1
+P9866,"González Pérez, Clodio",Pessoa,9866,Male,,,,,,1,1
+P9871,"Cores Liste, Victorino",Pessoa,9871,Male,,,,,,1,1
+P9875,"León, Miguel Angel",Pessoa,9875,Male,,,,,,2,2
+P9941,"Diz Paz, Xose",Pessoa,9941,Male,,,,,,1,1
+P9944,"Pérez Pintos, Irene",Pessoa,9944,Female,,,,,,1,1
+P9957,"Díaz de Herrera, Gabino",Pessoa,9957,Male,,,,,,2,2
+P9960,"Eme, Oskar",Pessoa,9960,Male,,,,,,1,1
+P9972,"Pirucha, Luís",Pessoa,9972,Male,,,,,,2,1
+P9974,"Veschambre, Christiane",Pessoa,9974,Female,,,,,,1,1
+P9978,"Beltrán, Fernando",Pessoa,9978,Male,,,,,,1,1
+P9982,"Espronceda, José de",Pessoa,9982,Male,,,,,,1,1
+P9987,"Taboada López, Raúl",Pessoa,9987,Male,,,,,,1,1
+P9989,"Martínez Sánchez, Rafael",Pessoa,9989,Male,,,,,,1,1
+P9993,"López Galán, Jesús",Pessoa,9993,Male,,,,,,1,1
+P9998,"Grass, Günter",Pessoa,9998,Male,,,,,,1,1
+P9999,Borobó,Pessoa,9999,Male,,,,,,2,2
+P10021,"Berger, John",Pessoa,10021,Male,,,,,,1,1
+P10023,"Attié, Joseph",Pessoa,10023,Male,,,,,,1,1
+P10025,"Cohen-Halimi, Michèle",Pessoa,10025,Female,,,,,,1,1
+P10035,Ondjaki,Pessoa,10035,Male,,,,,,1,1
+P10045,"Eminescu, Mihai",Pessoa,10045,Male,,,,,,2,2
+P10054,"Majia, Jidi",Pessoa,10054,Male,,,,,,1,1
+P10069,"Alberti, Rafael",Pessoa,10069,Male,,,,,,1,1
+P10075,"García Rivas, Aurora",Pessoa,10075,Female,,,,,,1,1
+P10078,"Sendino, Juan",Pessoa,10078,Male,,,,,,1,1
+P10083,"Boullosa, Palmira G.",Pessoa,10083,Female,,,,,,1,1
+P10097,"Ginsberg, Allen",Pessoa,10097,Male,,,,,,2,1
+P10100,"González, Ismael",Pessoa,10100,Male,,,,,,1,1
+P10127,"Thibaut, Danièle",Pessoa,10127,Female,,,,,,1,1
+P10137,"Padrón, Justo Jorge",Pessoa,10137,Male,,,,,,1,1
+P10160,"Guerra da Cal, Ernesto",Pessoa,10160,Male,,,,,,1,1
+P10161,"Mourelle Bugallo, Serafín",Pessoa,10161,Male,,,,,,1,1
+P10169,"Burns, Robert",Pessoa,10169,Male,,,,,,1,1
+P10174,"Whitman, Walt",Pessoa,10174,Male,,,,,,1,1
+P10175,"Rodrigues, Manuel",Pessoa,10175,Male,,,,,,1,1
+P10188,"O'Dea, Michael",Pessoa,10188,Male,,,,,,1,1
+P10210,"Marciuliano, Francesco",Pessoa,10210,Male,,,,,,1,1
+P10214,Yunus Emre,Pessoa,10214,Male,,,,,,1,1
+P10233,"Beck, Philippe",Pessoa,10233,Male,,,,,,2,1
+P10235,"Barreiro Vila, José Manuel",Pessoa,10235,Male,,,,,,1,1
+P10242,"Bukowski, Charles",Pessoa,10242,Male,,,,,,1,1
+P10251,"Perra, Chiara Teresa",Pessoa,10251,Female,,,,,,1,1
+P10259,"Arif, Ahmed",Pessoa,10259,Male,,,,,,1,1
+P10267,"Celan, Paul",Pessoa,10267,Male,,,,,,1,1
+P10269,"Cohen, Francis",Pessoa,10269,Male,,,,,,1,1
+P10270,"Calviño Iglesias, Xulio",Pessoa,10270,Male,,,,,,1,1
+P10277,"Barbeitos, Arlindo",Pessoa,10277,Male,,,,,,1,1
+P10291,"Martínez Alonso, Rubén",Pessoa,10291,Male,,,,,,1,1
+P10307,"Bisutti, Donatella",Pessoa,10307,Female,,,,,,1,1
+P10311,"Daive, Jean",Pessoa,10311,Male,,,,,,1,1
+P10313,"Fientosa, Francisco de",Pessoa,10313,Male,,,,,,1,1
+P10316,"Santos, Amable",Pessoa,10316,Male,,,,,,1,1
+P10320,"Puebla, Almudena María",Pessoa,10320,Female,,,,,,1,1
+P10325,"Llansol, Maria Gabriela",Pessoa,10325,Female,,,,,,1,1
+P10328,"Bello, Xuan",Pessoa,10328,Male,,,,,,1,1
+P10913,"Rico Verea, Manuel",Pessoa,10913,Male,,,,,,1,1
+P10922,"Prego, Luis",Pessoa,10922,Male,,,,,,1,1
+P10927,"Sobral Fernández, Esther",Pessoa,10927,Female,,,,,,1,1
+E2771,Belagua Ediciones y Comunicación S.L.,Editora,2771,,,,Belagua,2013,,5,3
+E2782,Positivas,Editora,2782,,,,Positivas,1990,,47,35
+E2790,Espiral Maior,Editora,2790,,,,Espiral Maior,1991,,244,180
+E2794,Chan da Pólvora,Editora,2794,,,,Chan da Pólvora,2016,2023,33,31
+E2808,Editora 3D1T0R4,Editora,2808,,,,Editora 3D1T0R4,,,1,1
+E2818,Dirección Xeral de Creación e Difusión Cultural,Editora,2818,,,,Xunta de Galicia,,,1,1
+E2831,Ediciós do Castro,Editora,2831,,,,Ediciós do Castro,1968,2008,45,38
+E2835,Laiovento,Editora,2835,,,,Laiovento,1990,,16,16
+E2837,Edicións Xerais de Galicia,Editora,2837,,,,Edicións Xerais de Galicia,1979,,169,109
+E2842,Chiado Editorial,Editora,2842,,,,Chiado Editorial,,,1,1
+E2844,M. J. Reboredo,Editora,2844,,,,Edição de autor,,,1,1
+E2853,La Voz de Galicia,Editora,2853,,,,La Voz de Galicia,1905,,45,32
+E2858,Scio,Editora,2858,,,,Scio,2000,2006,5,2
+E2862,Fundación Rosalía de Castro,Editora,2862,,,,Fundación Rosalía de Castro,1947,,6,1
+E2944,Auga Editora,Editora,2944,,,,Auga Editora,2008,,3,3
+E2963,Biblos Clube de Lectores,Editora,2963,,,,Biblos Clube de Lectores,2003,2023,12,12
+E2997,"Barreiro Calo, Ricardo",Editora,2997,,,,Edição de autor,,,1,1
+E3001,Follas Novas,Editora,3001,,,,Follas Novas,1971,,71,51
+E3007,Concello da Coruña,Editora,3007,,,,Concello da Coruña,,,1,1
+E3012,Toxosoutos,Editora,3012,,,,Toxosoutos,1988,,69,48
+E3023,Visor Libros,Editora,3023,,,,Visor Libros,,,4,2
+E3029,Asociación para a Dignificación das Vítimas do Fascismo,Editora,3029,,,,Asociación para a Dignificación das Vítimas do Fascismo,2004,,8,3
+E3033,Danú,Editora,3033,,,,Danú,,,12,12
+E3036,El Taller del Poeta,Editora,3036,,,,El Taller del Poeta,2003,2016,38,29
+E3040,Ende,Editora,3040,,,,Ende,,,1,1
+E3041,Apiario,Editora,3041,,,,Apiario,2014,,11,11
+E3057,A.C. Embaixada Prusiana,Editora,3057,,,,A.C. Embaixada Prusiana,,,1,1
+E3077,Concello de Santiago de Compostela,Editora,3077,,,,Concello de Santiago de Compostela,,,13,13
+E3083,Fervenza,Editora,3083,,,,Fervenza,2000,,35,30
+E3085,Deputación de Pontevedra,Editora,3085,,,,Deputación de Pontevedra,,,5,5
+E3089,Bubela,Editora,3089,,,,Bubela,2006,,18,7
+E3099,Meubook,Editora,3099,,,,Meubook,2010,2020,14,7
+E3105,Fundación Manuel María de Estudos Galegos,Editora,3105,,,,Fundación Manuel María de Estudos Galegos,2007,,24,3
+E3110,Amastra-N-Gallar,Editora,3110,,,,Amastra-N-Gallar,2001,,119,61
+E3121,Através Editora,Editora,3121,,,,Através Editora,2009,,18,16
+E3126,Galaxia,Editora,3126,,,,Galaxia,1950,,135,88
+E3130,"Servicio de Publicacións, Deputación Provincial de Pontevedra",Editora,3130,,,,Deputación de Pontevedra,,,7,7
+E3133,Círculo Rojo,Editora,3133,,,,Círculo Rojo,2008,,9,7
+E3135,Lastura,Editora,3135,,,,Lastura,2013,,9,9
+E3143,Concello de Noia,Editora,3143,,,,Concello de Noia,,,4,2
+E3170,Edicións Barbantesa,Editora,3170,,,,Edicións Barbantesa,2010,,18,11
+E3178,Everest Galicia,Editora,3178,,,,Everest Galicia,,,4,4
+E3192,Luz Fandiño,Editora,3192,,,,Edição de autor,,,6,1
+E3195,Morgante,Editora,3195,,,,Morgante,2007,,8,6
+E3196,Antonio Piñeiro,Editora,3196,,,,Antonio Piñeiro,2004,2014,14,9
+E3207,Asociación Cultural e Xuvenil de Ramirás,Editora,3207,,,,Asociación Cultural e Xuvenil de Ramirás,,,3,1
+E3208,Edizer,Editora,3208,,,,Edizer,2009,2015,11,9
+E3218,La Baragaña,Editora,3218,,,,La Baragaña,,,1,1
+E3223,Sociedade de Cultura Valle-Inclán,Editora,3223,,,,Sociedade de Cultura Valle-Inclán,1980,2019,31,24
+E3229,Ouvirmos,Editora,3229,,,,Ouvirmos,2003,,7,5
+E3238,Corona del Sur,Editora,3238,,,,Corona del Sur,1980,,6,3
+E3242,OQO Editora,Editora,3242,,,,OQO Editora,2005,,7,6
+E3250,X. Franco,Editora,3250,,,,Edição de autor,,,1,1
+E3252,Medulia Editorial,Editora,3252,,,,Medulia,2014,,16,14
+E3267,Caldeirón,Editora,3267,,,,Caldeirón,2000,,25,22
+E3276,Irmandade Manuel María,Editora,3276,,,,Irmandade Manuel María,2012,2019,6,5
+E3282,A.C. Amaía,Editora,3282,,,,Letras de Cal,,,3,3
+E3291,Embora,Editora,3291,,,,Embora,1993,,22,17
+E3297,Alvarellos,Editora,3297,,,,Alvarellos Editora,1977,,31,25
+E3300,Uno Editorial,Editora,3300,,,,Uno Editorial,,,2,2
+E3302,Redelibros,Editora,3302,,,,Redelibros,2011,2016,8,7
+E3318,Instituto de Estudos Miñoráns,Editora,3318,,,,Instituto de Estudos Miñoráns,1999,,16,16
+E3322,"Diputación de Pontevedra, Servicio de Publicacións",Editora,3322,,,,Deputación de Pontevedra,,,16,13
+E3328,Asociación Cultural Doble Hache,Editora,3328,,,,Asociación Cultural Doble Hache,,,2,2
+E3336,Editora Urutau,Editora,3336,,,,Editora Urutau,2015,,8,8
+E3344,Punto Didot,Editora,3344,,,,Punto Didot,,,1,1
+E3375,Baía,Editora,3375,,,,Baía,1990,,18,14
+E3385,Concellería da Muller,Editora,3385,,,,Concello de Santiago de Compostela,,,1,1
+E3386,Centro de Gravado Augatinta,Editora,3386,,,,Centro de Gravado Augatinta,,,1,1
+E3390,Cardeñoso,Editora,3390,,,,Cardeñoso,1986,2018,20,15
+E3392,Deputación de Ourense,Editora,3392,,,,Deputación de Ourense,,,9,8
+E3398,Tambre,Editora,3398,,,,Edelvives,1993,,6,5
+E3406,A Mesa pola Normalización Lingüística,Editora,3406,,,,A Mesa pola Normalización Lingüística,,,2,1
+E3422,X. García,Editora,3422,,,,Edição de autor,,,2,1
+E3427,A. Mosquera,Editora,3427,,,,Edição de autor,,,2,1
+E3439,Dirección Xeral de Promoción Cultural,Editora,3439,,,,Xunta de Galicia,,,1,1
+E3455,Trifolium,Editora,3455,,,,Trifolium,,,3,3
+E3457,Rodeira,Editora,3457,,,,Rodeira,,,1,1
+E3463,Consello da Cultura Galega,Editora,3463,,,,Consello da Cultura Galega,,,12,8
+E3466,tarQus editorial,Editora,3466,,,,tarQus editorial,2016,,3,2
+E3473,Candea,Editora,3473,,,,Candea,,,2,2
+E3477,do4 edicións,Editora,3477,,,,do4 edicións,,,1,1
+E3484,Órbigo,Editora,3484,,,,Órbigo,1996,,14,12
+E3491,Deputación Provincial da Coruña,Editora,3491,,,,Deputación da Coruña,,,23,20
+E3511,Canela,Editora,3511,,,,Canela,,,1,1
+E3516,Kalandraka,Editora,3516,,,,Kalandraka,1998,,27,22
+E3522,Cupire Padesa,Editora,3522,,,,Cupire Padesa,,,1,1
+E3526,Abooks,Editora,3526,,,,Abooks,,,1,1
+E3545,Testimonio Compañía Editorial,Editora,3545,,,,Testimonio Compañía Editorial,,,2,1
+E3546,Patrimonio Nacional,Editora,3546,,,,Patrimonio Nacional,,,2,1
+E3554,Xunta de Galicia,Editora,3554,,,,Xunta de Galicia,,,10,8
+E3560,La Oficina Ediciones,Editora,3560,,,,La Oficina Ediciones,,,1,1
+E3575,M. Ramil,Editora,3575,,,,Edição de autor,,,1,1
+E3577,Asociación Celso Emilio Ferreiro,Editora,3577,,,,Asociación Celso Emilio Ferreiro,1989,,14,11
+E3581,Concello de Negreira,Editora,3581,,,,Concello de Negreira,,,5,5
+E3623,A. Silva,Editora,3623,,,,Edição de autor,,,1,1
+E3626,Sacauntos,Editora,3626,,,,Sacauntos,,,1,1
+E3631,Sotelo Blanco,Editora,3631,,,,Sotelo Blanco,1980,,33,26
+E3634,X. Rois,Editora,3634,,,,Edição de autor,,,1,1
+E3641,Asociación Socio-Pedagóxica Galega,Editora,3641,,,,Asociación Socio-Pedagóxica Galega,,,2,2
+E3643,A·lenta Editora,Editora,3643,,,,A·lenta Editora,2019,,1,1
+E3651,Concello de Outes,Editora,3651,,,,Concello de Outes,,,8,8
+E3656,Bartleby,Editora,3656,,,,Bartleby,,,1,1
+E3669,O autor,Editora,3669,,,,Edição de autor,,,11,11
+E3676,Centro PEN de Galicia,Editora,3676,,,,Centro PEN de Galicia,1989,,35,29
+E3677,Acha Escrava,Editora,3677,,,,Acha Escrava,2010,,3,3
+E3679,Fundación Amigos de Galicia,Editora,3679,,,,Fundación Amigos de Galicia,,,4,4
+E3696,TrisTram,Editora,3696,,,,TrisTram,1994,2010,13,13
+E3708,Deputación da Coruña,Editora,3708,,,,Deputación da Coruña,,,5,5
+E3713,Concello de Cabana de Bergantiños,Editora,3713,,,,Concello de Cabana de Bergantiños,,,7,5
+E3740,Fundación Uxío Novoneyra,Editora,3740,,,,Fundación Uxío Novoneyra,,,2,2
+E3818,Plan B Editora,Editora,3818,,,,Plan B Editora,2013,,1,1
+E3833,GaliciaDigital,Editora,3833,,,,GaliciaDigital,,,1,1
+E3845,Fundación Curros Enríquez,Editora,3845,,,,Fundación Curros Enríquez,,,1,1
+E3848,Comisión da Homenaxe,Editora,3848,,,,Comisión da Homenaxe,,,1,1
+E3854,Fundación Eduardo Pondal,Editora,3854,,,,Fundación Eduardo Pondal,,,1,1
+E3864,Ateneo Republicano de Valdeorras,Editora,3864,,,,Ateneo Republicano de Valdeorras,,,1,1
+E3865,Oficina de Arte y Ediciones,Editora,3865,,,,La Oficina Ediciones,,,1,1
+E3887,Centro de Cultura Popular do Limia,Editora,3887,,,,Centro de Cultura Popular do Limia,,,1,1
+E3914,"Concello de Santiago de Compostela, Concellaría de Cultura",Editora,3914,,,,Concello de Santiago de Compostela,,,2,2
+E3915,Editorial Compostela,Editora,3915,,,,Editorial Compostela,1938,,21,19
+E3916,Estaleiro,Editora,3916,,,,Estaleiro,2006,2017,8,7
+E3922,Sauro Buks,Editora,3922,,,,Sauro Buks,,,2,1
+E3925,Instituto de Estudios Chairegos,Editora,3925,,,,Instituto de Estudios Chairegos,2000,,11,9
+E3926,O Figurante,Editora,3926,,,,O Figurante,2012,2015,5,5
+E3930,M. Pato,Editora,3930,,,,Edição de autor,,,1,1
+E3944,M Editora,Editora,3944,,,,M Editora,,,2,2
+E3958,Litoral das Rías,Editora,3958,,,,Litoral das Rías,1953,2020,15,14
+E3971,Linteo,Editora,3971,,,,Linteo,1998,,6,4
+E3991,Centro Ramón Piñeiro para a Investigación en Humanidades,Editora,3991,,,,Centro Ramón Piñeiro para a Investigación en Humanidades,,,13,13
+E3992,"Xunta de Galicia, Consellería de Educación e Ordenación Universitaria, Dirección Xeral de Política Lingüística",Editora,3992,,,,Xunta de Galicia,,,1,1
+E3995,Servizo de Publicacións da Universidade de Vigo,Editora,3995,,,,Universidade de Vigo,,,1,1
+E4009,Real Academia Galega,Editora,4009,,,,Real Academia Galega,,,13,11
+E4018,Asociación Amigos do Patrimonio de Castroverde,Editora,4018,,,,Asociación Amigos do Patrimonio de Castroverde,,,1,1
+E4029,Concello de Padrón,Editora,4029,,,,Concello de Padrón,,,4,4
+E4039,A. Laya,Editora,4039,,,,Edição de autor,,,1,1
+E4052,Franouren Ediciones,Editora,4052,,,,Franouren Ediciones,2007,,4,4
+E4055,A Pena d'Agua,Editora,4055,,,,A Pena d'Agua,2003,,2,2
+E4074,Concello Mondariz,Editora,4074,,,,Concello de Mondariz,,,1,1
+E4157,Q de Vian Cadernos,Editora,4157,,,,Q de Vian Cadernos,2010,2015,15,11
+E4168,Fundación Eira,Editora,4168,,,,Fundación Eira,,,2,1
+E4179,Discursiva,Editora,4179,,,,Discursiva,,,2,1
+E4193,Concello de Foz,Editora,4193,,,,Concello de Foz,,,2,2
+E4199,Concello de Ferrol,Editora,4199,,,,Concello de Ferrol,,,3,2
+E4200,Asociación Cultural Avelino Díaz,Editora,4200,,,,Asociación Cultural Avelino Díaz,,,1,1
+E4228,Teófilo Edicións,Editora,4228,,,,Teófilo,,,4,3
+E4229,Antón Sobral,Editora,4229,,,,Edição de autor,,,1,1
+E4231,Loaira,Editora,4231,,,,Loaira,,,1,1
+E4234,Ediciones del 4 de Agosto,Editora,4234,,,,Ediciones del 4 de Agosto,,,3,3
+E4252,Parlamento de Galicia,Editora,4252,,,,Parlamento de Galicia,,,2,2
+E4279,M. Blanco,Editora,4279,,,,Edição de autor,,,1,1
+E4282,Rinoceronte,Editora,4282,,,,Rinoceronte,2005,,5,4
+E4295,J. Sixto,Editora,4295,,,,Edição de autor,,,1,1
+E4302,Arteu,Editora,4302,,,,Arteu,,,1,1
+E4311,Amargord,Editora,4311,,,,Amargord,,,1,1
+E4315,Entidade Local de Morgadáns-Gondomar,Editora,4315,,,,Entidade Local de Morgadáns-Gondomar,,,7,7
+E4334,Editorial Galega O Meu Libro,Editora,4334,,,,Editorial Galega O Meu Libro,,,3,1
+E4339,Galería Sargadelos,Editora,4339,,,,Galería Sargadelos,,,1,1
+E4352,Concello de Betanzos,Editora,4352,,,,Concello de Betanzos,,,4,3
+E4356,Seleer,Editora,4356,,,,Seleer,,,2,2
+E4377,Ateneo de Pontevedra,Editora,4377,,,,Ateneo de Pontevedra,,,1,1
+E4419,Cuestión de Belleza,Editora,4419,,,,Cuestión de Belleza,2015,,1,1
+E4431,TresCtres,Editora,4431,,,,TresCtres,2001,2012,11,11
+E4437,Vivelibro,Editora,4437,,,,Vivelibro,,,1,1
+E4443,Taller de Insomnios,Editora,4443,,,,Taller de Insomnios,,,1,1
+E4446,Agrupación Cultural Lumieira,Editora,4446,,,,Agrupación Cultural Lumieira,,,2,2
+E4452,Frouseira,Editora,4452,,,,Frouseira,,,2,1
+E4461,Edicións da Curuxa,Editora,4461,,,,Edicións da Curuxa,2010,,2,2
+E4465,Centro de Estudios Galegos da Universidade de San Petersburgo,Editora,4465,,,,Centro de Estudios Galegos da Universidade de San Petersburgo,,,2,2
+E4477,Grupo Cero,Editora,4477,,,,Grupo Cero,,,1,1
+E4483,Sons de Galicia,Editora,4483,,,,Sons de Galicia,,,2,2
+E4500,Guindastre Edicións,Editora,4500,,,,Guindastre Edicións,,,1,1
+E4508,Primerapersona,Editora,4508,,,,Primerapersona,2003,2013,5,2
+E4518,Cátedra,Editora,4518,,,,Cátedra,,,2,2
+E4523,Concello de Vigo,Editora,4523,,,,Concello de Vigo,,,1,1
+E4526,"Deputación de Lugo, Area de Deseño e Artesanía",Editora,4526,,,,Deputación de Lugo,,,1,1
+E4529,Edicións do Cerne,Editora,4529,,,,Edicións do Cerne,,,2,2
+E4537,El Patito Editorial,Editora,4537,,,,El Patito Editorial,2007,,6,3
+E4540,Espasa-Calpe,Editora,4540,,,,Espasa-Calpe,,,1,1
+E4549,Asociación Cultural Eira Vella,Editora,4549,,,,Asociación Cultural Eira Vella,1992,,6,5
+E4553,Citania,Editora,4553,,,,Citania,,,1,1
+E4571,"Xunta de Galicia, Secretaría Xeral de Política Lingüística",Editora,4571,,,,Xunta de Galicia,,,2,2
+E4583,Concello de Rianxo,Editora,4583,,,,Concello de Rianxo,,,5,3
+E4592,Asociación Galega de Emigrantes Retornados,Editora,4592,,,,Asociación Galega de Emigrantes Retornados,,,1,1
+E4596,Xoaquín Agulla Pizcueta,Editora,4596,,,,Edição de autor,,,1,1
+E4604,Fundación Cultural da Estrada,Editora,4604,,,,Fundación Cultural da Estrada,,,1,1
+E4626,A Nosa Terra,Editora,4626,,,,A Nosa Terra,1987,2010,6,4
+E4633,D. Rodríguez,Editora,4633,,,,Edição de autor,,,1,1
+E4661,Asociación Petón do Lobo,Editora,4661,,,,Asociación Petón do Lobo,,,1,1
+E4678,Edicións Anosacosta,Editora,4678,,,,Edicións Anosacosta,2010,,1,1
+E4684,Asociación Cultural Alexandre Bóveda,Editora,4684,,,,Asociación Cultural Alexandre Bóveda,,,1,1
+E4723,Asociación Amigos Johan Carballeira e Sacauntos,Editora,4723,,,,Asociación Amigos Johan Carballeira,,,1,1
+E4735,Trea,Editora,4735,,,,Trea,,,2,2
+E4741,Asociación Cultural Raigañas,Editora,4741,,,,Asociación Cultural Raigañas,,,1,1
+E4761,Progresele,Editora,4761,,,,Progresele,,,1,1
+E4763,María Xose Lamas,Editora,4763,,,,Edição de autor,,,1,1
+E4768,Concello de Muxía,Editora,4768,,,,Concello de Muxía,,,1,1
+E4774,Fundación Luis Tilve,Editora,4774,,,,Fundación Luis Tilve,,,1,1
+E4784,Chaira,Editora,4784,,,,Chaira,,,2,1
+E4803,Figurandorecuerdo(s),Editora,4803,,,,Figurandorecuerdo(s),,,2,1
+E4804,Faktoría K de Libros,Editora,4804,,,,Faktoría K de Libros,2005,,11,10
+E4810,Tulipa Editorial,Editora,4810,,,,Tulipa Editorial,2015,,4,4
+E4821,M. González,Editora,4821,,,,Edição de autor,,,1,1
+E4894,Creade Impresión Digital,Editora,4894,,,,Creade Impresión Digital,,,1,1
+E4905,M.Soutelo,Editora,4905,,,,Edição de autor,,,1,1
+E4948,PAI Edicións,Editora,4948,,,,PAI,,,1,1
+E4968,Lonxitude de Onda,Editora,4968,,,,Lonxitude de Onda,,,1,1
+E4972,Xaniño Editorial,Editora,4972,,,,Xaniño Editorial,,,1,1
+E4989,"María Pura Torres Magariños ""Asociación Galega das Artes""",Editora,4989,,,,Edição de autor,,,1,1
+E5006,PAI,Editora,5006,,,,PAI,,,1,1
+E5023,Aturuxo,Editora,5023,,,,Aturuxo,,,1,1
+E5034,A Formiga Rabicha,Editora,5034,,,,A Formiga Rabicha,2007,,1,1
+E5039,"Sociedade Filatélica, de Arte e Humanidades ""Eume""",Editora,5039,,,,"Sociedade Filatélica, de Arte e Humanidades ""Eume""",,,1,1
+E5053,Corsárias Livros,Editora,5053,,,,Corsárias Livros,2011,,3,3
+E5060,Ir Indo,Editora,5060,,,,Ir Indo,1985,,10,7
+E5071,Dos Sardinas,Editora,5071,,,,Dos Sardinas,,,1,1
+E5076,Aira,Editora,5076,,,,Aira,2017,,2,2
+E5084,Trymar,Editora,5084,,,,Trymar,2000,2017,8,7
+E5090,Edicións da Arcela,Editora,5090,,,,Edicións da Arcela,,,1,1
+E5091,"Deputación Provincial de Lugo, Servizo de Publicacións",Editora,5091,,,,Deputación de Lugo,,,3,2
+E5095,Emerxente,Editora,5095,,,,Emerxente,,,3,3
+E5098,"Concellería de Cultura, Concello de Vilagarcía",Editora,5098,,,,Concello de Vilagarcía,,,1,1
+E5101,Técnicas & Gramaxe S.L.,Editora,5101,,,,Técnicas & Gramaxe S.L.,2006,2022,5,5
+E5104,Uma petit cascuda independiente,Editora,5104,,,,Uma petit cascuda independiente,,,1,1
+E5106,Noitarenga,Editora,5106,,,,Noitarenga,1995,2005,7,6
+E5126,Eneida,Editora,5126,,,,Eneida,,,1,1
+E5128,Carena,Editora,5128,,,,Carena,,,1,1
+E5156,Casa Museo Manuel Antonio,Editora,5156,,,,Casa Museo Manuel Antonio,,,1,1
+E5159,Consorcio de Santiago,Editora,5159,,,,Consorcio de Santiago,,,1,1
+E5169,Mantícora-Deseño,Editora,5169,,,,Mantícora-Deseño,,,1,1
+E5179,Xoán Corral,Editora,5179,,,,Edição de autor,,,1,1
+E5195,Concello de Lugo,Editora,5195,,,,Concello de Lugo,,,3,2
+E5196,Ágora cultural,Editora,5196,,,,Ágora cultural,,,1,1
+E5206,Xermolos,Editora,5206,,,,Asociación Cultural Xermolos,1977,,6,5
+E5210,Regal Xunqueira,Editora,5210,,,,Regal Xunqueira,,,1,1
+E5243,Axóuxere,Editora,5243,,,,Axóuxere,2011,,2,2
+E5245,Tres Laboratorio Artístico,Editora,5245,,,,Tres Laboratorio Artístico,,,1,1
+E5258,Fundación Luis Seoane,Editora,5258,,,,Fundación Luis Seoane,,,1,1
+E5262,Asociación Cultural Miserela,Editora,5262,,,,Asociación Cultural Miserela,,,1,1
+E5267,Galebook,Editora,5267,,,,Galebook,2010,2015,4,3
+E5272,A Porta Verde do Sétimo Andar,Editora,5272,,,,A Porta Verde do Sétimo Andar,,,1,1
+E5302,Contraste Editora,Editora,5302,,,,Contraste Editora,,,1,1
+E5354,[R.E. Cortiñas],Editora,5354,,,,Edição de autor,,,1,1
+E5356,Salvador Ribadomar e Sacauntos,Editora,5356,,,,Sacauntos,,,1,1
+E5361,Todogrove,Editora,5361,,,,Todogrove,2008,,1,1
+E5364,Edicións do Cumio,Editora,5364,,,,Edicións do Cumio,1988,2017,5,5
+E5373,"Bolanda, Ediciones y Marketing",Editora,5373,,,,"Bolanda, Ediciones y Marketing",2004,2025,5,4
+E5381,Xosé Manuel Lobato,Editora,5381,,,,Edição de autor,,,1,1
+E5384,Andavira,Editora,5384,,,,Andavira,1984,,3,1
+E5446,Urco Editora,Editora,5446,,,,Urco Editora,2007,,3,3
+E5455,Tribaldes,Editora,5455,,,,Tribaldes,,,1,1
+E5479,Nigra,Editora,5479,,,,Nigra Trea,,,1,1
+E5487,Seminario de Estudos Comarcais da Costa da Morte,Editora,5487,,,,Seminario de Estudos Comarcais da Costa da Morte,,,1,1
+E5493,"ALGA, Activadores da Lingua",Editora,5493,,,,"ALGA, Activadores da Lingua",,,1,1
+E5545,Concello de Porto do Son,Editora,5545,,,,Concello de Porto do Son,,,1,1
+E5549,IES Manuel Murguía,Editora,5549,,,,IES Manuel Murguía,,,1,1
+E5552,"Universidade de Santiago de Compostela, Servizo de publicacións e Intercambio Científico",Editora,5552,,,,Universidade de Santiago de Compostela,,,5,5
+E5557,Pre-Textos,Editora,5557,,,,Pre-Textos,,,1,1
+E5559,Enrique Mora Morandeira,Editora,5559,,,,Edição de autor,,,1,1
+E5574,"Unión Comarcal CC.OO., Secretaría da Muller",Editora,5574,,,,"Unión Comarcal de CC.OO. de Vigo, Secretaría da Muller",,,1,1
+E5576,"Unión Comarcal de CC.OO. de Vigo, Secretaría da Muller",Editora,5576,,,,"Unión Comarcal de CC.OO. de Vigo, Secretaría da Muller",,,1,1
+E5584,Engaiolarte,Editora,5584,,,,Engaiolarte,2013,,2,2
+E5607,"Xunta de Galicia, Secretaría Xeral de Cultura",Editora,5607,,,,Xunta de Galicia,,,1,1
+E5613,Edicións Imaxinarias,Editora,5613,,,,Edicións Imaxinarias,,,1,1
+E5618,Boreal,Editora,5618,,,,Boreal,,,2,2
+E5620,Club de Opinión Portocelo,Editora,5620,,,,Club de Opinión Portocelo,,,1,1
+E5642,Imp. Marcaxe,Editora,5642,,,,Imp. Marcaxe,,,1,1
+E5643,S. Ramos,Editora,5643,,,,Edição de autor,,,1,1
+E5648,"Difusora de Letras, Artes e Ideas",Editora,5648,,,,"Difusora de Letras, Artes e Ideas",2003,,2,2
+E5650,NINO,Editora,5650,,,,NINO,,,1,1
+E5656,Asociación Galega para a Cultura e a Ecoloxía,Editora,5656,,,,Asociación Galega para a Cultura e a Ecoloxía,1986,,6,5
+E5664,Fundación O Grelo-Amigos de Galicia,Editora,5664,,,,Fundación O Grelo-Amigos de Galicia,,,2,2
+E5703,Caixanova,Editora,5703,,,,Caixanova,,,1,1
+E5715,Casa de Rosalía,Editora,5715,,,,Casa de Rosalía,,,1,1
+E5727,"Fundación Cuña-Casasbellas, Fabulario Novo-Hipofanías",Editora,5727,,,,"Fundación Cuña-Casasbellas, Fabulario Novo-Hipofanías",,,3,2
+E5732,Círculo Edições,Editora,5732,,,,Círculo Edições,,,1,1
+E5740,C. Barja,Editora,5740,,,,Edição de autor,,,1,1
+E5741,Xalundes Grupo Surrealista Galego,Editora,5741,,,,Xalundes Grupo Surrealista Galego,,,1,1
+E5768,"Centro Cultural, Deputación de Ourense",Editora,5768,,,,Deputación de Ourense,,,2,2
+E5770,Deputación Provincial de Pontevedra,Editora,5770,,,,Deputación de Pontevedra,,,3,3
+E5775,Área de Normalización Lingüística da Universidade de Vigo,Editora,5775,,,,Universidade de Vigo,,,1,1
+E5780,Didot,Editora,5780,,,,Punto Didot,,,1,1
+E5792,Sacauntos S. Coop. Galega,Editora,5792,,,,Sacauntos,2009,,1,1
+E5805,Ditsch España,Editora,5805,,,,Ditsch España,,,1,1
+E5809,Grupo de Comunicación de Galicia en el Mundo,Editora,5809,,,,Grupo de Comunicación de Galicia en el Mundo,,,1,1
+E5824,O fogar das palabras,Editora,5824,,,,O fogar das palabras,,,1,1
+E5827,J.J. Fernández,Editora,5827,,,,Edição de autor,,,1,1
+E5843,María Luisa Pereiro Fernández,Editora,5843,,,,Edição de autor,,,1,1
+E5851,Duen de Bux,Editora,5851,,,,Duen de Bux,,,3,3
+E5878,"Xunta de Galicia, Dirección Xeral de Promoción Cultural",Editora,5878,,,,Xunta de Galicia,,,1,1
+E5881,M. Martínez,Editora,5881,,,,Edição de autor,,,1,1
+E5886,"Dirección Xeral de Política Lingüística, Xunta de Galicia",Editora,5886,,,,Xunta de Galicia,,,4,4
+E5888,Aflera,Editora,5888,,,,Aflera,,,2,1
+E5889,Akal,Editora,5889,,,,Akal,,,1,1
+E5902,Extramuros,Editora,5902,,,,Extramuros,,,1,1
+E5922,Concello de Campo Lameiro,Editora,5922,,,,Concello de Campo Lameiro,,,1,1
+E5924,Colectivo de Apoio a Senlheiro,Editora,5924,,,,Colectivo de Apoio a Senlheiro,,,1,1
+E5946,Deputación Provincial de Lugo,Editora,5946,,,,Deputación de Lugo,,,1,1
+E5965,Finis Terrae,Editora,5965,,,,Finis Terrae,,,1,1
+E5982,Perseidas Editor SLU,Editora,5982,,,,Perseidas,2016,,2,1
+E6001,Huerga y Fierro,Editora,6001,,,,Huerga y Fierro,,,4,4
+E6016,Dirección Xeral de Xuventude e Solidariedade,Editora,6016,,,,Xunta de Galicia,,,1,1
+E6029,M. Rivas,Editora,6029,,,,Edição de autor,,,1,1
+E6035,Concello de Vilagarcía de Arousa,Editora,6035,,,,Concello de Vilagarcía de Arousa,,,2,2
+E6038,Neopàtria,Editora,6038,,,,Neopàtria,,,1,1
+E6049,Instituto de Estudios Valdeorreses,Editora,6049,,,,Instituto de Estudios Valdeorreses,,,1,1
+E6055,Concello de Vila de Cruces,Editora,6055,,,,Concello de Vila de Cruces,,,1,1
+E6056,Fundación Xosé Neira Vilas,Editora,6056,,,,Fundación Xosé Neira Vilas,,,1,1
+E6123,"Momán Noval, Alberte",Editora,6123,,,,Edição de autor,,,1,1
+E6125,Concello de A Estrada,Editora,6125,,,,Concello de A Estrada,,,1,1
+E6139,Aqua,Editora,6139,,,,Aqua,,,1,1
+E6146,Academia Galega da Língua Portuguesa,Editora,6146,,,,Academia Galega da Língua Portuguesa,,,1,1
+E6155,Viena,Editora,6155,,,,Viena,,,1,1
+E6159,Cuarto de Inverno,Editora,6159,,,,Cuarto de Inverno,2019,,1,1
+E6179,"Consellería de Cultura, Comunicación Social e Turismo",Editora,6179,,,,Xunta de Galicia,,,4,3
+E6198,Fabulatorio,Editora,6198,,,,Fabulatorio,2012,,1,1
+E6205,José López Méndez,Editora,6205,,,,Edição de autor,,,1,1
+E6217,Ana Vila Portomeñe,Editora,6217,,,,Edição de autor,,,3,1
+E6225,Concello de Parada do Sil,Editora,6225,,,,Concello de Parada do Sil,,,1,1
+E6229,G.A. Fernández da Ponte,Editora,6229,,,,Edição de autor,,,1,1
+E6252,Edicións Minskeiro,Editora,6252,,,,Edicións Minskeiro,,,1,1
+E6254,Aliar Ediciones,Editora,6254,,,,Aliar Ediciones,,,1,1
+E6285,Biblioteca de Mesopotamia,Editora,6285,,,,Chan da Pólvora,,,2,2
+E6298,"Agrelo Arxóns, Lois Denís",Editora,6298,,,,Edição de autor,,,1,1
+E6304,X. A. Suárez,Editora,6304,,,,Edição de autor,,,1,1
+E6330,Fundación Celso Emilio Ferreiro,Editora,6330,,,,Fundación Celso Emilio Ferreiro,,,1,1
+E6335,Concello de Xermade,Editora,6335,,,,Concello de Xermade,,,1,1
+E6368,"Aula de Poesia Jordi Jové, Universitat de Lleida",Editora,6368,,,,"Aula de Poesia Jordi Jové, Universitat de Lleida",,,1,1
+E6370,Era,Editora,6370,,,,Era,,,1,1
+E6374,Jesús Mosteiro Raído,Editora,6374,,,,Edição de autor,,,1,1
+E6395,Agrupación Cultural Nós de Moaña,Editora,6395,,,,Agrupación Cultural Nós de Moaña,,,1,1
+E6420,"Xunta de Galicia, Dirección Xeral de Creación e Difusión Cultural",Editora,6420,,,,Xunta de Galicia,,,1,1
+E6438,"Centro Gallego de Buenos Aires, Instituto Argentino de Cultura Gallega",Editora,6438,,,,"Centro Gallego de Buenos Aires, Instituto Argentino de Cultura Gallega",,,1,1
+E6463,Sociedad Artística Ferrolana,Editora,6463,,,,Sociedad Artística Ferrolana,,,2,2
+E6490,X. Rodríguez,Editora,6490,,,,Edição de autor,,,1,1
+E6500,Francka,Editora,6500,,,,Francka,,,1,1
+E6505,Antonio Ramudo Rieiro,Editora,6505,,,,Edição de autor,,,1,1
+E6513,Artefacto Editorial,Editora,6513,,,,Artefacto Editorial,,,1,1
+E6524,Mouladurioù Hor Yezh,Editora,6524,,,,Mouladurioù Hor Yezh,,,1,1
+E6543,Deputación de Lugo,Editora,6543,,,,Deputación de Lugo,,,2,2
+E6552,Recreo Cultural da Estrada,Editora,6552,,,,Recreo Cultural da Estrada,,,1,1
+E6555,"Concello de Lugo, Concellería de Cultura, Turismo, Xuventude e Promoción da Lingua",Editora,6555,,,,Concello de Lugo,,,1,1
+E6593,Ricardo Seixo,Editora,6593,,,,Edição de autor,,,1,1
+E6601,"Servicio de Publicaciones, Diputación Provincial de Lugo",Editora,6601,,,,Deputación de Lugo,,,1,1
+E6619,"Sociedad Cultural, Recreativa e Deportiva Fillos de Ois",Editora,6619,,,,"Sociedad Cultural, Recreativa e Deportiva Fillos de Ois",,,1,1
+E6648,Joshua Alonso Mateo,Editora,6648,,,,Edição de autor,,,1,1
+E6657,Antonio Fernando Laya López,Editora,6657,,,,Edição de autor,,,1,1
+E6662,Revista Estudios,Editora,6662,,,,Revista Estudios,,,1,1
+E6671,E. Cereijo,Editora,6671,,,,Edição de autor,,,2,1
+E6678,Fundación Feiraco,Editora,6678,,,,Fundación Feiraco,,,1,1
+E6694,Novos Vieiros,Editora,6694,,,,Novos Vieiros,,,2,1
+E6699,Arraianos Producións,Editora,6699,,,,Arraianos Producións,,,1,1
+E6716,2Teixos,Editora,6716,,,,2Teixos,,,1,1
+E6722,"Muiño do Vento, Asociación Sociocultural de Canido",Editora,6722,,,,"Muiño do Vento, Asociación Sociocultural de Canido",,,1,1
+E6723,J. Mosteiro,Editora,6723,,,,Edição de autor,,,1,1
+E6726,Edicións do Peirao,Editora,6726,,,,Edicións do Peirao,,,1,1
+E6749,M. Castro,Editora,6749,,,,Edição de autor,,,1,1
+E6756,Servizo de Publicacións do Concello do Rosal,Editora,6756,,,,Concello do Rosal,,,1,1
+E6780,Hércules,Editora,6780,,,,Hércules,,,2,2
+E6790,Nesto Pilán,Editora,6790,,,,Edição de autor,,,1,1
+E6809,A. Fernández Pousada,Editora,6809,,,,Edição de autor,,,1,1
+E6814,QVE,Editora,6814,,,,Que Vayan Ellos,,,1,1
+E6824,"Centro de Estudios Rosalianos, Fundación Rosalía de Castro",Editora,6824,,,,"Centro de Estudios Rosalianos, Fundación Rosalía de Castro",,,1,1
+E6835,Bubok,Editora,6835,,,,Bubok,,,2,2
+E6838,Universidade da Coruña,Editora,6838,,,,Universidade da Coruña,,,2,2
+E6839,Finis Terrae Ediciones,Editora,6839,,,,Finis Terrae,,,2,1
+E6841,C. Gayoso,Editora,6841,,,,Edição de autor,,,1,1
+E6845,Pighog Press,Editora,6845,,,,Pighog Press,,,1,1
+E6858,G. Balado,Editora,6858,,,,Edição de autor,,,1,1
+E6890,"Nino, Centro de Impresión Dixital",Editora,6890,,,,NINO,,,1,1
+E6900,Institución Benéfico Social Padre Rubinos,Editora,6900,,,,Institución Benéfico Social Padre Rubinos,,,1,1
+E7008,Ozocogz,Editora,7008,,,,Ozocogz,,,1,1
+E7019,Instituto Magno de Ensino non Regulado,Editora,7019,,,,Instituto Magno de Ensino non Regulado,,,2,1
+E7024,Fundación Pedro Barrié de la Maza,Editora,7024,,,,Fundación Pedro Barrié de la Maza,,,2,2
+E7033,Confraría de Pescadores Lira,Editora,7033,,,,Confraría de Pescadores Lira,,,1,1
+E7035,Concello de A Cañiza,Editora,7035,,,,Concello de A Cañiza,,,1,1
+E7037,Sons da Terra Verde,Editora,7037,,,,Sons da Terra Verde,,,1,1
+E7039,Liber Factory,Editora,7039,,,,Liber Factory,,,1,1
+E7046,"Departamento de Galego-Portugués, Francés e Lingüística, Universidade da Coruña",Editora,7046,,,,Universidade da Coruña,,,1,1
+E7047,Biblioteca-Arquivo Teatral Francisco Pillado Mayor,Editora,7047,,,,Biblioteca-Arquivo Teatral Francisco Pillado Mayor,,,1,1
+E7056,Aflera Producciones,Editora,7056,,,,Aflera,,,1,1
+E7066,X.M. Santiso,Editora,7066,,,,Edição de autor,,,1,1
+E7069,M.ª Dolores González Pérez,Editora,7069,,,,Edição de autor,,,2,1
+E7083,Concello de Ponteareas,Editora,7083,,,,Concello de Ponteareas,,,1,1
+E7088,"Deputación de Lugo, Área de Cultura",Editora,7088,,,,Deputación de Lugo,,,2,1
+E7095,"Publicacións, Área de Cultura, Deputación de Lugo",Editora,7095,,,,Deputación de Lugo,,,1,1
+E7116,Concello de Curtis,Editora,7116,,,,Concello de Curtis,,,1,1
+E7184,Fouce,Editora,7184,,,,Fouce,,,1,1
+E7207,Instituto de Estudios Avanzados USACH,Editora,7207,,,,Instituto de Estudios Avanzados USACH,,,1,1
+E7219,Concello de Corcubión,Editora,7219,,,,Concello de Corcubión,,,1,1
+E7224,C. González,Editora,7224,,,,Edição de autor,,,1,1
+E7263,Fundación Cidade da Cultura de Galicia,Editora,7263,,,,Fundación Cidade da Cultura de Galicia,,,1,1
+E7279,Senén Vaamonde Polo,Editora,7279,,,,Edição de autor,,,1,1
+E7293,Ruibarbo,Editora,7293,,,,Ruibarbo,,,1,1
+E7302,Valedor do Pobo,Editora,7302,,,,Valedor do Pobo,,,1,1
+E7303,Conticanticos,Editora,7303,,,,Conticanticos,,,1,1
+E7311,J. Carballo,Editora,7311,,,,Edição de autor,,,1,1
+E7313,Agustín Lorenzo Fidalgo,Editora,7313,,,,Edição de autor,,,1,1
+E7345,El Eco Franciscano,Editora,7345,,,,El Eco Franciscano,,,1,1
+E7360,A. García,Editora,7360,,,,Edição de autor,,,1,1
+E7391,Asociación Cultural Monte Branco,Editora,7391,,,,Asociación Cultural Monte Branco,,,1,1
+E7396,Liliputienses,Editora,7396,,,,Liliputienses,,,2,1
+E7411,C.E. Pérez,Editora,7411,,,,Edição de autor,,,1,1
+E7447,Produccións Culturais Artesa,Editora,7447,,,,Produccións Culturais Artesa,,,2,2
+E7478,"Concello de Cambre, Área de Cultura e Turismo",Editora,7478,,,,Concello de Cambre,,,1,1
+E7480,M.A. Mouriño,Editora,7480,,,,Edição de autor,,,1,1
+E7482,V. Sanjurjo,Editora,7482,,,,Edição de autor,,,1,1
+E7485,Fachinelo,Editora,7485,,,,Fachinelo,,,2,1
+E7503,Nuevos Escritores,Editora,7503,,,,Nuevos Escritores,,,1,1
+E7506,Romania Minor,Editora,7506,,,,Romania Minor,,,1,1
+E7539,Letras de Autor,Editora,7539,,,,Letras de Autor,,,1,1
+E7571,Proxecto de Unión Libre,Editora,7571,,,,Proxecto de Unión Libre,,,1,1
+E7575,Pangeia,Editora,7575,,,,Pangeia,,,1,1
+E7581,F. Roberto Gordaliza,Editora,7581,,,,Edição de autor,,,1,1
+E7583,Asociación de Escritores Extremeños,Editora,7583,,,,Asociación de Escritores Extremeños,,,1,1
+E7587,"Fudación Rosalía de Castro, Centro de Estudios Rosalianos",Editora,7587,,,,"Centro de Estudios Rosalianos, Fundación Rosalía de Castro",,,1,1
+E7588,"Universitat de València, Aula de Poesía de la Facultat de Filología",Editora,7588,,,,Universitat de València,,,1,1
+E7591,"Universitat de les Illes Balears, Servei de Publicacions i Intercanvi Científic",Editora,7591,,,,Universitat de les Illes Balears,,,1,1
+E7606,Abada,Editora,7606,,,,Abada,,,1,1
+E7610,Universidad de Alicante,Editora,7610,,,,Universidad de Alicante,,,1,1
+E7620,Alfonso Rey López,Editora,7620,,,,Edição de autor,,,1,1
+E7682,H. P. Comunicação,Editora,7682,,,,H. P. Comunicação,,,1,1
+E7689,Eurisaces editora,Editora,7689,,,,Eurisaces editora,,,1,1
+E7695,Edicions del Buc,Editora,7695,,,,Edicions del Buc,,,1,1
+E7697,Fundación Barrié,Editora,7697,,,,Fundación Barrié,,,1,1
+E7705,Asociación Cívico-cultural Terra de Outes,Editora,7705,,,,Asociación Cívico-cultural Terra de Outes,,,1,1
+E7710,E. Ramallal,Editora,7710,,,,Edição de autor,,,1,1
+E7714,Concello de Viveiro,Editora,7714,,,,Concello de Viveiro,,,1,1
+E7769,Patronato Rosalía de Castro,Editora,7769,,,,Patronato Rosalía de Castro,,,1,1
+E7794,R. García,Editora,7794,,,,Edição de autor,,,1,1
+E7825,X. L. Santos,Editora,7825,,,,Edição de autor,,,1,1
+E7829,Promocións Culturais Galegas,Editora,7829,,,,Promocións Culturais Galegas,,,1,1
+E7836,Universidade de Vigo,Editora,7836,,,,Universidade de Vigo,,,1,1
+E7873,Quequeres,Editora,7873,,,,Quequeres,,,1,1
+E7895,Secretaría Xeral de Política Lingüística,Editora,7895,,,,Xunta de Galicia,,,1,1
+E7904,Agencia Gráfica Gallega,Editora,7904,,,,Agencia Gráfica Gallega,,,1,1
+E7914,Concello de Cambados,Editora,7914,,,,Concello de Cambados,,,2,2
+E7921,El gato gris,Editora,7921,,,,El gato gris,,,1,1
+E7923,Máis deseño,Editora,7923,,,,Máis deseño,,,1,1
+E7934,L. Pena,Editora,7934,,,,Edição de autor,,,1,1
+E7938,L. Vázquez,Editora,7938,,,,Edição de autor,,,1,1
+E7943,Tirar do Fío,Editora,7943,,,,Tirar do Fío,,,1,1
+E7947,Franck Meyer,Editora,7947,,,,Edição de autor,,,1,1
+E7949,N. Fernandez,Editora,7949,,,,Edição de autor,,,1,1
+E7969,R. Bastón,Editora,7969,,,,R. Bastón,,,1,1
+E7986,Armonía Universal,Editora,7986,,,,Armonía Universal,,,1,1
+E7987,Cándido Duro Domínguez,Editora,7987,,,,Edição de autor,,,1,1
+E8051,Alfonso Daniel Fernández Pousada,Editora,8051,,,,Edição de autor,,,1,1
+E8080,AZETA,Editora,8080,,,,AZETA,,,1,1
+E8090,Xefatura Superior de Policía de Galicia,Editora,8090,,,,Xefatura Superior de Policía de Galicia,,,1,1
+E8107,Asociación Gallega de Enseñanza Profesional,Editora,8107,,,,Asociación Gallega de Enseñanza Profesional,,,1,1
+E8109,L. Chapela,Editora,8109,,,,Edição de autor,,,2,1
+E8138,Sao,Editora,8138,,,,Edição de autor,,,1,1
+E8238,Atlantia Edicións,Editora,8238,,,,Atlantia Edicións,,,1,1
+E8295,Concello da Pobra,Editora,8295,,,,Concello da Pobra,,,1,1
+E8300,A.C.C. Terra de Outes,Editora,8300,,,,Asociación Cívico-cultural Terra de Outes,,,1,1
+E8324,Librería Ler,Editora,8324,,,,Librería Ler,,,1,1
+E8385,A. Lorenzo,Editora,8385,,,,Edição de autor,,,1,1
+E8395,Mónica Justo Pérez,Editora,8395,,,,Edição de autor,,,1,1
+E8397,Irmandade dos Vinhos Galegos,Editora,8397,,,,Irmandade dos Vinhos Galegos,,,1,1
+E8398,Terra Cha.Xa,Editora,8398,,,,Terra Cha.Xa,,,1,1
+E8418,Fundación Vicente Risco,Editora,8418,,,,Fundación Vicente Risco,,,1,1
+E8419,Consellería do Medio Rural,Editora,8419,,,,Xunta de Galicia,,,1,1
+E8430,Asociación Cultural Os Castros,Editora,8430,,,,Asociación Cultural Os Castros,,,1,1
+E8443,Trabe,Editora,8443,,,,Trabe,,,2,2
+E8483,Septentrión,Editora,8483,,,,Septentrión,,,1,1
+E8490,Editora Valer,Editora,8490,,,,Editora Valer,,,1,1
+E8493,Associaçom Galega da Língua,Editora,8493,,,,Associaçom Galega da Língua,,,3,3
+E8504,Centro de Ediciones de la Diputación de Málaga,Editora,8504,,,,Centro de Ediciones de la Diputación de Málaga,,,1,1
+E8537,Baia Fernández de la Torre,Editora,8537,,,,Edição de autor,,,2,1
+E8540,M. Gil,Editora,8540,,,,Edição de autor,,,1,1
+E8555,NINO-Centro de Imp. Digital,Editora,8555,,,,NINO,,,1,1
+E8556,Inés de Castro,Editora,8556,,,,Inés de Castro,,,1,1
+E8575,"Sala de Arte, Caixa de Pontevedra",Editora,8575,,,,Caixa de Pontevedra,,,1,1
+E8651,Librería Bahía,Editora,8651,,,,Librería Bahía,,,1,1
+E8654,Ricardo Seixo Fernández,Editora,8654,,,,Edição de autor,,,1,1
+E8674,C. Rodríguez,Editora,8674,,,,Edição de autor,,,1,1
+E8685,Mª Carmen Reimóndez Portela,Editora,8685,,,,Edição de autor,,,2,1
+E8686,Fermín Gómez Rodríguez,Editora,8686,,,,Edição de autor,,,2,1
+E8694,IBISA,Editora,8694,,,,IBISA,,,1,1
+E8746,C. Eiroa,Editora,8746,,,,Edição de autor,,,1,1
+E8748,María Dolores Losada López,Editora,8748,,,,Edição de autor,,,1,1
+E8788,Fundación Penzol,Editora,8788,,,,Fundación Penzol,,,2,2
+E8791,Fundación Soto de Fión,Editora,8791,,,,Fundación Soto de Fión,,,1,1
+E8914,La Rectoral,Editora,8914,,,,La Rectoral,,,1,1
+E8924,VL,Editora,8924,,,,Vampirodelibros,,,1,1
+E8934,Provincia Franciscana de Santiago,Editora,8934,,,,Provincia Franciscana de Santiago,,,1,1
+E9464,Sons Galiza,Editora,9464,,,,Sons Galiza,,,1,1
+E9468,Concellería de Xuventude e Normalización Lingüística,Editora,9468,,,,Concello de Betanzos,,,1,1
+E9470,Alternativa,Editora,9470,,,,Alternativa,,,1,1
+E9482,Non ou edicións,Editora,9482,,,,Non ou edicións,,,1,1
+E9492,Caixotim,Editora,9492,,,,Caixotim,,,1,1
+E9514,Xabier Vila Fernández,Editora,9514,,,,Edição de autor,,,1,1
+E9534,Henrique Feixó Feixó,Editora,9534,,,,Edição de autor,,,1,1
+E9554,Arte Tripharia,Editora,9554,,,,Arte Tripharia,1980,,14,11
+E9557,"Deputación Provincial de Pontevedra, Servizo de Publicacións",Editora,9557,,,,Deputación de Pontevedra,,,4,4
+E9565,Instituto Argentino de Cultura Gallega,Editora,9565,,,,"Centro Gallego de Buenos Aires, Instituto Argentino de Cultura Gallega",,,1,1
+E9604,DTP,Editora,9604,,,,DTP,,,1,1
+E9638,Edições da Galiza,Editora,9638,,,,Edições da Galiza,,,2,2
+E9640,eEdiçons Infinitas,Editora,9640,,,,Ediçons Infinitas,,,1,1
+E9666,Casa da Gramática,Editora,9666,,,,Casa da Gramática,,,2,2
+E9668,Promocións Culturais Artesa,Editora,9668,,,,Produccións Culturais Artesa,,,1,1
+E9690,"Centro de Linguas Modernas, Servizo de Normalización Lingüística",Editora,9690,,,,Universidade de Santiago de Compostela,,,1,1
+E9693,José María García-Rodríguez,Editora,9693,,,,Edição de autor,,,1,1
+E9701,Francisco José Candeira González,Editora,9701,,,,Edição de autor,,,1,1
+E9706,Árdora,Editora,9706,,,,Árdora,,,1,1
+E9715,Nympharum,Editora,9715,,,,Nympharum,,,1,1
+E9717,Astralón,Editora,9717,,,,Astralón,,,2,1
+E9720,Museo de Pontevedra,Editora,9720,,,,Museo de Pontevedra,,,1,1
+E9724,A Cantaruxa,Editora,9724,,,,A Cantaruxa,,,1,1
+E9741,Tusquets,Editora,9741,,,,Tusquets,,,1,1
+E9743,Xosé María Guillén Rodríguez,Editora,9743,,,,Edição de autor,,,1,1
+E9744,Edições Tema,Editora,9744,,,,Edições Tema,,,2,2
+E9749,Octaedro,Editora,9749,,,,Octaedro,,,1,1
+E9753,Fundación Premios Mayte,Editora,9753,,,,Fundación Premios Mayte,,,1,1
+E9755,Grupo Correo Gallego,Editora,9755,,,,Grupo Correo Gallego,,,1,1
+E9756,Concello de Santiago,Editora,9756,,,,Concello de Santiago de Compostela,,,1,1
+E9758,Castalia,Editora,9758,,,,Castalia,,,1,1
+E9760,"Cadernos do Povo, Revista Internacional da Lusofonia",Editora,9760,,,,Cadernos do Povo,,,1,1
+E9762,"Concello de Lugo, Concellería de Cultura e Educación",Editora,9762,,,,Concello de Lugo,,,1,1
+E9785,Galinova Editorial,Editora,9785,,,,Galinova Editorial,,,2,2
+E9794,El ojo de Lilith,Editora,9794,,,,El ojo de Lilith,,,2,2
+E9814,A Deputación,Editora,9814,,,,Deputación de Lugo,,,1,1
+E9838,Brais González Pérez,Editora,9838,,,,Edição de autor,,,1,1
+E9844,Calidum,Editora,9844,,,,Calidum,,,1,1
+E9850,DePaul University,Editora,9850,,,,DePaul University,,,1,1
+E9855,Bibliotex Editor,Editora,9855,,,,Bibliotex,,,1,1
+E9868,Papeis do Valeirón,Editora,9868,,,,Papeis do Valeirón,,,1,1
+E9873,Comisión de Festas de Santa Cruz de Montaos,Editora,9873,,,,Comisión de Festas de Santa Cruz de Montaos,,,1,1
+E9935,Paco de Tano,Editora,9935,,,,Edição de autor,,,1,1
+E9942,B. Barreiro,Editora,9942,,,,Edição de autor,,,1,1
+E9952,Editions Robert et Lydie Dutrou,Editora,9952,,,,Editions Robert et Lydie Dutrou,,,1,1
+E9953,Raiña Lupa,Editora,9953,,,,Raiña Lupa,,,1,1
+E9958,Concello do Barco,Editora,9958,,,,Concello do Barco,,,1,1
+E9967,KRK Ediciones,Editora,9967,,,,KRK Ediciones,,,1,1
+E9971,Simancas Ediciones,Editora,9971,,,,Simancas Ediciones,,,1,1
+E9973,Luís Pirucha,Editora,9973,,,,Edição de autor,,,2,1
+E9975,La Oficina,Editora,9975,,,,La Oficina Ediciones,,,1,1
+E9980,Momentum,Editora,9980,,,,Momentum,,,1,1
+E9984,Centro de Ediciones de la Diputación Provincial de Málaga,Editora,9984,,,,Centro de Ediciones de la Diputación de Málaga,,,1,1
+E9988,[Javier Diéguez Diéguez],Editora,9988,,,,Edição de autor,,,1,1
+E9994,Grupo Poético Quirogués Arco da Vella,Editora,9994,,,,Grupo Poético Quirogués Arco da Vella,,,1,1
+E10000,Ediciones Anxelo Novo,Editora,10000,,,,Ediciones de Anxelo Novo,,,1,1
+E10072,Xuntanza,Editora,10072,,,,Xuntanza,,,1,1
+E10079,Son Relanzo,Editora,10079,,,,Son Relanzo,,,1,1
+E10085,O Ollo de Lilith,Editora,10085,,,,El ojo de Lilith,,,1,1
+E10095,"Universidade de Vigo, Servizo de Publicacións",Editora,10095,,,,Universidade de Vigo,,,1,1
+E10101,Alén Miño,Editora,10101,,,,Alén Miño,,,1,1
+E10110,Alfaguara,Editora,10110,,,,Alfaguara,,,1,1
+E10128,Diario El País,Editora,10128,,,,Diario El País,,,1,1
+E10201,M. Moleiro,Editora,10201,,,,M. Moleiro,,,1,1
+E10202,Centro de Estudios Rosalianos,Editora,10202,,,,"Centro de Estudios Rosalianos, Fundación Rosalía de Castro",,,1,1
+E10206,Sociedad Estatal de Conmemoraciones Culturales,Editora,10206,,,,Sociedad Estatal de Conmemoraciones Culturales,,,1,1
+E10211,Lata de Sal,Editora,10211,,,,Lata de Sal,,,1,1
+E10248,"Consello Social, Universidade de Vigo",Editora,10248,,,,Universidade de Vigo,,,1,1
+E10288,Camiño do Faro,Editora,10288,,,,Camiño do Faro,,,1,1
+E10293,Carmichael Alonso,Editora,10293,,,,Edição de autor,,,1,1
+E10298,Lulu.com,Editora,10298,,,,Lulu.com,,,1,1
+E10315,Quasi,Editora,10315,,,,Quasi,,,1,1
+E10317,Asociación Cultural A Cepa,Editora,10317,,,,Asociación Cultural A Cepa,,,1,1
+E10322,Editorial Ledoria JMR,Editora,10322,,,,Editorial Ledoria JMR,,,1,1
+E10324,Ámboa Editorial,Editora,10324,,,,Ámboa,,,1,1
+E10329,Ronso,Editora,10329,,,,Ronso,,,1,1
+E10330,"Secretaría de Estado de Cultura, Ministerio de Cultura, Gobierno de España",Editora,10330,,,,"Secretaría de Estado de Cultura, Ministerio de Cultura, Gobierno de España",,,1,1
+E10331,Sial Pigmalión,Editora,10331,,,,Sial Pigmalión,1997,,7,6
+E10911,"Ferreirós Sánchez-Guisande, Cristina",Editora,10911,,,,Edição de autor,,,1,1
+E10940,aCentral Folque,Editora,10940,,,,aCentral Folque,2008,,1,1
