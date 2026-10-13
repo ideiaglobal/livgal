@@ -3,7 +3,7 @@
 Esclarecimentos metodológicos e dúvidas em aberto da operação que constrói duas redes de relações a partir da exportação `Export_livpoesia_20261012104901.json`, usando as associações diretas de autoria dos livros e os registos de relação (*relationships*).
 
 - Scripts: `redes.py` (ficheiros de exportação) e `redes_html.py` com `redes_modelo.html` (página interativa)
-- Resultados: quatro ficheiros por rede (`rede1-prologuistas-autores…` e `rede2-autores-editoras…`) e a página `redes.html`
+- Resultados: quatro ficheiros por rede (`rede1-prologuistas-autores…` e `rede2-autores-editoras…`) e a página `docs/redes.html`
 
 ## O que foi pedido
 
@@ -114,7 +114,7 @@ Os CSV usam as colunas `Id`, `Label`, `Source`, `Target` e `Weight`, que o Gephi
 
 ### Página interativa
 
-`redes.html` abre-se diretamente no navegador, sem instalar nada e sem ligação à internet: os dados e a disposição dos nós vão dentro do ficheiro.
+`docs/redes.html` abre-se diretamente no navegador, sem instalar nada e sem ligação à internet: os dados e a disposição dos nós vão dentro do ficheiro.
 
 - **Separadores:** uma rede de cada vez.
 - **Filtros:** intervalo de anos, só livros com uma etiqueta, excluir livros com uma etiqueta, excluir traduções e mínimo de livros por ligação. Os filtros aplicam-se aos livros; as ligações e o tamanho dos nós recalculam-se.
@@ -122,7 +122,7 @@ Os CSV usam as colunas `Id`, `Label`, `Source`, `Target` e `Weight`, que o Gephi
 - **Cores:** na rede 1, prologuista, autor/a prologado/a e quem tem os dois papéis; na rede 2, pessoa e editora. Na rede 1 as cores recalculam-se com os filtros.
 - **Disposição:** calculada uma vez por `redes_html.py` (algoritmo de forças, ao estilo do ForceAtlas 2) e fixa; os filtros escondem ligações mas não mudam as posições.
 
-Para atualizar a página com uma nova exportação, corre-se `python3 redes_html.py <export.json> .` (demora cerca de meio minuto).
+Para atualizar a página com uma nova exportação, corre-se `python3 redes/redes_html.py <export.json>` (demora cerca de meio minuto); a página é escrita em `docs/`.
 
 ### Como visualizar no Gephi
 
@@ -173,6 +173,6 @@ Há 12 livros com duas pessoas no campo Autoria, que ficaram fora das duas redes
 
 Os 567 livros sem ninguém no campo Autoria têm 958 relações com a função «autor/a»; são na maioria coletivos. Ficam fora por definição, mas podiam dar uma terceira rede, de coautoria em volumes coletivos.
 
-### 9. Publicar a página
+### 9. Publicar a página (resolvido)
 
-A página `redes.html` pode ser servida pelo GitHub Pages a partir do repositório, o que daria um endereço público para a partilhar. Interessa?
+Decidido: a página publica-se com o GitHub Pages, a partir da pasta `docs/` do ramo `main`. O endereço é <https://ideiaglobal.github.io/livgal/redes.html>, com uma página de entrada em <https://ideiaglobal.github.io/livgal/>. A página publicada é pública: mostra nomes, datas e títulos.

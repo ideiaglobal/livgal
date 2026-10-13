@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 """
-Gera uma página HTML interativa (redes.html) com as duas redes de relações:
+Gera uma página HTML interativa (docs/redes.html) com as duas redes de relações:
 
   Rede 1  prologuistas -> autores/as de livros individuais
   Rede 2  autores/as de livros individuais -- editoras (pelo nome normalizado)
 
 Uso:
     python3 redes_html.py Export_livpoesia.json [pasta_saida]
+
+Sem pasta de saída, a página vai para a pasta docs/ do repositório, que é a
+que o GitHub Pages publica.
 
 A página não depende de nada externo: os dados e a disposição dos nós vão
 dentro do ficheiro, que se abre diretamente no navegador. A disposição é
@@ -150,7 +153,7 @@ def construir(caminho):
 def main():
     if len(sys.argv) < 2:
         raise SystemExit(__doc__)
-    saida = Path(sys.argv[2] if len(sys.argv) > 2 else ".")
+    saida = Path(sys.argv[2]) if len(sys.argv) > 2 else Path(__file__).resolve().parent.parent / "docs"
     dados = construir(sys.argv[1])
     modelo = (Path(__file__).resolve().parent / "redes_modelo.html").read_text(encoding="utf-8")
     json_dados = json.dumps(dados, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")

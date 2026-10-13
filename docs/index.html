@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="pt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Projeto Livro Galego — dados e visualizações</title>
+<style>
+  :root { --fundo: #f9f9f7; --superficie: #fcfcfb; --tinta: #0b0b0b; --tinta2: #52514e; --linha: #e2e1dc; --ligacao: #1c5cab; }
+  @media (prefers-color-scheme: dark) {
+    :root { --fundo: #0d0d0d; --superficie: #1a1a19; --tinta: #ffffff; --tinta2: #c3c2b7; --linha: #383835; --ligacao: #86b6ef; }
+  }
+  body { margin: 0; background: var(--fundo); color: var(--tinta); font: 16px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width: 720px; margin: 0 auto; padding: 48px 16px 64px; }
+  h1 { font-size: 28px; line-height: 1.2; margin: 0 0 6px; }
+  .subtitulo { color: var(--tinta2); margin: 0 0 28px; }
+  h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .05em; color: var(--tinta2); margin: 36px 0 10px; }
+  a { color: var(--ligacao); }
+  .cartao { display: block; background: var(--superficie); border: 1px solid var(--linha); border-radius: 8px;
+            padding: 16px 18px; text-decoration: none; color: inherit; }
+  .cartao:hover { border-color: var(--tinta2); }
+  .cartao strong { display: block; font-size: 18px; color: var(--ligacao); margin-bottom: 4px; }
+  .cartao span { color: var(--tinta2); font-size: 15px; }
+  footer { margin-top: 44px; padding-top: 16px; border-top: 1px solid var(--linha); color: var(--tinta2); font-size: 14px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Projeto Livro Galego</h1>
+  <p class="subtitulo">Campo Editorial e Cultura Autonómica: institucionalização e industrialização do livro na Galiza (1978-2026)</p>
+
+  <p>Dados e visualizações produzidos a partir da base de dados bibliográfica de poesia galega publicada entre 2000 e 2019.</p>
+
+  <h2>Visualizações</h2>
+  <a class="cartao" href="redes.html">
+    <strong>Redes de relações</strong>
+    <span>Duas redes interativas: prologuistas e autores/as de livros individuais; autores/as e editoras. Com filtros por ano, etiqueta e tradução.</span>
+  </a>
+
+  <footer>
+    <a href="https://livrogalego.net/">livrogalego.net</a> ·
+    <a href="https://github.com/ideiaglobal/livgal">Código e dados no GitHub</a>
+  </footer>
+</main>
+</body>
+</html>
